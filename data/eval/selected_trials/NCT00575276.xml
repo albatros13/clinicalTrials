@@ -1,0 +1,195 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00575276</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC20070426</org_study_id>
+    <nct_id>NCT00575276</nct_id>
+  </id_info>
+  <brief_title>Study of Pain Perception Between Males and Females Following Laparoscopic Cholecystectomy</brief_title>
+  <official_title>Sex-Dependent Modulation of Clinical Outcomes Following Laparoscopic Cholecystectomy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center at San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center at San Antonio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at the differences in inflammatory mediators in gallbladder tissue between&#xD;
+      males and females and the possibility that these differences contribute to a higher&#xD;
+      perception of post-operative pain in females following laparoscopic cholecystectomy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A patient's gender is a strong and significant predictor for substantial differences in&#xD;
+      clinical outcomes such as postoperative pain, analgesic use, and surgical complications&#xD;
+      (gangrenous gallbladder, empyema of the gallbladder, gallbladder perforation, and conversion&#xD;
+      to open surgery) following laparoscopic cholecystectomy (Bingener et al., 2002; Bingener et&#xD;
+      al., 2003; Uchiyama et al., 2006). Although females present for laparoscopic cholecystectomy&#xD;
+      more frequently (76% of the cases); the prevalence of surgical complications during&#xD;
+      cholecystectomy is higher in men, most frequently because of inflammation or deterioration of&#xD;
+      the gallbladder (Bingener et al., 2002; Bingener et al., 2003; Stefanidis et al., 2006).&#xD;
+      Post-operatively, however, females report significantly greater pain scores and require&#xD;
+      larger amounts of analgesics (Uchiyama et al., 2006), suggesting that although surgeries are&#xD;
+      completed with fewer problems, females still report more post-operative pain. Sex-related&#xD;
+      differences in pain thresholds and tolerance to thermal, pressure, and electrical stimuli in&#xD;
+      experimental pain models indicate that pain differences are not solely due to psychosocial&#xD;
+      distinctions between the sexes (Riley et al., 1998).&#xD;
+&#xD;
+      There are multiple physiological differences between males and females; however, considerable&#xD;
+      evidence implicates estrogenic sex hormones as critical factors in sex-dependent differences&#xD;
+      in pain (see review by Fillingim and Ness, 2000). It is possible that estrogens alter&#xD;
+      inflammatory mediator profiles in the gallbladder, which subsequently increase sensitization&#xD;
+      of visceral neurons innervating the gallbladder, resulting in increased pain in females. The&#xD;
+      first portion of this study will extend the association of patient sex with clinical outcomes&#xD;
+      to determine whether circulating and/or local estrogen levels correlate with differences in&#xD;
+      peri-operative morbidity, including intra-operative complications, conversion to open&#xD;
+      cholecystectomy, postoperative pain, inadequate wound healing, intra-abdominal infection,&#xD;
+      disability and mortality.&#xD;
+&#xD;
+      Previous studies have demonstrated that the cytokines TNFalpha and IL-1beta alter the&#xD;
+      sensitivity of sensory neurons and increase nociception (Opree and Kress, 2000). To determine&#xD;
+      whether estrogen levels alter the profile of inflammatory mediators within the gallbladder&#xD;
+      and result in an increase in nociceptive thresholds in females, we will correlate circulating&#xD;
+      and/or local levels of estrogens with the amount of inflammatory mediators present within&#xD;
+      laparoscopically excised gallbladder biopsies. Patients who meet the inclusion criteria will&#xD;
+      be recruited from University Hospital in San Antonio. Inflammatory mediators, including the&#xD;
+      cytokines IL-1beta, TNFalpha, IL-8, IL-6, IL-10, and IL-12p70 will be assayed from&#xD;
+      interstitial fluid of biopsies from the fundus and infundibulum of the gallbladder. Biopsies&#xD;
+      will be classified according to clinical assessment prior to surgery to control for expected&#xD;
+      differences in inflammatory mediators in acute versus chronic cholecystitis.&#xD;
+&#xD;
+      The immediate effects of this research will be to clearly delineate whether estrogens are&#xD;
+      predictive of improved clinical outcomes following surgery and to determine whether these sex&#xD;
+      hormones correlate with altered production of inflammatory mediators in the gallbladder.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2006</start_date>
+  <completion_date type="Actual">August 2009</completion_date>
+  <primary_completion_date type="Actual">August 2009</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Actual">102</enrollment>
+  <condition>Cholecystitis, Acute</condition>
+  <condition>Cholecystitis, Chronic</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <description>Females with acute cholecystitis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <description>Females with Chronic Cholecystitis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <description>Males with acute cholecystitis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <description>Males with Chronic Cholecystitis</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      1 cm biopsies of the body and fundus of the excised gallbladder. Two 4ml blood samples&#xD;
+      collected for DNA analysis with future studies.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Outpatient General Surgery patients indicated for Laparoscopic Cholecystectomy&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males or Non-pregnant females&#xD;
+&#xD;
+          -  Between ages 18-90&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant Females within six months of surgery&#xD;
+&#xD;
+          -  Individuals below age 18 or above age 90&#xD;
+&#xD;
+          -  Previous topical or systemic corticosteroid use within three months of surgery date&#xD;
+&#xD;
+          -  sign and symptoms of neuropathy or self-reported history of diseases or treatments&#xD;
+             known to be associeated with neuropathy&#xD;
+&#xD;
+          -  signs and symptoms of altered immune system or self-reported diseases or treatments&#xD;
+             known to be associated with altered immune function&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kenneth M Hargreaves, DDS, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Health Science Center, San Antonio</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juliana Bingener-Casey, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Health Science Center, San Antonio</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Hospital System</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2012</verification_date>
+  <study_first_submitted>December 15, 2007</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 18, 2007</study_first_posted>
+  <last_update_submitted>March 7, 2012</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 8, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center at San Antonio</investigator_affiliation>
+    <investigator_full_name>Kenneth Hargreaves</investigator_full_name>
+    <investigator_title>Chair Dept. of Endodontics</investigator_title>
+  </responsible_party>
+  <keyword>Pain, Cholecystectomy, Cytokines, Sex Differences</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholecystitis</mesh_term>
+    <mesh_term>Acalculous Cholecystitis</mesh_term>
+    <mesh_term>Cholecystitis, Acute</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

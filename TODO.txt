@@ -1,0 +1,5 @@
+1. LLM trial vs client match
+2. RAG biobert clicialbert and normal with qdrant
+3. spread on brane
+
+export PATH="$PATH:/opt/myapp/bin"

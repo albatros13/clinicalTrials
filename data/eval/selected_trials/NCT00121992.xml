@@ -1,0 +1,1870 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00121992</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GEICAM 9805</org_study_id>
+    <secondary_id>TAX.ES1.301</secondary_id>
+    <nct_id>NCT00121992</nct_id>
+  </id_info>
+  <brief_title>Docetaxel, Doxorubicin (A), Cyclophosphamide (C) (TAC) vs 5-Fluorouracil, A, C (5FAC) Breast Cancer Adjuvant Treatment</brief_title>
+  <official_title>Phase III Randomized Comparing Docetaxel, Doxorubicin and Cyclophosphamide (TAC) vs 5-Fluorouracil, Doxorubicin and Cyclophosphamide (FAC) as Adjuvant Treatment of High Risk Operable Breast Cancer Patients With Negative Axillary Lymph Nodes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spanish Breast Cancer Research Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Spanish Breast Cancer Research Group</source>
+  <brief_summary>
+    <textblock>
+      This is a prospective, non-blinded randomized phase III trial. Patients will be&#xD;
+      post-surgically stratified at inclusion first according to the participating institution,&#xD;
+      then according to menopausal status and will be randomly assigned to receive either:&#xD;
+&#xD;
+        -  TAC: Docetaxel 75 mg/m2 as a 1 hour intravenous (i.v.) infusion on day 1 every 3 weeks&#xD;
+           (q3w) in combination with doxorubicin 50 mg/m2 as an i.v. bolus and cyclophosphamide 500&#xD;
+           mg/m2 as an i.v. bolus on day 1 every 3 weeks.&#xD;
+&#xD;
+        -  FAC: 5-fluorouracil 500 mg/m2 as an i.v. bolus on day 1 every 3 weeks in combination&#xD;
+           with doxorubicin 50 mg/m2 as an i.v. bolus and cyclophosphamide 500 mg/m2 as an i.v.&#xD;
+           bolus on day 1 every 3 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objective:&#xD;
+&#xD;
+        -  To compare disease-free survival (DFS) after treatment with docetaxel in combination&#xD;
+           with doxorubicin and cyclophosphamide (TAC) to 5-Fluorouracil in combination with&#xD;
+           doxorubicin and cyclophosphamide (FAC) as adjuvant treatment of high risk operable&#xD;
+           breast cancer patients with negative axillary lymph nodes.&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+        -  To compare overall survival (OS) between the 2 above mentioned arms.&#xD;
+&#xD;
+        -  To compare toxicity and quality of life between the 2 above mentioned arms.&#xD;
+&#xD;
+        -  To evaluate pathologic markers for predicting efficacy (hormonal receptors and human&#xD;
+           epidermal growth factor receptor 2 (HER2) protein expression).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1999</start_date>
+  <completion_date type="Actual">March 6, 2013</completion_date>
+  <primary_completion_date type="Actual">December 2, 2010</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease-free Survival (DFS) Events</measure>
+    <time_frame>10 years</time_frame>
+    <description>DFS is calculated from the date of randomization until the first date of recurrence local, regional or distant, second primary tumor or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>10 years</time_frame>
+    <description>OS was determined from the date of randomization until the date of death for any reason.&#xD;
+OS is calculated from the date of randomization up to the first date of death by any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Number of Participants Who Experienced Adverse Events (AE)</measure>
+    <time_frame>Through study treatment, and average of 4 months</time_frame>
+    <description>Safety was assessed by standard clinical and laboratory tests (haematology, serum chemistry). AE grade were defined by the NCI CTCAE (National Cancer Institute Common Terminology Criteria for Adverse Events) version 1.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Score During Study for Global Health Status Scale</measure>
+    <time_frame>120 weeks</time_frame>
+    <description>The European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) was used.&#xD;
+Questionnaires were self-administered to patients during the 14 days prior to randomisation baseline, at six prospective time points corresponding to chemotherapy cycles, with the time window related to each chemotherapy cycle defined as the period between the day following the first chemotherapy dose of the corresponding cycle and the day of the first dose of the following cycle, and then at 44, 68 and 120 weeks of the study.&#xD;
+The Global Health Status Scale has been used, which is calculated with questions 29 and 30 from the EORTC QLQ-C30. From this scale, the best score is the highest score observed during study (of all the questionnaires completed by patient). In this scale, scores range from 0 to 100 and a high score represents a high level of functioning or HRQoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Disease Free Survival Events in Hormone-receptor Positive and Human Epidermal Growth Factor Receptor 2 (HER2) Positive Status Subgroup</measure>
+    <time_frame>10 year</time_frame>
+    <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Free Survival in Hormonal Receptor Positive and HER2 Negative Subgroup</measure>
+    <time_frame>10 year</time_frame>
+    <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.&#xD;
+Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Free Survival in Hormonal Receptor Negative and HER2 Positive Subgroup</measure>
+    <time_frame>10 year</time_frame>
+    <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Free Survival in Hormonal Receptor Negative and HER2 Negative Subgroup</measure>
+    <time_frame>10 year</time_frame>
+    <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1060</enrollment>
+  <condition>Breast Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Arm A: FAC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: TAC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <arm_group_label>Arm B: TAC</arm_group_label>
+    <other_name>Taxotere</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-fluorouracil</intervention_name>
+    <arm_group_label>Arm A: FAC</arm_group_label>
+    <other_name>Adrucil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin</intervention_name>
+    <arm_group_label>Arm A: FAC</arm_group_label>
+    <arm_group_label>Arm B: TAC</arm_group_label>
+    <other_name>adriamycin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <arm_group_label>Arm A: FAC</arm_group_label>
+    <arm_group_label>Arm B: TAC</arm_group_label>
+    <other_name>cytoxan</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+          -  Operable breast cancer patients (T1-T3) with negative axillary lymph nodes (10&#xD;
+             axillary nodes dissection) and high risk criteria according to St. Gallen consensus&#xD;
+             criteria.&#xD;
+&#xD;
+          -  Histologically proven breast cancer. Interval between surgery and registration is less&#xD;
+             than 60 days.&#xD;
+&#xD;
+          -  Definitive surgical treatment must be either mastectomy, or breast conservative&#xD;
+             surgery. Margins of resected specimen from surgery must be histologically free of&#xD;
+             invasive adenocarcinoma and ductal carcinoma in-situ (DCIS). Lobular carcinoma in-situ&#xD;
+             is not considered as positive margin.&#xD;
+&#xD;
+          -  Patients without proven metastatic disease.&#xD;
+&#xD;
+          -  Estrogen and progesterone receptors performed on the primary tumour prior to&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Age between 18 years and 70 years.&#xD;
+&#xD;
+          -  Karnofsky performance status index &gt; 80 %.&#xD;
+&#xD;
+          -  Adequate hepatic, renal and heart functions.&#xD;
+&#xD;
+          -  Adequate hematology levels.&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior systemic anticancer therapy for breast cancer (immunotherapy, hormonotherapy,&#xD;
+             chemotherapy).&#xD;
+&#xD;
+          -  Prior anthracycline therapy or taxoids (paclitaxel, docetaxel) for any malignancy.&#xD;
+&#xD;
+          -  Prior radiation therapy for breast cancer.&#xD;
+&#xD;
+          -  Bilateral invasive breast cancer.&#xD;
+&#xD;
+          -  Pregnant, or lactating patients.&#xD;
+&#xD;
+          -  Patients of childbearing potential must implement adequate non-hormonal contraceptive&#xD;
+             measures during study treatment .&#xD;
+&#xD;
+          -  Any T4 or N1-3 or M1 breast cancer.&#xD;
+&#xD;
+          -  Pre-existing motor or sensory neurotoxicity of a severity grade 2 by NCI criteria.&#xD;
+&#xD;
+          -  Other serious illness or medical condition&#xD;
+&#xD;
+          -  Past or current history of neoplasm other than breast carcinoma.&#xD;
+&#xD;
+          -  Ipsilateral ductal carcinoma in-situ (DCIS) of the breast.&#xD;
+&#xD;
+          -  Lobular carcinoma in-situ (LCIS) of the breast.&#xD;
+&#xD;
+          -  Chronic treatment with corticosteroids unless initiated &gt; 6 months prior to study&#xD;
+             entry and at low dose&#xD;
+&#xD;
+          -  Concurrent treatment with ovarian hormonal replacement therapy. Prior treatment should&#xD;
+             be stopped before study entry.&#xD;
+&#xD;
+          -  Definite contraindications for the use of corticosteroids.&#xD;
+&#xD;
+          -  Concurrent treatment with other experimental drugs.&#xD;
+&#xD;
+          -  Participation in another clinical trial with any investigational not marketed drug&#xD;
+             within 30 days prior to study entry.&#xD;
+&#xD;
+          -  Concurrent treatment with any other anti-cancer therapy.&#xD;
+&#xD;
+          -  Male patients.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital Universitario San Carlos</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Spanish Breast Cancer Research Group</name>
+      <address>
+        <city>San Sebastián de los Reyes</city>
+        <state>Madrid</state>
+        <zip>28700</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>http://www.geicam.org</url>
+    <description>home page of the Spanish Breast Cancer Research Group</description>
+  </link>
+  <reference>
+    <citation>Martin M, Pienkowski T, Mackey J, Pawlicki M, Guastalla JP, Weaver C, Tomiak E, Al-Tweigeri T, Chap L, Juhos E, Guevin R, Howell A, Fornander T, Hainsworth J, Coleman R, Vinholes J, Modiano M, Pinter T, Tang SC, Colwell B, Prady C, Provencher L, Walde D, Rodriguez-Lescure A, Hugh J, Loret C, Rupin M, Blitz S, Jacobs P, Murawsky M, Riva A, Vogel C; Breast Cancer International Research Group 001 Investigators. Adjuvant docetaxel for node-positive breast cancer. N Engl J Med. 2005 Jun 2;352(22):2302-13.</citation>
+    <PMID>15930421</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>July 18, 2005</study_first_submitted>
+  <study_first_submitted_qc>July 18, 2005</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 21, 2005</study_first_posted>
+  <results_first_submitted>October 13, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 10, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 4, 2020</results_first_posted>
+  <last_update_submitted>November 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>High risk node negative breast cancer</keyword>
+  <keyword>Disease-Free survival</keyword>
+  <keyword>Quality of life</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>For the different subsets (&quot;Hormone-receptor Positive and HER2 PositiveStatus Subjects&quot;, &quot;Hormonal Receptor Positive and HER2 Negative Subjects&quot;, etc.), were assessed by central determination, and no all patients had tumor sample available.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Arm A: FAC</title>
+          <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+        <group group_id="P2">
+          <title>Arm B: TAC</title>
+          <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="521"/>
+                <participants group_id="P2" count="539"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Hormone-receptor Positive and HER2 Positive Status Subjects</title>
+              <participants_list>
+                <participants group_id="P1" count="28"/>
+                <participants group_id="P2" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Hormone-receptor Negative and HER2 Positive Status Subjects</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Hormone-receptor Positive and HER2 Negative Status Subjects</title>
+              <participants_list>
+                <participants group_id="P1" count="209"/>
+                <participants group_id="P2" count="220"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Hormone-receptor Negative and HER2 Negative Status Subjects</title>
+              <participants_list>
+                <participants group_id="P1" count="92"/>
+                <participants group_id="P2" count="103"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="519"/>
+                <participants group_id="P2" count="528"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Treatment not received</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Arm A: FAC</title>
+          <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+        <group group_id="B2">
+          <title>Arm B: TAC</title>
+          <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="521"/>
+            <count group_id="B2" value="539"/>
+            <count group_id="B3" value="1060"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49" lower_limit="23" upper_limit="73"/>
+                    <measurement group_id="B2" value="50" lower_limit="23" upper_limit="74"/>
+                    <measurement group_id="B3" value="49" lower_limit="23" upper_limit="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="521"/>
+                    <measurement group_id="B2" value="539"/>
+                    <measurement group_id="B3" value="1060"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Spain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="475"/>
+                    <measurement group_id="B2" value="487"/>
+                    <measurement group_id="B3" value="962"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Germany</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Poland</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Tumor size</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>≤2 cm</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="249"/>
+                    <measurement group_id="B2" value="285"/>
+                    <measurement group_id="B3" value="534"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;2 to 5 cm</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="258"/>
+                    <measurement group_id="B2" value="241"/>
+                    <measurement group_id="B3" value="499"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;5 cm</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Tumor grade</title>
+          <description>Cancer cells are given a Grade (G) when they are removed from the breast and checked under a microscope. The G is based on how much the cancer cells look like normal cells.&#xD;
+G1 or well differentiated (score 3, 4, or 5): cells are slower-growing, and look more like normal breast tissue.&#xD;
+G2 or moderately differentiated (score 6, 7): cells are growing at a speed of and look like cells somewhere between G1 and 3.&#xD;
+G3 or poorly differentiated (score 8, 9): cells look very different from normal and will probably grow and spread faster.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Grade 1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Grade 2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="230"/>
+                    <measurement group_id="B2" value="216"/>
+                    <measurement group_id="B3" value="446"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Grade 3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="231"/>
+                    <measurement group_id="B2" value="259"/>
+                    <measurement group_id="B3" value="490"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Menopausal status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Premenopausal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="272"/>
+                    <measurement group_id="B2" value="285"/>
+                    <measurement group_id="B3" value="557"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Postmenopausal</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="249"/>
+                    <measurement group_id="B2" value="254"/>
+                    <measurement group_id="B3" value="503"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hormone-receptor status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="349"/>
+                    <measurement group_id="B2" value="344"/>
+                    <measurement group_id="B3" value="693"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="170"/>
+                    <measurement group_id="B2" value="192"/>
+                    <measurement group_id="B3" value="362"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Surgery</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Breast-conserving surgery: With radiation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="247"/>
+                    <measurement group_id="B2" value="287"/>
+                    <measurement group_id="B3" value="534"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Breast-conserving surgery: Without radiation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mastectomy: With radiation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mastectomy: Without radiation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="230"/>
+                    <measurement group_id="B2" value="206"/>
+                    <measurement group_id="B3" value="436"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Disease-free Survival (DFS) Events</title>
+        <description>DFS is calculated from the date of randomization until the first date of recurrence local, regional or distant, second primary tumor or death.</description>
+        <time_frame>10 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease-free Survival (DFS) Events</title>
+          <description>DFS is calculated from the date of randomization until the first date of recurrence local, regional or distant, second primary tumor or death.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="521"/>
+                <count group_id="O2" value="539"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="127"/>
+                    <measurement group_id="O2" value="112"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>OS was determined from the date of randomization until the date of death for any reason.&#xD;
+OS is calculated from the date of randomization up to the first date of death by any cause.</description>
+        <time_frame>10 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival (OS)</title>
+          <description>OS was determined from the date of randomization until the date of death for any reason.&#xD;
+OS is calculated from the date of randomization up to the first date of death by any cause.</description>
+          <units>Participants with mortality event</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="521"/>
+                <count group_id="O2" value="539"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57"/>
+                    <measurement group_id="O2" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Number of Participants Who Experienced Adverse Events (AE)</title>
+        <description>Safety was assessed by standard clinical and laboratory tests (haematology, serum chemistry). AE grade were defined by the NCI CTCAE (National Cancer Institute Common Terminology Criteria for Adverse Events) version 1.0.</description>
+        <time_frame>Through study treatment, and average of 4 months</time_frame>
+        <population>The safety analysis was conducted on all patients who started at least one infusion of the study treatment (Arm A 519, and Arm B 532).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Number of Participants Who Experienced Adverse Events (AE)</title>
+          <description>Safety was assessed by standard clinical and laboratory tests (haematology, serum chemistry). AE grade were defined by the NCI CTCAE (National Cancer Institute Common Terminology Criteria for Adverse Events) version 1.0.</description>
+          <population>The safety analysis was conducted on all patients who started at least one infusion of the study treatment (Arm A 519, and Arm B 532).</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="519"/>
+                <count group_id="O2" value="532"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number patients with One AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="519"/>
+                    <measurement group_id="O2" value="532"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>One G3-4 or severe treatment-emergent AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88"/>
+                    <measurement group_id="O2" value="151"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>One serious treatment-emergent AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="119"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>One serious G3-4 treatment-emergent AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of patients discontinued due to AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number patients death due to AE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Best Score During Study for Global Health Status Scale</title>
+        <description>The European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) was used.&#xD;
+Questionnaires were self-administered to patients during the 14 days prior to randomisation baseline, at six prospective time points corresponding to chemotherapy cycles, with the time window related to each chemotherapy cycle defined as the period between the day following the first chemotherapy dose of the corresponding cycle and the day of the first dose of the following cycle, and then at 44, 68 and 120 weeks of the study.&#xD;
+The Global Health Status Scale has been used, which is calculated with questions 29 and 30 from the EORTC QLQ-C30. From this scale, the best score is the highest score observed during study (of all the questionnaires completed by patient). In this scale, scores range from 0 to 100 and a high score represents a high level of functioning or HRQoL.</description>
+        <time_frame>120 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Best Score During Study for Global Health Status Scale</title>
+          <description>The European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) was used.&#xD;
+Questionnaires were self-administered to patients during the 14 days prior to randomisation baseline, at six prospective time points corresponding to chemotherapy cycles, with the time window related to each chemotherapy cycle defined as the period between the day following the first chemotherapy dose of the corresponding cycle and the day of the first dose of the following cycle, and then at 44, 68 and 120 weeks of the study.&#xD;
+The Global Health Status Scale has been used, which is calculated with questions 29 and 30 from the EORTC QLQ-C30. From this scale, the best score is the highest score observed during study (of all the questionnaires completed by patient). In this scale, scores range from 0 to 100 and a high score represents a high level of functioning or HRQoL.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="519"/>
+                <count group_id="O2" value="532"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="79.30" spread="17.64"/>
+                    <measurement group_id="O2" value="77.78" spread="18.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Disease Free Survival Events in Hormone-receptor Positive and Human Epidermal Growth Factor Receptor 2 (HER2) Positive Status Subgroup</title>
+        <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+        <time_frame>10 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Disease Free Survival Events in Hormone-receptor Positive and Human Epidermal Growth Factor Receptor 2 (HER2) Positive Status Subgroup</title>
+          <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Free Survival in Hormonal Receptor Positive and HER2 Negative Subgroup</title>
+        <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.&#xD;
+Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+        <time_frame>10 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Free Survival in Hormonal Receptor Positive and HER2 Negative Subgroup</title>
+          <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.&#xD;
+Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="209"/>
+                <count group_id="O2" value="220"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Free Survival in Hormonal Receptor Negative and HER2 Positive Subgroup</title>
+        <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.</description>
+        <time_frame>10 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Free Survival in Hormonal Receptor Negative and HER2 Positive Subgroup</title>
+          <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease Free Survival in Hormonal Receptor Negative and HER2 Negative Subgroup</title>
+        <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+        <time_frame>10 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm A: FAC</title>
+            <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm B: TAC</title>
+            <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease Free Survival in Hormonal Receptor Negative and HER2 Negative Subgroup</title>
+          <description>Hormone-receptor status and HER2 receptor status was analysed in Paraffin-embedded tumor samples obtained at the time of surgery, and were processed centrally. Disease-Free Survival (DFS) is defined as the interval from the date of randomization to the date of local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="92"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Through study treatment, an average of 18 weeks</time_frame>
+      <desc>The safety analysis were conducted on all patients who started at least one infusion of the study treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Arm A: FAC</title>
+          <description>FAC (5-fluorouracil, doxorubicin, cyclophosphamide): 5-fluorouracil 500 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+5-fluorouracil&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+        <group group_id="E2">
+          <title>Arm B: TAC</title>
+          <description>TAC (docetaxel, doxorubicin, cyclophosphamide): Docetaxel 75 mg/m2 iv on day 1, each 3 weeks, in combination with doxorubicin 50 mg/m2 iv and cyclophosphamide 500 mg/m2 iv&#xD;
+Docetaxel&#xD;
+Doxorubicin&#xD;
+Cyclophosphamide</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>NCI-CTC version 1.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="57" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="53" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="119" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Blood bilirubin</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Carotid artery thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Conjunctivitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Anal fissure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Fever in absence of infection</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="68" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Device related infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Localised infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Postoperative wound infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Skin infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Wound infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Disease progression</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypersensitivity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast cyst</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Breast infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Breast haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Menorrhagia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchopneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Erysipelas</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>NCI-CTC version 1.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="519" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="532" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Conjunctivitis</sub_title>
+                <counts group_id="E1" subjects_affected="104" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="108" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Lacrimation increased</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="387" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="379" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="265" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="292" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="294" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="292" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="147" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="71" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="88" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="50" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="57" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhoids</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Anal abscess</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="NCI-CTC v. 1">Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="305" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="387" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="80" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="118" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="90" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="69" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="88" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Weight increased</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="29" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Hyperhidrosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Vaginal infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Herpes zoster</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="123" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="108" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="71" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="85" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Peripheral Sensory Neuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="83" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Peripheral motor neuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title vocab="NCI-CTC v. 1">Photophobia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Visual impairment</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="27" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Affective disorder</sub_title>
+                <counts group_id="E1" subjects_affected="28" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="25" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Amenorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="121" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Menstruation irregular</sub_title>
+                <counts group_id="E1" subjects_affected="90" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="103" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" subjects_affected="54" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="74" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Metrorrhagia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Vaginal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Lung disorder</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" subjects_affected="508" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="514" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Nail disorder</sub_title>
+                <counts group_id="E1" subjects_affected="77" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="102" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Skin disorder</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="96" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Erythema</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Pigmentation disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="101" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Lymphoedema</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="532"/>
+              </event>
+              <event>
+                <sub_title>Varicose vein</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="519"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="532"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Scientific Director / Medical Lead / Project Manager</name_or_title>
+      <organization>Spanish Breast Cancer Research Group</organization>
+      <phone>+34916592870</phone>
+      <email>geicam@geicam.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

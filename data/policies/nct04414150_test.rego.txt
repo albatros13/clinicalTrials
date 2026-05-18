@@ -1,0 +1,370 @@
+# =============================================================================
+# Test Suite — NCT04414150 Eligibility Policy
+# Run with:  opa test nct04414150_eligibility.rego nct04414150_test.rego -v
+# =============================================================================
+
+package nct04414150_test
+
+import rego.v1
+import data.nct04414150
+
+# ---------------------------------------------------------------------------
+# Shared base: a fully eligible patient
+# All individual tests below override exactly one field to trigger a failure.
+# ---------------------------------------------------------------------------
+
+_eligible_patient := {
+    "patient": {
+        "age": 45,
+        "tumor": {
+            "confirmed_advanced_solid":   true,
+            "failed_standard_of_care":    true,
+            "no_effective_therapy":       false,
+            "measurable_lesion_recist11": true,
+            "brain_metastases": {
+                "present":                        false,
+                "treated":                        false,
+                "stable_months":                  0,
+                "steroids_discontinued_weeks":    0
+            }
+        },
+        "performance":  {"ecog_status": 1},
+        "prognosis":    {"life_expectancy_weeks": 24},
+        "bone_marrow": {
+            "anc_10e9_per_L":                          2.0,
+            "platelets_10e9_per_L":                    120,
+            "hemoglobin_g_per_dL":                     11.5,
+            "blood_products_or_growth_factors_within_14d": false
+        },
+        "hepatic": {
+            "albumin_g_per_dL":        3.5,
+            "total_bilirubin_x_uln":   1.0,
+            "alt_x_uln":               2.0,
+            "ast_x_uln":               2.0
+        },
+        "renal":   {"creatinine_x_uln":  1.0},
+        "cardiac": {"lvef_percent":       60},
+        "autoimmune":  {"known_or_suspected": false},
+        "medications": {
+            "systemic_corticosteroids_within_28d": false,
+            "immunosuppressants_within_28d":       false,
+            "lag3_antibody_prior":                 false
+        },
+        "allergies":     {"severe_monoclonal_antibody": false},
+        "tissue_sample": {"ffpe_available": true, "single_lead_in_dose_only": false}
+    }
+}
+
+# ---------------------------------------------------------------------------
+# T-01: Baseline — fully eligible patient passes
+# ---------------------------------------------------------------------------
+test_eligible_patient_passes if {
+    nct04414150.eligible with input as _eligible_patient
+}
+
+test_eligible_patient_has_no_reasons if {
+    count(nct04414150.reasons) == 0 with input as _eligible_patient
+}
+
+# ---------------------------------------------------------------------------
+# T-02: Age boundary conditions
+# ---------------------------------------------------------------------------
+test_age_too_young_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/age", "value": 17}])
+    not nct04414150.eligible with input as p
+    "I-1: Age must be between 18 and 75 years (inclusive)" in nct04414150.reasons with input as p
+}
+
+test_age_minimum_boundary_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/age", "value": 18}])
+    nct04414150.eligible with input as p
+}
+
+test_age_maximum_boundary_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/age", "value": 75}])
+    nct04414150.eligible with input as p
+}
+
+test_age_too_old_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/age", "value": 76}])
+    not nct04414150.eligible with input as p
+    "I-1: Age must be between 18 and 75 years (inclusive)" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-03: Tumor confirmation and prior treatment
+# ---------------------------------------------------------------------------
+test_no_confirmed_tumor_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/tumor/confirmed_advanced_solid", "value": false}])
+    not nct04414150.eligible with input as p
+}
+
+test_no_prior_treatment_failure_but_no_effective_therapy_passes if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/failed_standard_of_care", "value": false},
+        {"op": "replace", "path": "/patient/tumor/no_effective_therapy",    "value": true}
+    ])
+    nct04414150.eligible with input as p
+}
+
+test_neither_failed_soc_nor_no_therapy_fails if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/failed_standard_of_care", "value": false},
+        {"op": "replace", "path": "/patient/tumor/no_effective_therapy",    "value": false}
+    ])
+    not nct04414150.eligible with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-04: RECIST measurable lesion
+# ---------------------------------------------------------------------------
+test_no_measurable_lesion_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/tumor/measurable_lesion_recist11", "value": false}])
+    not nct04414150.eligible with input as p
+    "I-3: At least one measurable lesion required per RECIST v1.1" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-05: ECOG performance status
+# ---------------------------------------------------------------------------
+test_ecog_0_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/performance/ecog_status", "value": 0}])
+    nct04414150.eligible with input as p
+}
+
+test_ecog_2_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/performance/ecog_status", "value": 2}])
+    not nct04414150.eligible with input as p
+    "I-4: ECOG performance status must be 0 or 1" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-06: Life expectancy
+# ---------------------------------------------------------------------------
+test_life_expectancy_exactly_12_weeks_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/prognosis/life_expectancy_weeks", "value": 12}])
+    nct04414150.eligible with input as p
+}
+
+test_life_expectancy_11_weeks_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/prognosis/life_expectancy_weeks", "value": 11}])
+    not nct04414150.eligible with input as p
+    "I-5: Life expectancy must be at least 12 weeks" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-07: Bone marrow — each threshold independently
+# ---------------------------------------------------------------------------
+test_anc_below_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/bone_marrow/anc_10e9_per_L", "value": 1.4}])
+    not nct04414150.eligible with input as p
+    "I-6: Absolute neutrophil count must be ≥1.5 ×10⁹/L" in nct04414150.reasons with input as p
+}
+
+test_platelets_below_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/bone_marrow/platelets_10e9_per_L", "value": 89}])
+    not nct04414150.eligible with input as p
+    "I-6: Platelet count must be ≥90 ×10⁹/L" in nct04414150.reasons with input as p
+}
+
+test_hemoglobin_below_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/bone_marrow/hemoglobin_g_per_dL", "value": 8.9}])
+    not nct04414150.eligible with input as p
+    "I-6: Hemoglobin must be ≥9 g/dL" in nct04414150.reasons with input as p
+}
+
+test_blood_products_within_14d_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/bone_marrow/blood_products_or_growth_factors_within_14d", "value": true}])
+    not nct04414150.eligible with input as p
+    "I-6: Blood products or cell growth factors must not have been administered within 14 days before study drug initiation" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-08: Hepatic function
+# ---------------------------------------------------------------------------
+test_albumin_below_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/hepatic/albumin_g_per_dL", "value": 2.9}])
+    not nct04414150.eligible with input as p
+    "I-7: Serum albumin must be ≥3.0 g/dL" in nct04414150.reasons with input as p
+}
+
+test_bilirubin_above_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/hepatic/total_bilirubin_x_uln", "value": 1.6}])
+    not nct04414150.eligible with input as p
+    "I-7: Total bilirubin must be ≤1.5× ULN" in nct04414150.reasons with input as p
+}
+
+test_alt_above_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/hepatic/alt_x_uln", "value": 3.1}])
+    not nct04414150.eligible with input as p
+    "I-7: ALT (alanine aminotransferase) must be ≤3.0× ULN" in nct04414150.reasons with input as p
+}
+
+test_ast_above_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/hepatic/ast_x_uln", "value": 3.1}])
+    not nct04414150.eligible with input as p
+    "I-7: AST (aspartate aminotransferase) must be ≤3.0× ULN" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-09: Renal function
+# ---------------------------------------------------------------------------
+test_creatinine_above_threshold_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/renal/creatinine_x_uln", "value": 1.26}])
+    not nct04414150.eligible with input as p
+    "I-8: Serum creatinine must be ≤1.25× ULN" in nct04414150.reasons with input as p
+}
+
+test_creatinine_at_threshold_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/renal/creatinine_x_uln", "value": 1.25}])
+    nct04414150.eligible with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-10: Cardiac function
+# ---------------------------------------------------------------------------
+test_lvef_below_50_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/cardiac/lvef_percent", "value": 49}])
+    not nct04414150.eligible with input as p
+    "I-9: Left ventricular ejection fraction must be ≥50%" in nct04414150.reasons with input as p
+}
+
+test_lvef_exactly_50_passes if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/cardiac/lvef_percent", "value": 50}])
+    nct04414150.eligible with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-11: FFPE tissue sample
+# ---------------------------------------------------------------------------
+test_no_ffpe_sample_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/tissue_sample/ffpe_available", "value": false}])
+    not nct04414150.eligible with input as p
+    "I-10: Formalin-fixed, paraffin-embedded (FFPE) tumor sample must be available" in nct04414150.reasons with input as p
+}
+
+test_no_ffpe_but_single_lead_in_dose_passes if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tissue_sample/ffpe_available",        "value": false},
+        {"op": "replace", "path": "/patient/tissue_sample/single_lead_in_dose_only", "value": true}
+    ])
+    nct04414150.eligible with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-12: Exclusion — autoimmune disease
+# ---------------------------------------------------------------------------
+test_autoimmune_disease_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/autoimmune/known_or_suspected", "value": true}])
+    not nct04414150.eligible with input as p
+    "E-1: Known or suspected autoimmune disease is an exclusion criterion" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-13: Exclusion — immunosuppressants
+# ---------------------------------------------------------------------------
+test_corticosteroids_within_28d_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/medications/systemic_corticosteroids_within_28d", "value": true}])
+    not nct04414150.eligible with input as p
+    "E-2: Use of systemic corticosteroids within 28 days before study drug administration is not permitted" in nct04414150.reasons with input as p
+}
+
+test_immunosuppressants_within_28d_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/medications/immunosuppressants_within_28d", "value": true}])
+    not nct04414150.eligible with input as p
+    "E-3: Use of systemic immunosuppressive agents within 28 days before study drug administration is not permitted" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-14: Exclusion — allergy
+# ---------------------------------------------------------------------------
+test_severe_mab_allergy_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/allergies/severe_monoclonal_antibody", "value": true}])
+    not nct04414150.eligible with input as p
+    "E-4: History of severe allergic reaction to monoclonal antibodies is an exclusion criterion" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-15: Exclusion — prior LAG-3 treatment
+# ---------------------------------------------------------------------------
+test_lag3_prior_treatment_fails if {
+    p := json.patch(_eligible_patient, [{"op": "replace", "path": "/patient/medications/lag3_antibody_prior", "value": true}])
+    not nct04414150.eligible with input as p
+    "E-5: Prior treatment with a LAG-3 antibody is an exclusion criterion" in nct04414150.reasons with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-16: Brain metastases — conditional inclusion edge cases
+# ---------------------------------------------------------------------------
+
+# Untreated brain mets → always excluded
+test_untreated_brain_mets_fails if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/present", "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/treated", "value": false}
+    ])
+    not nct04414150.eligible with input as p
+    "E-6: Untreated brain metastases are an exclusion criterion" in nct04414150.reasons with input as p
+}
+
+# Treated but stable only 3 weeks → excluded
+test_treated_brain_mets_unstable_fails if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/present",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/treated",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/stable_months",               "value": 0.75},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/steroids_discontinued_weeks", "value": 3}
+    ])
+    not nct04414150.eligible with input as p
+    "E-6: Treated brain metastases must be stable for at least 1 month" in nct04414150.reasons with input as p
+}
+
+# Treated, stable 6 weeks, but steroids stopped only 1 week ago → excluded
+test_treated_brain_mets_steroids_too_recent_fails if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/present",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/treated",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/stable_months",               "value": 1.5},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/steroids_discontinued_weeks", "value": 1}
+    ])
+    not nct04414150.eligible with input as p
+    "E-6: Steroids (prednisone or equivalent) must have been discontinued for at least 2 weeks before study entry" in nct04414150.reasons with input as p
+}
+
+# Treated, stable ≥1 month, steroids off ≥2 weeks → eligible
+test_treated_brain_mets_meeting_all_conditions_passes if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/present",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/treated",                     "value": true},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/stable_months",               "value": 2},
+        {"op": "replace", "path": "/patient/tumor/brain_metastases/steroids_discontinued_weeks", "value": 3}
+    ])
+    nct04414150.eligible with input as p
+}
+
+# ---------------------------------------------------------------------------
+# T-17: Multiple simultaneous failures accumulate correctly
+# ---------------------------------------------------------------------------
+test_multiple_failures_accumulate if {
+    p := json.patch(_eligible_patient, [
+        {"op": "replace", "path": "/patient/age",                                       "value": 80},
+        {"op": "replace", "path": "/patient/performance/ecog_status",                  "value": 3},
+        {"op": "replace", "path": "/patient/bone_marrow/anc_10e9_per_L",               "value": 0.5},
+        {"op": "replace", "path": "/patient/autoimmune/known_or_suspected",             "value": true},
+        {"op": "replace", "path": "/patient/medications/lag3_antibody_prior",          "value": true}
+    ])
+    not nct04414150.eligible with input as p
+    r := nct04414150.reasons with input as p
+    count(r) == 5
+}
+
+# ---------------------------------------------------------------------------
+# T-18: Summary document is always populated
+# ---------------------------------------------------------------------------
+test_summary_contains_trial_id if {
+    nct04414150.summary.trial == "NCT04414150" with input as _eligible_patient
+}
+
+test_summary_reflects_eligibility if {
+    nct04414150.summary.eligible with input as _eligible_patient
+}

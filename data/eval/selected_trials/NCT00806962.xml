@@ -1,0 +1,343 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00806962</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LV01-102</org_study_id>
+    <nct_id>NCT00806962</nct_id>
+  </id_info>
+  <brief_title>Phase 1 Norwalk Vaccine Study</brief_title>
+  <official_title>Randomized Double-Blind Placebo-Controlled Phase 1, Safety and Immunogenicity Study of Two Dosages of Intranasal Norwalk Virus-like Particle Vaccine ( Norwalk VLP Antigen, MPL®, Chitosan, Mannitol, and Sucrose) Compared to Adjuvant/Excipients (MPL®, Chitosan, Mannitol, and Sucrose) and to Placebo (Empty Device</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>LigoCyte Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, double blind, multi-site, study in healthy adults, comparing safety and&#xD;
+      immunogenicity of two dosage levels of Norwalk VLP Vaccine with adjuvant/excipients and with&#xD;
+      placebo controls&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+        -  Safety as determined by occurrence of local intranasal symptoms or other symptoms as&#xD;
+           reported by a self-administered memory aid for 7 days after each vaccination and&#xD;
+           hematology, blood chemistry and physical examinations performed by the clinical research&#xD;
+           staff&#xD;
+&#xD;
+        -  Subjects will also be monitored for Serious Adverse Events (SAEs), and onset of any new&#xD;
+           medical conditions for 180 days following the last study vaccinations (Day 201).&#xD;
+&#xD;
+      Secondary Objectives&#xD;
+&#xD;
+      Evaluations of immunogenicity as determined by:&#xD;
+&#xD;
+        -  Geometric mean titers and seroconversion rate of serum anti- Norwalk VLP IgG and IgA&#xD;
+&#xD;
+        -  Stimulation of anti-Norwalk VLP IgA antibody secreting cells (ASC)&#xD;
+&#xD;
+        -  Presence of antigen specific memory B-cell response&#xD;
+&#xD;
+      Cells will be collected and stored for possible future evaluation of Norwalk VLP-specific&#xD;
+      cell-mediated immune (CMI) responses&#xD;
+&#xD;
+      Study Hypothesis:&#xD;
+&#xD;
+      The incidence of adverse events after intranasal Norwalk VLP Vaccine will be the same as the&#xD;
+      incidence of adverse events after intranasal adjuvant/excipients alone. Norwalk VLP Vaccine&#xD;
+      and adjuvant/excipients will have a higher incidence of mild to moderate nasal adverse events&#xD;
+      compared to placebo but similar incidence of other adverse events.&#xD;
+&#xD;
+      Two doses of the 100 µg of Norwalk VLP Vaccine will be more immunogenic than two doses of 50&#xD;
+      µg of Norwalk VLP Vaccine. The post-vaccination serum antibody responses, the number of&#xD;
+      antibody secreting cells (ASC) and IgG and IgA memory B-cell responses directed against&#xD;
+      Norwalk Virus antigen will be increased after Norwalk VLP Vaccine compared to&#xD;
+      adjuvant/excipients and to placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2008</start_date>
+  <completion_date type="Actual">October 2009</completion_date>
+  <primary_completion_date type="Actual">October 2009</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>adverse events</measure>
+    <time_frame>seven days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>immunogenicity</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">61</enrollment>
+  <condition>Norovirus</condition>
+  <arm_group>
+    <arm_group_label>Vaccine Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>50 µg Norwalk VLP Vaccine + Adjuvant/Excipients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 µg Norwalk VLP Vaccine + Adjuvant/Excipients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adjuvant/Excipients (MPL)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>14 mg chitosan, 3 mg mannitol, 3 mg sucrose, and 50 mcg MPL</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Empty device</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Empty device that contains no dry powder formulation. Actuation of the empty intranasal delivery device will deliver a puff of air per device.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adjuvant/Excipients</intervention_name>
+    <description>intranasal,14 mg chitosan, 3 mg mannitol, 3 mg sucrose and 50 mcg of MPL, 2 doses 21 days apart</description>
+    <arm_group_label>Adjuvant/Excipients (MPL)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>intranasal, puff of air, 2 doses, 21 days apart</description>
+    <arm_group_label>Empty device</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Norwalk VLP Vaccine</intervention_name>
+    <description>intranasal, 50mcg, 2 doses--21 days apart</description>
+    <arm_group_label>Vaccine Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Norwalk VLP Vaccine</intervention_name>
+    <description>Intranasal, 100 mcg, 2 doses, 21 days apart</description>
+    <arm_group_label>Vaccine Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed written informed consent&#xD;
+&#xD;
+          2. Age 18 - 50 years, inclusive&#xD;
+&#xD;
+          3. Good general health as determined by a screening evaluation within 30 days before&#xD;
+             administration of Norwalk VLP Vaccine, adjuvant/excipients or placebo&#xD;
+&#xD;
+          4. Expressed interest and availability to fulfill the study requirements&#xD;
+&#xD;
+          5. Agrees not to become pregnant from the time of study enrollment until at least 56 days&#xD;
+             after the last administration of Norwalk VLP Vaccine, adjuvant/excipients or placebo;&#xD;
+             if a woman is sexually active and capable of conception (i.e., no history of&#xD;
+             hysterectomy or tubal ligation), she must agree to use hormonal or barrier birth&#xD;
+             control. A woman is eligible if she is monogamous with a male who has had a vasectomy.&#xD;
+&#xD;
+          6. Demonstrated to be an H type-1 antigen secretor&#xD;
+&#xD;
+          7. Agrees not to participate in another clinical trial with an investigational product&#xD;
+             for the entire duration of the study (six months after the last study dose i.e. 201&#xD;
+             days)&#xD;
+&#xD;
+          8. Agrees to storage of unused clinical specimens for an indefinite period of time only&#xD;
+             for those specimens collected by the University of Maryland CVD for use in future&#xD;
+             research at the CVD. [A University of Maryland site-specific inclusion criterion]&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. History of any of the following medical illnesses&#xD;
+&#xD;
+               -  Chronic rhinitis, runny nose, sneezing&#xD;
+&#xD;
+               -  Clinically significant nose bleed within the last year&#xD;
+&#xD;
+               -  Diabetes&#xD;
+&#xD;
+               -  Cancer&#xD;
+&#xD;
+               -  Heart disease (hospitalization for a heart attack, arrhythmia, or syncope)&#xD;
+&#xD;
+               -  Unconsciousness (other than a single brief &quot;concussion&quot;)&#xD;
+&#xD;
+               -  Seizures (other than febrile seizures as a child &lt;5 years old)&#xD;
+&#xD;
+               -  Recurrent infections (more than 3 hospitalizations for invasive bacterial&#xD;
+                  infections such as pneumonia or meningitis)&#xD;
+&#xD;
+               -  Asthma requiring treatment with inhaler or medication&#xD;
+&#xD;
+               -  Any current illness requiring daily medication other than vitamins, birth&#xD;
+                  control, or anti-depressant&#xD;
+&#xD;
+          2. Blood Type B or AB, regardless of Rh + or -&#xD;
+&#xD;
+          3. Allergies or hypersensitivity to chitosan, shrimp, other shellfish or any component of&#xD;
+             the vaccine, adjuvant/excipients or placebo&#xD;
+&#xD;
+          4. History of nasal surgery of any type (including tonsilectomy/adenoidectomy)&#xD;
+&#xD;
+          5. Any clinically significant abnormality detected on physical examination, including:&#xD;
+&#xD;
+               -  Murmur (other than a functional murmur)&#xD;
+&#xD;
+               -  Focal neurological abnormality&#xD;
+&#xD;
+               -  Hepatosplenomegaly&#xD;
+&#xD;
+               -  Lymphadenopathy&#xD;
+&#xD;
+               -  Jaundice&#xD;
+&#xD;
+          6. Hypertension (BP &gt; 140/90 mm Hg on two separate days)&#xD;
+&#xD;
+          7. Any lab abnormality, as listed below:&#xD;
+&#xD;
+               -  Neutrophils (WBC) outside the normal range&#xD;
+&#xD;
+               -  Hemoglobin outside the normal range (may be repeated once if outside this limit)&#xD;
+&#xD;
+               -  Platelet count outside the normal range (may be repeated once if outside this&#xD;
+                  limit)&#xD;
+&#xD;
+               -  Creatinine outside the normal range (may be repeated once if outside this limit)&#xD;
+&#xD;
+               -  Glucose &gt; upper limit of normal (may be repeated once if outside this limit)&#xD;
+&#xD;
+               -  AST or ALT outside the normal range (may be repeated once if outside this limit)&#xD;
+&#xD;
+               -  Positive serology for hepatitis C or HIV antibody or hepatitis B surface antigen&#xD;
+&#xD;
+          8. For women, positive serum pregnancy test within 7 days and urine pregnancy test within&#xD;
+             24 hours of administering either dose of Norwalk VLP Vaccine, adjuvant/excipients or&#xD;
+             placebo&#xD;
+&#xD;
+          9. Nursing mother&#xD;
+&#xD;
+         10. Temperature &gt; 38.0 degrees C (100.4 degrees F) or symptoms of an acute self-limited&#xD;
+             illness such as an upper respiratory infection or gastroenteritis within 3 days of&#xD;
+             administration of Norwalk VLP Vaccine, adjuvant/excipients or placebo&#xD;
+&#xD;
+         11. Previous participation in a study of Norovirus vaccines&#xD;
+&#xD;
+         12. Medical, occupational, or family problems as a result of alcohol or illicit drug use&#xD;
+             during the past 12 months&#xD;
+&#xD;
+         13. Receipt of an investigational vaccine or drug within 28 days before administration of&#xD;
+             Norwalk VLP Vaccine, adjuvant/excipients or placebo&#xD;
+&#xD;
+         14. Other condition that in the clinical judgment of the investigator would jeopardize the&#xD;
+             safety or rights of a subject participating in the trial, would render the subject&#xD;
+             unable to comply with the protocol or would interfere with the evaluation of the&#xD;
+             vaccine&#xD;
+&#xD;
+         15. Failure to pass written examination about this study (70% correct answers required to&#xD;
+             pass)[A University of Maryland site-specific exclusion criterion]&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John J Treanor, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Rochester</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Maryland Center for Vaccine Development</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <study_first_submitted>December 10, 2008</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 11, 2008</study_first_posted>
+  <last_update_submitted>May 5, 2015</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 6, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <pending_results>
+    <submitted>May 3, 2017</submitted>
+    <submission_canceled>Unknown</submission_canceled>
+    <submitted>June 9, 2017</submitted>
+    <submission_canceled>Unknown</submission_canceled>
+    <submitted>August 4, 2017</submitted>
+    <returned>February 16, 2018</returned>
+    <submitted>April 27, 2018</submitted>
+    <returned>November 21, 2018</returned>
+    <submitted>March 5, 2019</submitted>
+    <returned>June 7, 2019</returned>
+    <submitted>July 2, 2019</submitted>
+    <returned>August 9, 2019</returned>
+  </pending_results>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

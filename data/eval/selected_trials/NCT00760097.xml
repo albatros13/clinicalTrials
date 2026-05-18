@@ -1,0 +1,251 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00760097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>aTDCS in MDD</org_study_id>
+    <nct_id>NCT00760097</nct_id>
+  </id_info>
+  <brief_title>Adjunctive Transcranial Direct Current Stimulation for Cognition in Major Depression</brief_title>
+  <acronym>aTDCS</acronym>
+  <official_title>Adjunctive Transcranial Direct Current Stimulation for Cognition in Major Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People who have depression often have symptoms besides sad mood. Cognitive symptoms, such as&#xD;
+      poor memory, concentration, and decision making, are associated with disability in many&#xD;
+      spheres of life, and these symptoms often persist even when antidepressant treatment improves&#xD;
+      other symptoms (mood, energy, sleep, anxiety). Antidepressants alone fail to produce full&#xD;
+      remission for many patients, so it is important to study adjunctive treatments which can be&#xD;
+      added onto medication treatment and help restore cognitive function. The method of&#xD;
+      transcranial direct current stimulation (tDCS) has been shown by others to improve working&#xD;
+      memory and cognitive functions, and also to help with other symptoms of depression. tDCS&#xD;
+      involves passing a small, constant current between saline-moistened pads placed on the scalp.&#xD;
+      In this proposed study, 20 individuals with major depression who have cognitive difficulties&#xD;
+      despite taking antidepressants will participate. Over the course of a two-week period, each&#xD;
+      person will receive 5 sessions of either active tDCS or inactive treatments, in addition to&#xD;
+      their medication. Each session lasts for 20 minutes, and will be administered on alternating&#xD;
+      days (M-W-F). Assessments of depressive symptoms, cognitive function, and brain activity will&#xD;
+      be made prior to any sessions, after the first one, and after the fifth (final) session;&#xD;
+      brain function will be assessed by measuring the brain's electrical activity (&quot;brain waves&quot;).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Transcranial direct current stimulation (tDCS), also sometimes termed &quot;DC polarization&quot; or&#xD;
+      &quot;brain polarization,&quot; is a non-invasive procedure that has been used successfully as a&#xD;
+      therapeutic intervention in a number of patient populations. tDCS involves the passing of&#xD;
+      very weak currents through an area of interest of the brain, by placing electrodes on the&#xD;
+      scalp at the appropriate locations. DC polarization has been shown to alter the amplitude of&#xD;
+      evoked potentials in the visual cortex (Antal et al., 2004), and cortical processing in the&#xD;
+      parietal lobe also can be modulated by tDCS (Rogalewski et al., 2004). From a more&#xD;
+      physiologically-relevant perspective, tDCS of the motor cortex has been shown to improve&#xD;
+      motor function in patients following stroke (Hummel and Cohen, 2005; Hummel et al., 2006;&#xD;
+      Boggio et al., 2006b) when applied to the prefrontal cortex. tDCS has been shown to improve&#xD;
+      working memory in healthy individuals (Fregni et al., 2005b), and in individuals with major&#xD;
+      depressive episode. In MDD it has more recently been shown to improve depression rating&#xD;
+      self-report scores (Fregni et al., 2006a) and cognitive performance (Fregni et al., 2006b).&#xD;
+      Performance on a executive function task (go/no-go) was also shown to be enhanced with tDCS&#xD;
+      in adults with MDD (Boggio et al., 2006a). tDCS has been evaluated in subjects with&#xD;
+      Parkinson's disease and found to have therapeutics benefit (compared with inactive treatment)&#xD;
+      on the Unified Parkinson's Disease Rating Scale and neuropsychological measures (reaction&#xD;
+      time, pegboard task) as well as motor evoked potentials (Fregni et al., 2006c).&#xD;
+&#xD;
+      Several recent studies have affirmed the safety of tDCS. Iyer and colleagues (2005) showed&#xD;
+      that, in a sample of 103 subjects, no one asked for the tDCS procedure to be stopped due to&#xD;
+      discomfort. Gandiga and colleagues (2006) compared sham to active tDCS and showed no&#xD;
+      differences in self-report ratings of discomfort. Nitsche and colleagues (2004) performed&#xD;
+      structural MRI scans on healthy individuals who underwent 1 hour exposures to tDCS; they&#xD;
+      found no evidence of structural change in the brain or alterations in blood-brain barrier&#xD;
+      permeability.&#xD;
+&#xD;
+      With regard to persistent challenges in the management of MDD, individuals with depression&#xD;
+      have shown cognitive deficits, particularly in working memory and other frontal lobe&#xD;
+      functions (Dunkin et al., 2000; Sweeney et al., 2000 Jaeger et al., 2006; Rose and Ebmeier&#xD;
+      2006; Rose et al., 2006) and declarative memory (e.g., Beaden et al., 2006). By improving&#xD;
+      cognitive function in subjects with cognitive complaints that persist despite&#xD;
+      pharmacotherapy, it may be possible to improve the completeness of recovery from depression&#xD;
+      and reduce any functional disability (Jaeger et al., 2006).&#xD;
+&#xD;
+      There are no published reports yet of the effects of tDCS on brain function in subjects with&#xD;
+      MDD. Cordance is a quantitative electroencephalography (QEEG) measure which allows for&#xD;
+      non-invasive measurement of regional brain function (Leuchter et al., 1994a, 1994b, 1999;&#xD;
+      Cook et al., 1998). It is sensitive to changes in brain function in subjects who are&#xD;
+      responding to treatment for MDD (Cook and Leuchter 2001; Cook et al., 2002, 2005; Leuchter et&#xD;
+      al., 2002) and is being evaluated for use a a biomarker which predicts treatment outcome in&#xD;
+      MDD (NIMH Project R01MH069217, Cook PI). It is well suited to evaluating brain function in&#xD;
+      subjects with MDD during a clinical trial experiment.&#xD;
+&#xD;
+      Our hypotheses are&#xD;
+&#xD;
+        1. Subjects who are randomized to receive active tDCS treatments will show greater&#xD;
+           improvement in cognitive task performance than subjects who receive inactive treatments.&#xD;
+&#xD;
+        2. Subjects who are randomized to receive active tDCS treatments will show greater&#xD;
+           improvement in depression symptom severity scores than subjects who receive inactive&#xD;
+           treatments.&#xD;
+&#xD;
+        3. Subjects who are randomized to receive active tDCS treatments will show greater changes&#xD;
+           in prefrontal brain function, as assessed with quantitative EEG cordance, than subjects&#xD;
+           who receive inactive treatments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2007</start_date>
+  <completion_date type="Actual">May 2009</completion_date>
+  <primary_completion_date type="Actual">May 2009</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To test our hypotheses, assessments of cognition, mood, and brain activity will be performed on three occasions</measure>
+    <time_frame>6 visits</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ADVERSE EVENT REPORTS Subjects will be asked about adverse events at the end of each treatment session</measure>
+    <time_frame>6 visits</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>AtCDS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transcranial direct stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial direct stimulation</intervention_name>
+    <description>sessions of 20 minutes each</description>
+    <arm_group_label>AtCDS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject age is 18 to 75 years old&#xD;
+&#xD;
+          -  Subject meets the DSM-IV diagnosis of Major Depressive Disorder based on the MINI,&#xD;
+             with a current major depressive episode in partial remission&#xD;
+&#xD;
+          -  Subject has been receiving treatment with an antidepressant medication for ≥ 3 months&#xD;
+             at a therapeutic dose. Therapeutic doses will be operationalized as those ranges noted&#xD;
+             by the drug manufacturers in their respective Package Inserts.&#xD;
+&#xD;
+          -  Subject's score on the 17-item Hamilton Depression Rating Scale (Ham-D) is &gt; 8 despite&#xD;
+             treatment with antidepressant medication(s).&#xD;
+&#xD;
+          -  Subject has subjective cognitive complaints.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject is mentally or legally incapacitated, unable to give informed consent&#xD;
+&#xD;
+          -  Subject suffering from a cognitive, bipolar, or psychotic disorder on the on the basis&#xD;
+             of a MINI interview; in situations where there is ambiguity about the origin of&#xD;
+             cognitive symptoms (i.e. depression with cognitive symptoms VS early dementia)&#xD;
+             subjects will not be enrolled.&#xD;
+&#xD;
+          -  Subject meeting criteria for an Axis II diagnosis that would interfere with completion&#xD;
+             of the protocol&#xD;
+&#xD;
+          -  Known drug dependency or substance abuse within the past six months&#xD;
+&#xD;
+          -  Subject has had a course of ECT, Transcranial Magnetic Stimulation (TMS), or Vagus&#xD;
+             Nerve Stimulation (VNS) within the six months prior to enrollment&#xD;
+&#xD;
+          -  Unstable medical illness, any history of seizures, brain surgery, skull fracture,&#xD;
+             significant head trauma, or previous abnormal EEG&#xD;
+&#xD;
+          -  Ham-D score &gt; 25 despite pharmacotherapy&#xD;
+&#xD;
+          -  Subject is a UCLA student or staff member directly under instruction or employment of&#xD;
+             any of the investigators&#xD;
+&#xD;
+          -  Subject has a medical illness which might be exacerbated by tDCS treatments (e.g. skin&#xD;
+             abrasions or infection of the scalp might be exacerbated by the placement of the&#xD;
+             saline-moistened electrode pads)&#xD;
+&#xD;
+          -  Subject is using any of the following medications which interfere with EEG measures of&#xD;
+             brain function: Anticholinergics, Barbiturates, Benzodiazepines, Sedating&#xD;
+             Antihistamines (e.g. diphenhydramine (Benadryl) would be exclusionary, but not&#xD;
+             loratadine (Claritin)).&#xD;
+&#xD;
+          -  Subject declines to give the study personnel permission to discuss their depression&#xD;
+             and participation in this study with their treating physician.&#xD;
+&#xD;
+          -  Subject has had a suicide attempt or other self-injurious behavior in the past 6&#xD;
+             months&#xD;
+&#xD;
+          -  Subject has an implanted pacemaker&#xD;
+&#xD;
+          -  Subject has red/green colorblindness (cannot distinguish red from green)&#xD;
+&#xD;
+          -  Subject's intake urine test is positive for drugs of abuse&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ian Cook, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA Semel Institute for Neuroscience</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2013</verification_date>
+  <study_first_submitted>September 24, 2008</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2008</study_first_posted>
+  <last_update_submitted>February 4, 2013</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 6, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Ian A. Cook, M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

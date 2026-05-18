@@ -1,0 +1,494 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00769002</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00000226 - R21AI077102</org_study_id>
+    <secondary_id>5R21AI077102-03</secondary_id>
+    <nct_id>NCT00769002</nct_id>
+  </id_info>
+  <brief_title>PET-CT Scans in Healthy Volunteers After Flu Vaccination</brief_title>
+  <acronym>Pro00000226</acronym>
+  <official_title>Impact of Bilateral Priming on Response to Unilateral Flu Vaccination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hackensack Meridian Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hackensack Meridian Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being done to learn how previous flu vaccination or previous infection with flu&#xD;
+      virus affects the immune response to vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Until recently, all recipients of influenza vaccine received a killed form of virus,&#xD;
+      typically in the same nondominant arm, each year before flu season. We hypothesize that&#xD;
+      natural infection, and some forms of vaccination, could allow vaccine induced responses to&#xD;
+      spread beyond the local lymph nodes near the vaccination site. From a practical perspective,&#xD;
+      if vaccine induced proliferation of specific immune cells in sites distant from the&#xD;
+      vaccination site lead to beneficial immune memory, it would suggest vaccination strategies&#xD;
+      that could be as simple as alternating the injected arm from year to year, or alternating&#xD;
+      inhaled vs. injected forms of vaccine.&#xD;
+&#xD;
+      This will be a 4 armed prospective study of individuals receiving unilateral FluShield i.m.&#xD;
+      Healthy adult volunteers 21-55 will be grouped according to the following criteria: I.&#xD;
+      Documented history of prior natural infection with influenza A or B within the past 5 years&#xD;
+      (diagnostic test or high titer hemagglutinin HA Ab in absence of vaccination); II. History of&#xD;
+      FluMist vaccination within the past 2 years; III. History of TIV (Trivalent (Inactivated)&#xD;
+      Influenza Vaccine) vaccination, any number of times, but only in a single (e.g.,&#xD;
+      non-dominant) arm. Within one month of screening and baseline blood draws for PBMCs&#xD;
+      (Peripheral blood mononuclear cells) and Ab (antibody) titers, individuals will receive&#xD;
+      FluShield injections. For those individuals with prior history of unilateral TIV injections,&#xD;
+      half will receive their shots in the same arm that has always been injected (Group IIIa). The&#xD;
+      other half of these individuals will receive Flushield in the opposite (dominant) arm (Group&#xD;
+      IIIb).&#xD;
+&#xD;
+      Upon entering the study, 50cc of heparinized blood and 10 cc of serum will be drawn by&#xD;
+      antecubital venipuncture. Within 4 weeks of this blood draw, volunteers will receive a&#xD;
+      standard dose of i.m. TIV (FluShield). Four-seven days later they will have an FDG PET-CT&#xD;
+      scan performed after an 8 hour fast.&#xD;
+&#xD;
+      Additional blood draws of 50cc heparinized blood and 10 cc serum will be obtained at 2, 4,&#xD;
+      and 6 weeks post vaccination, and at 10-12 months post vaccination. After the last blood&#xD;
+      draw, volunteers will also be asked questions pertaining to flu-like symptoms during the past&#xD;
+      10 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>September 2008</start_date>
+  <completion_date type="Actual">August 2011</completion_date>
+  <primary_completion_date type="Actual">August 2011</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PET Scan AB Response</measure>
+    <time_frame>4-7 days</time_frame>
+    <description>Natural infection but not ipsilateral IM injection of FluShield, will prime the host for a specific activation of spleen and bilateral lymph nodes following a subsequent i.m injection of FluShield, as detected by PET-CT performed 4-7 days post- FluShield immunization.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Flu</condition>
+  <arm_group>
+    <arm_group_label>Natural Infection</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>previously naturally infected</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>prior FluShield ipsilateral vaccinated</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>prior FluShield contralateral vaccinated</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FluMist</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>prior FluMist vaccinated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FluShield</intervention_name>
+    <description>Flu vaccine</description>
+    <arm_group_label>FluMist</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+    <arm_group_label>Natural Infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FluShield - same arm</intervention_name>
+    <description>Flu vaccine</description>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FluShield - opposite arm</intervention_name>
+    <description>Flu vaccine</description>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood Draws</intervention_name>
+    <description>50 cc of heparinized blood and 10 cc of serum at study entry and at 10-12 week post vaccination</description>
+    <arm_group_label>FluMist</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+    <arm_group_label>Natural Infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>FDG PET-CT Scan</intervention_name>
+    <description>PET scan</description>
+    <arm_group_label>FluMist</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+    <arm_group_label>Natural Infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Cytokine Profiling</intervention_name>
+    <description>Blood draw for Cytokine Profiling Draw at 2,4 and 6 weeks post vaccination</description>
+    <arm_group_label>FluMist</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity</arm_group_label>
+    <arm_group_label>FluShield - influenza positivity2</arm_group_label>
+    <arm_group_label>Natural Infection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women 21-55 years old.&#xD;
+&#xD;
+          -  Willingness to participate in the study for a full year including multiple blood draws&#xD;
+             and PET-CT scanning&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diabetes&#xD;
+&#xD;
+          -  Use of systemic steroids&#xD;
+&#xD;
+          -  Pregnancy or unwillingness to practice birth control of some kind through the PET-CT&#xD;
+             scanning period&#xD;
+&#xD;
+          -  Recent vaccination for other reasons (e.g., traveler's vaccines)&#xD;
+&#xD;
+          -  Significant intercurrent illness that might interfere with vaccination &quot;take&quot; or&#xD;
+             interpretation of PET-CT scanning (e.g., chemotherapy for cancer)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Schwartz, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hackensack Meridian Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hackensack Univarsity medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 7, 2008</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 8, 2008</study_first_posted>
+  <results_first_submitted>December 2, 2013</results_first_submitted>
+  <results_first_submitted_qc>October 16, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 19, 2020</results_first_posted>
+  <last_update_submitted>October 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>influenza</keyword>
+  <keyword>flu</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>vaccination</keyword>
+  <keyword>immune response</keyword>
+  <keyword>FluShield</keyword>
+  <keyword>FluMist</keyword>
+  <keyword>PET-CT</keyword>
+  <keyword>Healthy Volunteers</keyword>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>PET-CT Scan Influenza Vaccine Response</title>
+          <description>Previous influenza positivity&#xD;
+FluShield, FluMist: Flu vaccine&#xD;
+Previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination Active Comparator: Cytokine Profiling FluShield, FluMist No previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination</description>
+        </group>
+        <group group_id="P2">
+          <title>Cytokine Profiling</title>
+          <description>No previous influenza positivity&#xD;
+FluShield, FluMist: Flu vaccine&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination Active Comparator: Cytokine Profiling FluShield, FluMist No previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Study was not completed, no data</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>This study was not completed as planned, and data collected is not available despite all efforts as the PI has left the institution. Additionally, no manuscript, or study report was developed and therefore no data available to confirm the validity of or address the comments in relation to the previously entered results information.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Influenza Vaccine FluShield, FluMist</title>
+          <description>Group I - Previous influenza positivity A or B within the past 5 years</description>
+        </group>
+        <group group_id="B2">
+          <title>Cytokine Profiling FluShield, FluMist</title>
+          <description>Group II - History of FluMist vaccination within the past 2 years</description>
+        </group>
+        <group group_id="B3">
+          <title>Unilateral TIV Injections FluShield</title>
+          <description>Group III a - History of TIV vaccination, any number of times, but only in a single (e.g., non-dominant) arm. For those individuals with prior history of unilateral TIV injections, half will receive their shots in the same arm that has always been injected (Group IIIa).</description>
+        </group>
+        <group group_id="B4">
+          <title>Opposite Arm FluShield</title>
+          <description>Group IIIb - Within one month of screening and baseline blood draws for PBMCs and Ab titers, individuals will receive FluShield injections. The other half of these individuals will receive Flushield in the opposite (dominant) arm (Group IIIb).</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="0"/>
+            <count group_id="B2" value="0"/>
+            <count group_id="B3" value="0"/>
+            <count group_id="B4" value="0"/>
+            <count group_id="B5" value="0"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <description>Men and women ages 21-55</description>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                </category>
+                <category>
+                  <title>Male</title>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>PET Scan AB Response</title>
+        <description>Natural infection but not ipsilateral IM injection of FluShield, will prime the host for a specific activation of spleen and bilateral lymph nodes following a subsequent i.m injection of FluShield, as detected by PET-CT performed 4-7 days post- FluShield immunization.</description>
+        <time_frame>4-7 days</time_frame>
+        <population>This study was not completed as planned, and data collected is not available despite all efforts as the PI has left the institution. Additionally, no manuscript, or study report was developed and therefore no data available to confirm the validity of or address the comments in relation to the previously entered results information.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PET-CT Scan Influenza Vaccine Response</title>
+            <description>Previous influenza positivity&#xD;
+FluShield, FluMist: Flu vaccine&#xD;
+Previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination Active Comparator: Cytokine Profiling FluShield, FluMist No previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+Not Posted PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Not Posted Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PET Scan AB Response</title>
+          <description>Natural infection but not ipsilateral IM injection of FluShield, will prime the host for a specific activation of spleen and bilateral lymph nodes following a subsequent i.m injection of FluShield, as detected by PET-CT performed 4-7 days post- FluShield immunization.</description>
+          <population>This study was not completed as planned, and data collected is not available despite all efforts as the PI has left the institution. Additionally, no manuscript, or study report was developed and therefore no data available to confirm the validity of or address the comments in relation to the previously entered results information.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Influenza Vaccine FluShield, FluMist</title>
+          <description>Previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination&#xD;
+FluShield, FluMist: Flu vaccine</description>
+        </group>
+        <group group_id="E2">
+          <title>Cytokine Profiling FluShield, FluMist</title>
+          <description>No previous influenza positivity&#xD;
+Primary Outcome Measure:&#xD;
+PET-CT Scan [Time Frame: 4-7 days after flu vaccine]&#xD;
+Secondary Outcome Measures:&#xD;
+Cytokine Profiling [Time Frame: 2-6 weeks and 10-12 months post flu vaccination&#xD;
+FluShield, FluMist: Flu vaccine</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>This study was not completed and data collected is not available despite all efforts as PI has left the institution. No manuscript/study report was developed and there are no data to confirm validity or address comments in previously entered results</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. David Schwartz</name_or_title>
+      <organization>Hackensack University Medical Center</organization>
+      <phone>551-996-2000</phone>
+      <email>DSchwartz@hackensackumc.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

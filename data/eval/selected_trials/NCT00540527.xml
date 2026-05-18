@@ -1,0 +1,244 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00540527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SYNTHESIS</org_study_id>
+    <nct_id>NCT00540527</nct_id>
+  </id_info>
+  <brief_title>Local Versus Systemic Thrombolysis for Acute Ischemic Stroke (SYNTHESIS)</brief_title>
+  <official_title>SYNTHESIS: a Randomized Controlled Trial on Intra-arterial Versus Intravenous Thrombolysis in Acute Ischemic Stroke. Start up Phase.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Niguarda Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Niguarda Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether intra-arterial rt-PA within 6 hours from an&#xD;
+      ischemic stroke onset, compared with intravenous infusion of the same drug within 3 hours,&#xD;
+      increases the proportion of independent survivors at 3 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      &quot;Stroke is a major cause of death and severe disability.The only effective, available&#xD;
+      therapy, within few hours of stroke onset, is rt-PA, a thrombolytic agent. Preliminary&#xD;
+      experience but not from properly conducted randomized trials indicates that intra-arterial&#xD;
+      treatment might be more effective than intravenous therapy for some vascular lesions.&#xD;
+      Intravenous application has not been tested directly against intra-arterial treatment and we&#xD;
+      do not known the relative clinical effectiveness with these two routes of administration.&#xD;
+      Eligible patients will be randomized to receive either IV rt-PA (0.9mg/kg; max 90 mg), 10% of&#xD;
+      which would be infused over 1 minute, and the remainder over 60 min, or IA rt-PA within the&#xD;
+      thrombus by means of microcatheter. In patients allocated to IA rt-PA the angiogram is&#xD;
+      performed as soon as possible within 6 hours of stroke onset; IV heparin has to be initiated&#xD;
+      (2000 U bolus followed by 500 U7hr infusion) and rt-PA is delivered at a rate of about 90&#xD;
+      mg/hr for maximum one hour at the dose needed for recanalization up to 0.9 mg/Kg (max 90 mg).&#xD;
+      Antithrombotics and anticoagulants are disallowed during the first 24 hours (except heparin&#xD;
+      used during the angiogram). After 24 hrs, all patients will be considered for long-term&#xD;
+      antiplatelet or anticoagulant therapy. Follow-up will take place at 7 days, discharge, or&#xD;
+      transfer, whichever is first; and again at 3 months. 4 centers are currently authorized for&#xD;
+      the start-up phase; 15 centers in Italy have applied for an expansion phase of the study&#xD;
+      (SYNTHESIS EXPANSION), with financial support from Italian National Agency for Drugs&#xD;
+      (AIFA).The two phases of the study will be analysed separately and will be considered in a&#xD;
+      pooled analysis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2004</start_date>
+  <completion_date type="Actual">January 2008</completion_date>
+  <primary_completion_date type="Actual">January 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess whether local intra-arterial (LIA) recombinant tissue plasminogen activator rt-PA, as compared to intravenous (IV) rt-PA, increases survival free of disability (modified Rankin score of 0 or 1) .</measure>
+    <time_frame>3 months</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">54</enrollment>
+  <condition>Stroke</condition>
+  <condition>Cerebrovascular Accident</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>local intraarterial recombinant tissue plasminogen activator</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>intravenous (IV) rt-PA</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>local interarterial recombinant tissue plasminogen activator</intervention_name>
+    <description>Endovascular treatment must be performed asap after random.and definitely within 6h from symp. onset.It includes intrarterial thrombolysis with rt-PA,if necessary,associated to or substituted by mechanical clot disruption and/or retrieval.Fibrinolytic therapy should be performed within 1h,the full dose of rt-PA infusion should not exceed 0.9 mg/kg (max 90 mg in the case of body weight ≥100 kg).If a complete recanalization is achieved,rt-PA infusion can be interrupted before reaching the maximum dosage.The option of performing a thrombolysis by mechanical means to obtain a mechanical disintegration/shift/detach/fissure of the thrombus and/or a retraction/aspiration can be considered on the basis of the type,location and characteristics of the occlusion.These choices may involve the use of the microguidewire as a mechanical instrument to favour the disintegration of the thrombus,using systems to capture the thrombus by extraction or more complex systems to crush and aspirate the thrombus</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>intravenous (IV) rt-PA</intervention_name>
+    <description>IV thrombolytic treatment is started immediately after randomization, within 4.5 h of symptoms onset. IV rt-PA is administered at a dose of 0.9 mg/kg (max 90 mg), 10% of which is given as a bolus, followed by the delivery of the remaining 90% as a constant infusion over 60 mins</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Sudden focal neurological deficit attributable to a stroke&#xD;
+&#xD;
+          -  Clearly defined time of onset, allowing initiation of intravenous treatment within 3&#xD;
+             hours of symptoms onset and intra-arterial treatment within 6 hour of symptoms onset.&#xD;
+&#xD;
+          -  Age between 18 and 80 years&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Disability preceding stroke consistent with a modified Rankin scale score of 2-4 (see&#xD;
+             glossary for Rankin scale)&#xD;
+&#xD;
+          -  Coma at onset&#xD;
+&#xD;
+          -  Severe stroke as assessed clinically (e.g. NIHSS&gt;25)&#xD;
+&#xD;
+          -  Rapidly improving neurological deficit or minor symptoms&#xD;
+&#xD;
+          -  Seizure at onset of stroke&#xD;
+&#xD;
+          -  Clinical presentation suggestive of a subarachnoid hemorrhage (even of CT scan is&#xD;
+             normal) or condition after subarachnoid hemorrhage from aneurysm&#xD;
+&#xD;
+          -  Previous history of or suspected intracranial hemorrhage&#xD;
+&#xD;
+          -  Previous history of central nervous system damage (i.e. neoplasm, aneurysm,&#xD;
+             intracranial or spinal surgery)&#xD;
+&#xD;
+          -  Septic embolism, bacterial endocarditis, pericarditis&#xD;
+&#xD;
+          -  Acute pancreatitis&#xD;
+&#xD;
+          -  Arterial puncture at a non compressible site (e.g. subclavian or jugular vein&#xD;
+             puncture) or traumatic external heart massage or obstetrical delivery within the&#xD;
+             previous 10 days&#xD;
+&#xD;
+          -  Another stroke or serious head trauma within the preceding 3 months&#xD;
+&#xD;
+          -  Major surgery or significant trauma in past 3 month&#xD;
+&#xD;
+          -  Urinary tract hemorrhage within the previous 21 days&#xD;
+&#xD;
+          -  Documented ulcerative gastrointestinal disease during the last 3 months, esophageal&#xD;
+             varices, arterial-aneurysm, arterial/venous malformations • Neoplasm with increased&#xD;
+             bleeding risk&#xD;
+&#xD;
+          -  Severe liver disease, including hepatic failure, cirrhosis, portal hypertension&#xD;
+             (esophageal varices) and active hepatitis&#xD;
+&#xD;
+          -  Current therapy with intravenous or subcutaneous heparin or oral anticoagulants (e.g.&#xD;
+             warfarin sodium) to rise the clotting time&#xD;
+&#xD;
+          -  Known hereditary or acquired hemorrhagic diathesis, baseline INR greater than 1.5,&#xD;
+             aPTT more than 1.5 times normal, or baseline platelet count less than 100,000 per&#xD;
+             cubic millimeter&#xD;
+&#xD;
+          -  Baseline blood glucose concentrations below 50 mg per deciliter (2.75 mm/L) or above&#xD;
+             400 mg per deciliter&#xD;
+&#xD;
+          -  Hemorrhagic retinopathy, e.g. in diabetes (vision disturbances may indicate&#xD;
+             hemorrhagic retinopathy)&#xD;
+&#xD;
+          -  Any history of prior stroke and concomitant diabetes&#xD;
+&#xD;
+          -  Prior stroke within the last 3 months&#xD;
+&#xD;
+          -  Known contrast sensitivity&#xD;
+&#xD;
+          -  Severe uncontrolled hypertension defined by a blood pressure ≥ 185 mmHg systolic or&#xD;
+             diastolic ≥ 110 mm Hg in 3 separate occasions at least 10 minutes apart or requiring&#xD;
+             continuous IV therapy&#xD;
+&#xD;
+          -  Prognosis very poor regardless of therapy; likely to be dead within months.&#xD;
+&#xD;
+          -  Unlikely to be available for follow-up (e.g., no fixed home address, visitor from&#xD;
+             overseas).Any other condition which local investigators feels would pose a significant&#xD;
+             hazard in terms of risk/benefit to the patient, or if therapies are impracticable.&#xD;
+&#xD;
+        Computed tomographic (CT) scan exclusion criteria&#xD;
+&#xD;
+          -  Intracranial tumors except small meningioma&#xD;
+&#xD;
+          -  Hemorrhage of any degree&#xD;
+&#xD;
+          -  Acute infarction (since this may be an indicator that the time of onset is uncorrected&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alfonso Ciccone, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Azienda Ospedaliera Ospedale Niguarda Ca' Granda</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>AO Ospedale Niguarda Ca' Granda</name>
+      <address>
+        <city>Milan</city>
+        <zip>20162</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://www.strokeforum.org/</url>
+    <description>Related Info</description>
+  </link>
+  <results_reference>
+    <citation>Ciccone A, Valvassori L, Ponzio M, Ballabio E, Gasparotti R, Sessa M, Scomazzoni F, Tiraboschi P, Sterzi R; SYNTHESIS Investigators. Intra-arterial or intravenous thrombolysis for acute ischemic stroke? The SYNTHESIS pilot trial. J Neurointerv Surg. 2010 Mar;2(1):74-9. doi: 10.1136/jnis.2009.001388. Epub 2009 Oct 30.</citation>
+    <PMID>21990564</PMID>
+  </results_reference>
+  <verification_date>October 2012</verification_date>
+  <study_first_submitted>October 5, 2007</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 8, 2007</study_first_posted>
+  <last_update_submitted>October 24, 2012</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 26, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>acute ischemic stroke;thrombolysis;intraarterial thrombolysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Plasminogen</mesh_term>
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

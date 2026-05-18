@@ -1,0 +1,571 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00160940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>02-0019-C</org_study_id>
+    <nct_id>NCT00160940</nct_id>
+  </id_info>
+  <brief_title>Differential Gene Expression of Liver Tissue and Blood From Individuals With Chronic Viral Hepatitis</brief_title>
+  <official_title>Differential Gene Expression in Liver Tissue and Blood From Individuals With Chronic Viral Hepatitis With or Without a Complicating Hepatoma or Autoimmune Liver Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to study body materials like blood proteins as well as white&#xD;
+      blood cell and liver cellular RNA in individuals with liver diseases such as chronic viral&#xD;
+      hepatitis with or without hepatoma and autoimmune liver disease. Presently it is not&#xD;
+      understood how infection with chronic viral hepatitis or autoimmune liver disease damages the&#xD;
+      liver. This research study enroll patients with either chronic viral hepatitis with or&#xD;
+      without hepatoma or autoimmune liver disease.&#xD;
+&#xD;
+      The purpose of this study is to find the genes that are expressed in both the circulating&#xD;
+      white blood cells and the liver of patients with varying degrees of liver damage of different&#xD;
+      causes. Genes are biological messengers some of which determine how the body responds to&#xD;
+      injury. We anticipate that results from Differential Gene Expression (DGE) analysis will&#xD;
+      allow us to make predictions about likelihood of disease progression and/or response to&#xD;
+      treatment.&#xD;
+&#xD;
+      In addition we will test the blood for markers of injury. The blood collected will be&#xD;
+      prepared differently from the liver tissue. We will use technologies to express pure proteins&#xD;
+      and then we will investigate the functions of these proteins. Nearly all drugs act on&#xD;
+      proteins, not genes, so understanding proteins is the key to really effective new medicines.&#xD;
+      Similarly the first signs of ill health appear in changes to the body's blood proteins,&#xD;
+      making them the most sensitive diagnostic indicators. The studies we plan are called&#xD;
+      proteomics.&#xD;
+&#xD;
+      We will later correlate the patterns of gene expression in both circulating white blood cells&#xD;
+      and the liver tissue with clinical outcome and patterns of proteins measured in blood and we&#xD;
+      hope to gain an understanding of how the disease process occurs, which may in turn help us to&#xD;
+      make more precise diagnoses and develop new forms of treatment.&#xD;
+&#xD;
+      These techniques that we use are still experimental and so we do not yet know if they will be&#xD;
+      helpful in monitoring changes which may help us to predict the potential severity of your&#xD;
+      liver disease or even if they can be used to indicate who will best respond to treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this study is to identify genes that are specifically up or down regulated&#xD;
+      in chronic viral hepatitis and autoimmune liver disease and then to examine how these&#xD;
+      expression patterns relate (if at all) to clinical outcome. The expression pattern of&#xD;
+      thousands of genes should provide extremely powerful statistical tools to distinguish between&#xD;
+      different pathophysiological states. It is well recognized that neither hepatitis B or&#xD;
+      hepatitis C is directly cytotoxic, their effect appears to be mediated via an immune&#xD;
+      response. Similarly in individuals with autoimmune liver disease e.g. primary biliary&#xD;
+      cirrhosis (PBC), primary sclerosing cholangitis (PSC) and autoimmune hepatitis (AIH) immune&#xD;
+      mediated mechanisms appear to be the cause of their liver disease although the eliciting&#xD;
+      antigen(s) remain unknown. The pattern of gene expression can give clues as to both the cause&#xD;
+      and the pathogenesis of disease. For instance, if a disease is caused by an infection, a&#xD;
+      specific cytokine response is observed which will be different if this infection is viral or&#xD;
+      bacterial or parasitic. It is also possible that a certain pattern of response would be&#xD;
+      elicited if the disease is caused as a response to xenobiotic. In patients with autoimmune&#xD;
+      liver disease, it is possible that an endogenous and/or an exogenous antigen initiates the&#xD;
+      disease with a subsequent autoimmune response. Finally, it is also possible that a completely&#xD;
+      unexpected series of cellular events is responsible for pathogenesis, and the microarray&#xD;
+      experiments will enable us to discover these processes.&#xD;
+&#xD;
+      HCV - The molecular genetics of hepatitis C viral infection HCV molecular biology: HCV is a&#xD;
+      positive-stranded RNA Flaviviridae virus with a 9.6kB genome. The genome encodes a&#xD;
+      polyprotein of approximately 3000 amino acids which is subsequently cleaved by host and&#xD;
+      virus-specific proteases to yield 4 structural and 6 nonstructural polypeptides. The 4&#xD;
+      functional proteins include a metalloproteinase (NS5A), serine protease (NS3/NS4A), RNA&#xD;
+      helicase (NS3), and a RNA-dependent RNA polymerase (NS5B). Six different genotypes of HCV&#xD;
+      have been described, with genotype 1 being the most prevalent worldwide and genotype 4 being&#xD;
+      the most prevalent in the Middle East.&#xD;
+&#xD;
+      The various genotypes interact differently with the host immune system, though the molecular&#xD;
+      basis for this is unclear. Chronic infection by genotypes 1 and 4 is notoriously resistant to&#xD;
+      treatment with IFN, while genotypes 2 and 3 have relatively better responses. This difference&#xD;
+      may be in part due to mutations in the NS5A protein. In cellular models NS5A can interact&#xD;
+      with IFN-induced antiviral enzymes such as 2'5'OAS. Other HCV proteins likely interact with&#xD;
+      cellular proteins to alter responses to immune and IFN antiviral mechanisms: HCV core protein&#xD;
+      dampens lymphocytic Th1 responses and influences IRF, Jak/STAT and iNOS pathways. Although&#xD;
+      these results suggest how the virus may alter known cellular pathways, viral evasion of the&#xD;
+      immune system is multifactorial and clearly complex.&#xD;
+&#xD;
+      Research Hypothesis: The processes that lead to persistence of acute HCV infection are&#xD;
+      related, at a molecular level, to those that drive HCV resistance to IFN therapy. Elucidating&#xD;
+      the specifics of the host/viral response in both of these contexts will provide novel targets&#xD;
+      for small-molecule antiviral therapy which can be applied both to acute and chronicHCV.&#xD;
+&#xD;
+      Progress Report: CIHR 106800 We have established a large and growing tissue and RNA registry&#xD;
+      for the study of liver disease, and have performed a comprehensive gene array analysis of&#xD;
+      chronic HCV. Some of our most important findings are detailed here.&#xD;
+&#xD;
+      HCV is a complex and progressive disease in which the interaction of the host and virus has&#xD;
+      profound effects. The combination of clinical and experimental variability can seriously&#xD;
+      confound the results of a gene expression study and mandates that a large number of patients&#xD;
+      and samples be examined. The fact that liver pathology can be similar among a number of&#xD;
+      different diseases also necessitates that many different patients and diseases are included&#xD;
+      in the analysis. Accordingly, we have analyzed large numbers of patients and controls, and&#xD;
+      have maintained careful databases of clinical details in order to perform multivariate&#xD;
+      analyses of the gene array data. At present we have used a 19K human microarray to determine&#xD;
+      hepatic gene expression in 86 HCV patients and have compared these to 24 normal, 20 HBV and&#xD;
+      14 PBC patients. The array data are of high quality: our rates of confirmation by real-time&#xD;
+      PCR exceed 80%. We have now examined the relative contributions of age, sex, viral genotype&#xD;
+      (1 vs 2/3), degree of fibrosis and disease activity on the genes most upregulated by&#xD;
+      infection with HCV.The most important determinant of consistent gene expression profiles in&#xD;
+      HCV infected livers is viral genotype (genotype 1 vs all others). However, within Genotype 1&#xD;
+      samples there is a clear difference in gene expression.&#xD;
+&#xD;
+      This divergent host-virus interaction is reflected in the subsequent response to PegIFN/Rib&#xD;
+      therapy. All of the HCV liver biopsies we have analyzed to date were taken from patients who&#xD;
+      went on to treatment with PegIFN/Rib. At present, treatment has been completed in 49 of these&#xD;
+      patients. In an observation that may have significant clinical utility, we showed that the&#xD;
+      ultimate response to treatment (sustained viral response versus vs nonresponder/relapser) was&#xD;
+      reflected in the original gene expression profiles. We identified 18 genes whose expression&#xD;
+      levels distinguished responders from non-responders/relapsers in with an accuracy of &gt;90%.&#xD;
+      Based on this observation we filed a patent to protect the intellectual property and formed a&#xD;
+      company to commercialize the genetic test. The results have also been submitted for&#xD;
+      publication. Taken together we believe we have described a set of genes, or perhaps a&#xD;
+      biological process, that lies at the heart of the host-HCV interaction.&#xD;
+&#xD;
+      Section I. A possible role for the UBP43, ISG15 Pathway in the HCV Interferon While our gene&#xD;
+      expression profiles have distinguished two types of chronic HCV infection - one which&#xD;
+      responds to IFN, and the other that does not - our main objective is to achieve a molecular&#xD;
+      understanding of the roles of specific genes and proteins in the host response to HCV. Though&#xD;
+      an altered gene expression level does not directly implicate the gene product in the&#xD;
+      biological pathway, there are compelling biological reasons to suggest that at least some of&#xD;
+      the genes on our list play an important role in viral-IFN responses. Several of the most&#xD;
+      up-regulated genes are interferon-sensitive (including OAS, Mx1, ISG15, VIPERIN, IFIT, and&#xD;
+      GIP2). Polymorphisms of OAS have been weakly linked to self-limited HCV infection, and&#xD;
+      polymorphisms of Mx1 have been weakly linked to response status. Hepatic mRNA levels for OAS,&#xD;
+      Mx1, and GIP2 are increased in chronic HCV but none, alone, have been linked to treatment&#xD;
+      outcome. The genes that are not directly IFN-responsive may play roles in cellular pathways&#xD;
+      important for IFN responses (PI3AP1, DUSP1), and are involved in inflammatory cell activation&#xD;
+      and maturation (LAP).&#xD;
+&#xD;
+      ISG15 and UBP43/USP18, which are components of a newly-recognized IFN regulatory pathway, are&#xD;
+      perhaps the most interesting subset of genes that were found to be differentially expressed&#xD;
+      in our studies. Both genes are expressed more highly in nonresponder (NR) compared with&#xD;
+      responder (R) liver tissue, suggesting that they might interfere with the immune response in&#xD;
+      HCV-infected liver ISG15 is a ubiquitin-like (Ubl) protein which is thought to be important&#xD;
+      to innate immune functions and is covalently linked to proteins following interferon&#xD;
+      activation. How this link is accomplished is controversial and may involve some overlap with&#xD;
+      known E2 Ub enzymes. Interestingly, the E2 Ub enzyme UBCH8 was recently identified as an&#xD;
+      activator of ISG15,34 and is one of the genes upregulated in response to chronic HCV in our&#xD;
+      microarray analysis. The conjugation of ISG15 to its target proteins is reversed by a highly&#xD;
+      specific protease, USP18/UBP43. UBP43 belongs to a family of Ub-specific proteases and is&#xD;
+      induced by IFN, LPS and viral infection; it is degraded by the Skp2 Ub ligase. Loss of USP18&#xD;
+      in mice leads to IFN hypersensitivity. Our data links UBP43 with HCV, and suggests that the&#xD;
+      pathway is important in a divergent host/viral response.&#xD;
+&#xD;
+      Research Objective I. To establish the roles of the 18 genes - in particular, of ISG15 and&#xD;
+      UBP43 - associated with a divergent host/ virus interaction, using a HCV replicon model.&#xD;
+&#xD;
+      Research Protocols for Section I:&#xD;
+&#xD;
+      DNA microarray studies shed light on the transcription state of the cell but do not&#xD;
+      necessarily link specific gene products with the biological problem being addressed.&#xD;
+      Accordingly, it is important to test the roles of individual genes using other approaches. We&#xD;
+      will use in vitro assays of viral replication to study the roles of genes whose expression we&#xD;
+      have found to be altered in HCV infected liver. These are not straightforward experiments,&#xD;
+      since HCV is a difficult virus to study. HCV replicates only in humans and chimpanzees, and&#xD;
+      only poorly in isolated human peripheral blood cells, though these do act as an extrahepatic&#xD;
+      viral pool. Subgenomic RNA replicons can be transfected into certain cell lines and&#xD;
+      maintained, but to date only a few genotypes have been successfully translated into a&#xD;
+      replicon model (1b, 1a, and 2a). Recently, an elegant HCV model was described in Edmonton in&#xD;
+      which human hepatocytes are transplanted into SCID-beige mice. This model supports HCV&#xD;
+      infection and replication; however, since the bulk of HCV effects are due to the immune&#xD;
+      response generated by the virus, this model as it exists currently may not be ideal for&#xD;
+      studying how the virus leads to liver damage and evades antiviral immune responses in humans.&#xD;
+&#xD;
+      We have chosen to explore the role of our genes of interest using the full-length HCV&#xD;
+      genotype 1a replicon assay, in collaboration with Dr. Charles Rice (Rockefeller University,&#xD;
+      New York). This replicon is a variant of the full-length HCV H77 strain described recently by&#xD;
+      Dr. Rice, but has higher levels of replication in cell culture than the previous version. The&#xD;
+      replicon model is ideal for rapidly testing the effects of many genes and has been used&#xD;
+      extensively to study HCV mechanisms at a cellular level. This approach will be used for all&#xD;
+      of the genes identified as of potential interest in the studies above, focusing first on the&#xD;
+      ISG15 and UBP43 genes, second on the 16 genes remaining in our response-discriminatory list,&#xD;
+      and finally on novel genes identified in the gene expression studies detailed below.&#xD;
+&#xD;
+      Ia. Effect of siRNA knockdown and upregulation (transfection) of individual genes, including&#xD;
+      UBP43 and ISG15, on HCV replicon in Huh7.5 cells.&#xD;
+&#xD;
+      We will use RNA interference (RNAi) to &quot;knock down&quot; specific genes in order to evaluate their&#xD;
+      roles on viral replication. Small double-stranded RNA molecules will be used to induce&#xD;
+      sequence-specific degradation of homologous single-stranded RNA. For most of these studies&#xD;
+      stock Huh7.5 cells will be compared to Huh7.5 cells stably expressing the full-length&#xD;
+      Genotype 1a HCV replicon developed in Dr. Charles Rice's laboratory. The methodology detailed&#xD;
+      below is routine in our laboratory and the laboratories of our collaborators.&#xD;
+&#xD;
+      Control studies: Baseline gene and protein expression, effect of IFN, effect of replicon:&#xD;
+&#xD;
+      The replicon system can be used not only to test the effect of a given gene on viral&#xD;
+      replication, but also for the effects on the IFN response. Previous studies have demonstrated&#xD;
+      that HCV 1b genotype RNA replication is sensitive to IFN-a treatment, even at low doses. In&#xD;
+      fact, the roles of two of the genes on our list of eighteen, MxA and GIP3/IFI6-16, have&#xD;
+      already been examined. The IFN inhibition of HCV 1b replicon RNA replication is independent&#xD;
+      of MxA, and transient transfection of GIP3 does not itself inhibit the 1b replicon but does&#xD;
+      enhance the effect of IFNa. We will now study the roles of the remaining genes in our list&#xD;
+      using the HCV genotype 1a replicon. The studies described below outline our approach for the&#xD;
+      ISG15 and UBP43 genes; however, similar strategies will be employed for the other genes of&#xD;
+      interest.&#xD;
+&#xD;
+      Huh7.5 cells and HCV replicon cells will be incubated for 12 hours with increasing doses of&#xD;
+      IFNa2b (0, 1,10 and 100U/ml), IFNb (0,10,100 and 1000 U/ml ), or IFNg (0,10,100 and 1000&#xD;
+      U/ml), and ISG 15, UBP43, and HCV mRNA levels determined by real-time PCR. ISG15 protein&#xD;
+      levels will be determined by western blot (mAb the kind gift of Dr. E.C. Borden, Scripps&#xD;
+      Institute); UBP43 western studies will be performed after we create antibodies or as the&#xD;
+      antibody becomes available (currently it is being developed in the lab of Dr. D.E. Zhang,&#xD;
+      Scripps Institute). RNA isolation will be performed by standard Trizol extraction, and&#xD;
+      protein extraction by lysing the cells in RIPA buffer. These studies will establish mRNA and&#xD;
+      protein levels for ISG15 and UBP43 at baseline, and in response to IFN, replicon and&#xD;
+      replicon/IFN.&#xD;
+&#xD;
+      One important issue is confirming that the gene or protein-of-interest is expressed in these&#xD;
+      cells prior to the knock-down experiments. In preliminary studies we have determined that&#xD;
+      there is baseline expression of both ISG15 and UBP43 mRNA in both Huh7.5 and replicon cells&#xD;
+      (real-time PCR) and that IFNa strongly induces protein expression of ISG15 in Huh7.5 cells.&#xD;
+      These results argue that the ISG15 and UBP43 pathway is relevant to this model.&#xD;
+&#xD;
+      siRNA studies: We hypothesize that elimination of UBP43 will lead to less HCV RNA replication&#xD;
+      at baseline and will magnify the effect of IFN, and that elimination of ISG15 will increase&#xD;
+      baseline HCV RNA and decrease the effect of IFN. Silencing and control siRNAs will be&#xD;
+      obtained from Ambion. These will be transfected using GenePorter according to the&#xD;
+      manufacturer's instructions; transfection conditions will be optimized using the SV40&#xD;
+      promoter/enhancer luciferase control plasmid, pGL2-control, to ensure that increasing amounts&#xD;
+      of templates results in proportional increases in luciferase activity. Forty-eight hours&#xD;
+      after the transfection, total RNA or protein samples will be prepared as before. Real-time&#xD;
+      PCR will be performed to determine mRNA expression in the presence or absence of siRNA, and&#xD;
+      protein levels will be determined by Western blot. After these control studies have been&#xD;
+      performed, the effect of siRNA inhibition on baseline and IFN-treated HCV RNA replication&#xD;
+      will be tested.&#xD;
+&#xD;
+      Transfection studies:&#xD;
+&#xD;
+      We hypothesize that upregulation of UBP43 will increase in vitro HCV RNA replication at&#xD;
+      baseline and will decrease the effect of IFN, and that upregulation of ISG15 will decrease&#xD;
+      baseline HCV RNA and increase the effect of IFN. UBP43 expression will be upregulated using a&#xD;
+      UBP43 expression plasmid pcDNA6-UBP43; ISG15 expression plasmid will be obtained by&#xD;
+      subcloning ISG15 gene into pcDNA6 vector. As before, HCV RNA levels will be determined in the&#xD;
+      presence and absence of IFNa using real-time PCR.&#xD;
+&#xD;
+      Taken together these studies will define the roles of the genes suggested to play an&#xD;
+      important role in the distinction between clinical PegIFN/Rib treatment responders and&#xD;
+      nonresponders.&#xD;
+&#xD;
+      Ib. Mechanism of action of the ISG15/UBP43 pathway:&#xD;
+&#xD;
+      If we determine that ISG15 and UBP43 play a role in HCV RNA replication in the genotype 1&#xD;
+      replicon model we will examine how this effect is mediated. We will determine whether the&#xD;
+      effect of UBP43 is dependent on its protease function or on its association with another&#xD;
+      cellular protein. We will also identify which ISG15 protein targets might mediate its effect.&#xD;
+&#xD;
+      Role of UBP43 protease activity:&#xD;
+&#xD;
+      If elimination of UBP43 is shown to reduce viral replication or magnify the interferon&#xD;
+      response, we hypothesize that inhibition of UBP43 will represent a novel means of treatment&#xD;
+      of HCV. UBP43 would be of particular interest because it has protease activity: proteases are&#xD;
+      known and validated targets for small molecule therapies. Thus, it would be critical to&#xD;
+      establish whether the protease activity of UBP43 is important for its effect on HCV&#xD;
+      replication, and not, for instance, its interaction with another cellular protein. To address&#xD;
+      this question we will over-express UBP43 protease inactive constructs. An inactive form of&#xD;
+      UBP43 will be created by mutation of a critical cysteine residue (Cys61) into serine using&#xD;
+      site-directed mutagenesis of pBK/CMV-UBP43 plasmid as described previously. In order to&#xD;
+      characterize the protease active and inactive forms of UBP43, wild type and mutant UBP43 will&#xD;
+      be expressed as GST fusion proteins in the expression vector pGEX-4T-3 (pGEX-4T-3-UBP43), and&#xD;
+      transformed into E.Coli BL21 (DE3) with a plasmid, pET-ISG15-UBP43-H, that expresses&#xD;
+      ISG15-UBP43 fusion protein.35 ISG15 cleavage from the fusion protein will be shown by Western&#xD;
+      blot. Once we have confirmed that the protease function is eliminated by site-directed&#xD;
+      mutagenesis, wild-type and mutated UBP43 will be overexpressed in Huh7.5 cells with the HCV&#xD;
+      replicon and exposed to increasing doses of IFNa. If the protease function is critical&#xD;
+      overexpression of the inactive (in a dominant negative fashion) will increase responsiveness&#xD;
+      to IFN.&#xD;
+&#xD;
+      Protein targets of ISG15:&#xD;
+&#xD;
+      Previous work using thymic tissue has identified several targets for ISGylation by ISG15,&#xD;
+      including phospholipase Cg1, Jak1, and ERK1. Whether these are targets in Huh7.5 cells is not&#xD;
+      known, though ERK and JAK have been previously linked to antiviral effects in the HCV&#xD;
+      replicon model. If we find that ISG15 is implicated in HCV replication, we would seek to&#xD;
+      identify substrates for ISG15 modification. We will first perform a series of&#xD;
+      immunoprecipitation studies directed specifically at the proteins previously shown found to&#xD;
+      be modified by ISG15, and explore the differences between infected and uninfected cells. In&#xD;
+      brief, following incubation of Huh7.5 cells +/- replicon with IFNa for 12 hours, cells will&#xD;
+      be lysed in RIPA buffer and immunoprecipitation of ISG15 conjugates performed with the&#xD;
+      anti-ISG15 mAb used above. After resolution on a reducing gel, western blots will be&#xD;
+      performed to determine if the three targets above are conjugated by ISG15, using&#xD;
+      commercially-available mAbs. If any or all of the targets are conjugated, further studies&#xD;
+      will be performed to elucidate the consequences of ISGylation.&#xD;
+&#xD;
+      To more fully explore which proteins are modified with ISG15 in cell culture, we will&#xD;
+      undertake a more comprehensive screen using mass-spectroscopy - applying a strategy&#xD;
+      previously used to identify targets of the ubiquitin-like SUMO protein. TAP-tagging&#xD;
+      approaches coupled with MALDI-TOF mass spectrometry will be used. We will transfect cells&#xD;
+      with TAP-tagged or SPA-tagged ISG15 and purify the protein and protein complexes from cells&#xD;
+      treated or untreated with IFN. Using established procedures, we will then purify and identify&#xD;
+      the substrates using gel electrophoresis and mass spectrometry. Gel slices containing the&#xD;
+      proteins will be reductively alkylated and subjected to trypsinolysis. The peptides will be&#xD;
+      purified and analyzed by MALDI-TOF mass spectrometry using a cyano-4-hydroxycin-namic acid&#xD;
+      matrix on a Voyager DE-STR instrument (Applied Biosystems). Identification of the proteins&#xD;
+      using these mass fingerprinting data will be carried out using the ProFound software . Since&#xD;
+      MS cannot be used to quantify protein amounts, we will identify proteins of interest by&#xD;
+      comparing lists of proteins ISGylated under the various conditions and then perform Western&#xD;
+      blot studies to compare protein amounts. In doing these experiments we will use the MS&#xD;
+      equipment and expertise readily available at the Best Institute.&#xD;
+&#xD;
+      Conclusions I: Taken together these studies will clearly define the roles of the ISG15 and&#xD;
+      UBP43 pathway in the HCV replicon response to IFN, and will suggest how the effect is&#xD;
+      mediated. Importantly, the methodologies described above, though detailed for ISG15 and&#xD;
+      UBP43, are generic and can be applied to other candidate genes of interest.&#xD;
+&#xD;
+      Section II: Gene Expression Profiling of Acute Hepatitis C Viral Infection:&#xD;
+&#xD;
+      There are similarities in the pathways that we have identified as important in the chronic&#xD;
+      disease with those that may be important in acute infection. For example, polymorphisms of&#xD;
+      2'5'OAS - a gene found on our list - alter the risk of progressing from acute to chronic&#xD;
+      infection.20 Therefore we hypothesize that this same set of genes is likely to play an&#xD;
+      important role in determining failure to clear acute infection. We will test this hypothesis&#xD;
+      using microarray analysis.&#xD;
+&#xD;
+      We plan to examine the role of these and other genes in acute HCV infection in both the&#xD;
+      systemic and local host/virus interaction. Acutely-infected liver tissue is difficult to&#xD;
+      obtain because most acute HCV infections are not identified, and because it is inappropriate&#xD;
+      to perform liver biopsies in these cases. Thus we will use two different approaches. First,&#xD;
+      we will study the gene expression patterns in peripheral blood mononuclear cells (PBMCs)&#xD;
+      collected from Egyptian health care workers with acute HCV (provided by Dr. Sanaa Kamal) and&#xD;
+      compare these to PBMCs from patients with genotype-matched chronic HCV and to healthy&#xD;
+      volunteers. We will develop predictive models to test which gene subsets are most associated&#xD;
+      with clinical outcomes such as the establishment of chronic infection. Second, we will use&#xD;
+      the recurrence of HCV post transplantation as a model of acute hepatitis in vivo. We will&#xD;
+      take biopsies of the donor liver PRIOR to transplantation and then follow gene expression&#xD;
+      levels over time as the virus infects the graft. After transplantation the HCV-naïve liver&#xD;
+      rapidly and universally becomes infected with HCV, though only 70% of patients develop&#xD;
+      histological evidence of recurrence on liver biopsies taken 3 and/or 6 months&#xD;
+      post-transplant. It is these patients who we currently treat for recurrent HCV using&#xD;
+      PegIFN/Rib. As before, we will develop predictive models to associate gene subsets with&#xD;
+      clinical outcomes. We have achieved more than a 60% response rate by encouraging treatment&#xD;
+      adherence despite the even more grueling side effects after transplantation. Thus, as for the&#xD;
+      treatment of HCV prior to transplantation a significant fraction of patients do not respond&#xD;
+      to therapy and are needlessly exposed to morbid side effects: the key clinical outcome we&#xD;
+      will consider is response to therapy with PegIFN/Rib. Another outcome of interest is the&#xD;
+      rapid development of cirrhosis within 5 years in 25-30% of patients, and the development of&#xD;
+      an aggressive fibrosing cholestatic state in 7-9% within 2 years of transplant. Together&#xD;
+      these data will point to the genes important for the immunological response that results in&#xD;
+      disease persistence or elimination (acute HCV in health care workers) and progression of&#xD;
+      liver disease (post-transplantation patients). Highly up- and down-regulated genes will be&#xD;
+      further studied in the HCV replicon model.&#xD;
+&#xD;
+      Research Objective 2. To determine the gene expression profiles which are most highly&#xD;
+      associated with clinical outcomes in acute hepatitis, both in circulating immune cells and in&#xD;
+      the liver.&#xD;
+&#xD;
+      Research Protocols for Section II:&#xD;
+&#xD;
+      We propose three major analyses. First, we will perform gene expression profiling in PBMC&#xD;
+      preparations provided by Dr. Kamal from patients with acute HCV. These PBMC preparations are&#xD;
+      being performed as part of ongoing studies headed by Dr. Kamal. Second, we will use&#xD;
+      microarray analysis to describe the hepatic genes which are altered by HCV infection in the&#xD;
+      post-transplant liver graft in response to infection by HCV. For this we will use portions of&#xD;
+      liver biopsies already being taken as part of routine post-transplant clinical care. Third,&#xD;
+      we will prepare PBMCs from patients with chronic HCV and from these determine gene expression&#xD;
+      profiles. Not only are these a critical comparison to acute HCV, but they will also act as&#xD;
+      the basis for predicting outcomes of treatment in chronic HCV.&#xD;
+&#xD;
+      IIa. Patient recruitment, study population and collection of samples and data:&#xD;
+&#xD;
+      In all cases, patients will be identified by clinical staff as potential candidates for the&#xD;
+      study and approached by a study nurse. Consent will be obtained for the research use of&#xD;
+      tissue and blood samples, and for the collection of patient clinical data.&#xD;
+&#xD;
+      Acute HCV: systemic PBMC response Dr. Kamal follows a population of Egyptian health care&#xD;
+      workers who become infected acutely with HCV, and she routinely isolates PBMCs from them.&#xD;
+      This clinical population is composed primarily of Genotype 1 and Genotype 4 infected&#xD;
+      individuals, and is thoroughly described for patient demographics, RNA titer at the time of&#xD;
+      blood collection, and progression to chronic infection. Given the relative rarity of Genotype&#xD;
+      4 in our local population our initial analysis will focus on Genotype 1 acute HCV, but we&#xD;
+      intend to study genotype 4 as well, since this genotype has great relevance to HCV worldwide.&#xD;
+      Based on our previous work we anticipate needing between 10-20 patients in a given group in&#xD;
+      order to clearly define consistent gene expression changes across a spectrum of clinical&#xD;
+      variability. We expect to collect and study PBMC samples from at least 20 acute genotype 1&#xD;
+      patients per year. Samples from 20 healthy control volunteers will also be obtained over the&#xD;
+      3 year study period (recruited by poster).&#xD;
+&#xD;
+      Acute HCV: Hepatic response to HCV recurrence post-transplantation Our center performs 30-40&#xD;
+      liver transplants each year in persons infected with HCV. All clinical data in our liver&#xD;
+      transplant population is entered into an Oracle-based database. Liver biopsies are routinely&#xD;
+      taken from the HCV-naïve graft prior to transplantation and at 12, 24, and 52 weeks&#xD;
+      post-transplantation. Based on previous experience we expect an accrual rate of at least 80%;&#xD;
+      thus, we will be able to collect data and specimens from roughly 24-32 patients per year.&#xD;
+      Biopsies of normal liver are taken as part of an ongoing study in our living donor population&#xD;
+      (PI: I. McGilvray). 30-40 such biopsies are taken every year and represent a unique source of&#xD;
+      control liver tissue.&#xD;
+&#xD;
+      Chronic HCV: systemic PBMC response Dr. Heathcote follows a large population of patients with&#xD;
+      chronic HCV. Blood samples will be taken from patients in whom treatment with PegIFN/Rib is&#xD;
+      being considered and PBMCs will be isolated. Based on our experience with the liver biopsy&#xD;
+      studies outlined in the Progress Report above, we expect to obtain PBMC preparations from at&#xD;
+      least 50 patients each year. Roughly 2/3 of these are Genotype 1 patients.&#xD;
+&#xD;
+      IIb. Data Analysis:&#xD;
+&#xD;
+      Acute HCV: Gene expression changes in response to acute HCV in circulating PBMCs Gene&#xD;
+      expression profiles from PBMCs from patients with acute Genotype 1 HCV will be determined and&#xD;
+      compared to those from normal healthy controls and chronic genotype 1 HCV. Genes will be&#xD;
+      identified by statistical and fold differences between groups (p value of &lt;0.01, fold change&#xD;
+      of at least 1.5). This comparison will define which gene expression alterations are specific&#xD;
+      to acute HCV infection. In order to associate individual genes with the progression to&#xD;
+      chronic disease, subgroup analyses will be done in which gene expression in acutely infected&#xD;
+      individuals is compared between those who went on to chronic infection and those who&#xD;
+      spontaneously eliminated the virus. After real-time PCR confirmation of these genes we will&#xD;
+      use a number of unsupervised (hierarchical clustering, principal components) and supervised&#xD;
+      (nearest neighbours, linear discriminants) analyses to develop predictive gene sets which&#xD;
+      accurately classify patients who go on to develop chronic infection. Taken together these&#xD;
+      results will identify those genes whose expression is altered in the systemic immunologic&#xD;
+      response to acute HCV and how these relate to the establishment of chronic disease. Genes&#xD;
+      which are of interest as possible therapeutic targets will be further studied using the HCV&#xD;
+      replicon model, as described earlier. By the end of the second year of the study we expect to&#xD;
+      have analyzed 40 acute genotype 1 patients, and in the third year we will analyze 20 genotype&#xD;
+      4 patients.&#xD;
+&#xD;
+      Acute HCV: local hepatic gene expression in post-transplantation HCV infection Gene&#xD;
+      expression profiles will be determined from liver biopsies at organ retrieval, prior to&#xD;
+      infection by HCV, and at 3, 6 and 12 months after transplantation. Gene changes can therefore&#xD;
+      be followed in the same patient and between patients; genes levels will be compared to normal&#xD;
+      liver tissue and to baseline gene expression in HCV-naïve grafts, using statistical methods&#xD;
+      developed in our lab and at the EBI. Currently 70% of the patients transplanted with HCV in&#xD;
+      our center are treated for recurrent HCV post-transplantation after evidence of recurrent HCV&#xD;
+      on liver biopsy, and in these patients quantitative HCV titers are done at 3 or 6 months&#xD;
+      post-transplantation. Roughly 80% of our patients complete therapy over a 12 month course.&#xD;
+      Thus, by the end of our 3 year study we will know the response to treatment of between 28-36&#xD;
+      patients (we expect a 60% response rate, thus roughly 17-22 responders and 11-14&#xD;
+      nonresponders), and eventually will have data on the 42-54 patients expected to complete&#xD;
+      therapy. With this sample size we can determine which gene subsets are predictive of response&#xD;
+      to treatment (using the methods noted above). Equally we will be able to relate gene&#xD;
+      expression to HCV RNA titer in 50-60 patients. By the end of the three year study we will&#xD;
+      have clinical and genomic data on 72 to 90 patients. Ultimately we will relate gene&#xD;
+      expression to the development of recurrent cirrhosis, and we anticipate that roughly 18-30&#xD;
+      patients will have gone on to this state within 5 years of transplantation. In order to&#xD;
+      control for the effects of the many confounding factors that could influence hepatic gene&#xD;
+      expression post-transplantation (eg. acute rejection, immunosuppression) we will perform&#xD;
+      subgroup analyses using our extensive clinical database. We will compare HCV treatment&#xD;
+      responders to nonresponders, rejection to no rejection, and different immunosuppressive&#xD;
+      regimens, in addition to comparing gene expression profiles from acute hepatic HCV to those&#xD;
+      already determined for chronic HCV. These analyses will allow us to distinguish and describe&#xD;
+      the effects of acute HCV infection on hepatic gene expression.&#xD;
+&#xD;
+      Chronic HCV: circulating PBMC response and prediction of treatment outcome:&#xD;
+&#xD;
+      Over the first 2 years of our study we will use gene expression profiling to study PBMCs from&#xD;
+      roughly 30 patients with chronic genotype 1 HCV. This data will serve as a crucial control&#xD;
+      for our studies of acute HCV in PBMCs. However, all of these samples are taken from patients&#xD;
+      who will go on to treatment with PegIFN/Rib. Therefore we will use the gene expression data&#xD;
+      from these studies not only for comparison with the acutely infected PBMCs, but also to&#xD;
+      determine which gene subsets are predictive of treatment outcome. These results will form the&#xD;
+      basis for a noninvasive prognostic test.&#xD;
+&#xD;
+      Conclusions II: These studies will provide a comprehensive description of the gene expression&#xD;
+      changes that accompany acute HCV infection at both the systemic and the local level. They&#xD;
+      will clearly identify genes which are important to the progression to chronic disease and to&#xD;
+      adverse clinical outcomes, thereby suggesting novel prognostic and therapeutic targets.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>February 2002</start_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Defined Population</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <enrollment>200</enrollment>
+  <condition>Hepatitis C</condition>
+  <condition>Hepatitis B</condition>
+  <condition>Autoimmune Hepatitis</condition>
+  <condition>Liver Cirrhosis, Biliary</condition>
+  <condition>Cholangitis, Sclerosing</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: patients who have a liver biopsy as standard of care and are diagnosed&#xD;
+        with either:&#xD;
+&#xD;
+          -  patients attending Liver Clinic at Toronto Western Hospital, Toronto, ON, Canada&#xD;
+&#xD;
+          -  Hepatitis C&#xD;
+&#xD;
+          -  Hepatitis B&#xD;
+&#xD;
+          -  Autoimmune Hepatitis&#xD;
+&#xD;
+          -  Primary Biliary Cirrhosis&#xD;
+&#xD;
+          -  Primary Sclerosing Cholangitis&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>E.J.L (Jenny) Heathcote, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UHN - Toronto Western Hospital, University of Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Catalina Coltescu</last_name>
+    <phone>416-603-5832</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Liver Clinic, Toronto Western Hospital, UHN</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>E.J.L. (Jenny) Heathcote, MD</last_name>
+      <phone>416-603-5914</phone>
+    </contact>
+    <investigator>
+      <last_name>E.J.L. (Jenny) Heathcote, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2005</verification_date>
+  <study_first_submitted>September 8, 2005</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2005</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 12, 2005</study_first_posted>
+  <last_update_submitted>November 29, 2005</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2005</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 1, 2005</last_update_posted>
+  <keyword>gene expression</keyword>
+  <keyword>viral hepatitis</keyword>
+  <keyword>autoimmune disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Hepatitis B</mesh_term>
+    <mesh_term>Hepatitis</mesh_term>
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Cholangitis</mesh_term>
+    <mesh_term>Hepatitis, Autoimmune</mesh_term>
+    <mesh_term>Liver Cirrhosis, Biliary</mesh_term>
+    <mesh_term>Cholangitis, Sclerosing</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

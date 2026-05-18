@@ -1,0 +1,314 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00909909</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro20170001671</org_study_id>
+    <secondary_id>CDR0000643276</secondary_id>
+    <secondary_id>P30CA072720</secondary_id>
+    <secondary_id>0220090059</secondary_id>
+    <secondary_id>040807</secondary_id>
+    <nct_id>NCT00909909</nct_id>
+  </id_info>
+  <brief_title>Radiation Therapy in Treating Women With Early Stage Breast Cancer</brief_title>
+  <official_title>Safety and Feasibility of Accelerated, Hypofractionated Radiotherapy in Women With Breast Cancer: A Phase II Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rutgers Cancer Institute of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Radiation therapy uses high-energy x-rays to kill tumor cells. Giving radiation&#xD;
+      therapy in different ways may kill more tumor cells. Giving it after surgery may kill any&#xD;
+      tumor cells that remain after surgery.&#xD;
+&#xD;
+      PURPOSE: This phase II trial is studying the side effects of radiation therapy and to see how&#xD;
+      well it works in treating women with early stage breast cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  To determine the freedom from local and regional failure in women with early stage&#xD;
+           breast cancer treated with accelerated, hypofractionated radiotherapy.&#xD;
+&#xD;
+        -  To determine the acute and late toxicity of accelerated, hypofractionated radiotherapy&#xD;
+           using previously published toxicity scales.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  To measure cosmesis using the Harvard cosmesis scale in patients who have undergone&#xD;
+           lumpectomy.&#xD;
+&#xD;
+        -  To identify co-variates responsible for poor cosmetic outcome in these patients.&#xD;
+&#xD;
+      OUTLINE: Patients who have undergone lumpectomy undergo either intracavitary balloon&#xD;
+      brachytherapy boost and hypofractionated, accelerated whole breast irradiation (AWBI) OR&#xD;
+      3D-conformal radiotherapy (3D-CRT)/intensity-modulated radiotherapy (IMRT) boost and AWBI.&#xD;
+      Patients who have undergone mastectomy undergo hypofractionated, accelerated chest wall&#xD;
+      irradiation.&#xD;
+&#xD;
+        -  Intracavitary balloon brachytherapy boost and AWBI (post-lumpectomy): Patients undergo&#xD;
+           intracavitary balloon brachytherapy boost twice daily for 2 days (total of 4 fractions).&#xD;
+           Beginning 5-21 days after completion of brachytherapy, patients undergo AWBI once daily&#xD;
+           5 days a week for approximately 2 weeks (total of 11 fractions).&#xD;
+&#xD;
+        -  3D-CRT/IMRT boost and AWBI (post-lumpectomy): Patients undergo 3D-CRT/IMRT boost twice&#xD;
+           daily for 2 days (total of 4 fractions). Patients also undergo AWBI as above before or&#xD;
+           after boost radiotherapy.&#xD;
+&#xD;
+        -  Accelerated chest wall irradiation (post-mastectomy): Patients undergo accelerated chest&#xD;
+           wall irradiation once daily 5 days a week for approximately 2 weeks (total of 11&#xD;
+           fractions).&#xD;
+&#xD;
+      Patients who have undergone lumpectomy undergo frontal digital photography of the breasts at&#xD;
+      baseline, immediately before the initiation of radiotherapy, and then annually for 3 years&#xD;
+      after completion of radiotherapy. These patients also complete the Breast Cancer Treatment&#xD;
+      Outcome Scale at baseline and at 3 years after completion of radiotherapy. Physicians&#xD;
+      complete the Harvard Cosmesis scale at baseline and at 1 and 3 years after completion of&#xD;
+      radiotherapy.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at weeks 1, 4, and 8 and then&#xD;
+      every 4 months for 2 years, every 6 months for 3 years, and annually thereafter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 13, 2009</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Loco-regional control as assessed by physical examination, mammography, and other relevant imaging</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity (including seroma formation, brachial plexopathy, fat necrosis, pain, pigmentation, and telangiectasia) as assessed by NCI CTCAE v3.0</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cosmesis as assessed by the Breast Cancer Treatment Outcome Scale</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>3DCRT/IMRT lumpectomy bed boost followed by accelerated whole breast irradiation (AWBI)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Accelerated whole breast irradiation (AWBI) followed by 3DCRT/IMRT lumpectomy bed boost</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>External beam boost</intervention_name>
+    <description>3-dimensional conformal radiation therapy and intensity modulated radiation therapy</description>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_label>B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>whole breast irradiation</intervention_name>
+    <description>accelerated, hypofractionated whole breast irradiation</description>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_label>B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed breast cancer, including 1 of the following subtypes:&#xD;
+&#xD;
+               -  Ductal carcinoma in situ&#xD;
+&#xD;
+               -  Invasive ductal carcinoma&#xD;
+&#xD;
+               -  Invasive lobular carcinoma&#xD;
+&#xD;
+               -  Medullary carcinoma&#xD;
+&#xD;
+               -  Papillary carcinoma&#xD;
+&#xD;
+               -  Colloidal (mucinous) carcinoma&#xD;
+&#xD;
+               -  Tubular carcinoma&#xD;
+&#xD;
+          -  Pathological stage 0-IIIA disease (pTis; pT1-2, N0-N2a, M0)&#xD;
+&#xD;
+               -  Tumor size ≤ 5 cm&#xD;
+&#xD;
+          -  Breast considered technically satisfactory for radiotherapy&#xD;
+&#xD;
+          -  Has undergone lumpectomy or mastectomy and either sentinel node biopsy or axillary&#xD;
+             dissection (if invasive carcinoma is present)&#xD;
+&#xD;
+               -  Negative inked histological margins (i.e., no invasive cells at surgical margin)&#xD;
+                  or confirmed negative re-excision specimen&#xD;
+&#xD;
+          -  Unifocal or multifocal (confined to 1 quadrant; tumors &lt; 4 cm apart) disease with 1 or&#xD;
+             2 foci that can be encompassed by 1 lumpectomy&#xD;
+&#xD;
+          -  No proven multicentric carcinoma (tumors in different quadrants of the breast or tumor&#xD;
+             separated by ≥ 4 cm) with other clinically or radiographically suspicious areas in the&#xD;
+             ipsilateral breast unless confirmed to be negative for malignancy by biopsy&#xD;
+&#xD;
+          -  No evidence of suspicious microcalcifications in the breast before the start of&#xD;
+             radiotherapy&#xD;
+&#xD;
+               -  If malignancy-associated microcalcifications were initially present, the&#xD;
+                  post-excision mammography must be negative&#xD;
+&#xD;
+          -  No more than 9 positive axillary lymph nodes&#xD;
+&#xD;
+          -  No palpable or radiographically suspicious contralateral axillary, supraclavicular,&#xD;
+             infraclavicular, or internal mammary nodes unless there is histologic confirmation&#xD;
+             that these nodes are negative for tumor&#xD;
+&#xD;
+          -  No previously treated contralateral breast cancer or synchronous ipsilateral breast&#xD;
+             cancer&#xD;
+&#xD;
+          -  No lobular carcinoma in situ alone (i.e., no invasive component) or non-epithelial&#xD;
+             breast malignancies (e.g., sarcoma or lymphoma)&#xD;
+&#xD;
+          -  No Paget disease of the nipple&#xD;
+&#xD;
+          -  No skin involvement, regardless of tumor size&#xD;
+&#xD;
+          -  No distant metastases&#xD;
+&#xD;
+          -  Hormone receptor status not specified&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  Pre- or post-menopausal&#xD;
+&#xD;
+          -  ECOG performance status 0-1&#xD;
+&#xD;
+          -  No co-existing medical condition that would limit life expectancy to &lt; 2 years&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No other malignancy within the past 5 years except for nonmelanoma skin cancer (the&#xD;
+             disease-free interval from any prior malignancy must be continuous)&#xD;
+&#xD;
+          -  No collagen vascular disease, specifically systemic lupus erythematosus, scleroderma,&#xD;
+             or dermatomyositis&#xD;
+&#xD;
+          -  No psychiatric or addictive disorder that would preclude obtaining informed consent&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior radiotherapy for the current breast cancer&#xD;
+&#xD;
+          -  No tylectomies so extensive that the cosmetic result is low or poor prior to&#xD;
+             radiotherapy&#xD;
+&#xD;
+          -  Chemotherapy allowed provided the following criteria are met:&#xD;
+&#xD;
+               -  Chemotherapy is not administered prior to, during, and for ≥ 21 days after&#xD;
+                  completion of radiotherapy (for patients receiving brachytherapy boost)&#xD;
+&#xD;
+               -  Chemotherapy is not administered for ≥ 21 days before, during, and for ≥ 21 days&#xD;
+                  after completion of radiotherapy (for patients receiving external beam&#xD;
+                  radiotherapy boost or chest wall irradiation)&#xD;
+&#xD;
+          -  Concurrent tamoxifen, anastrozole, or other hormonal therapy allowed&#xD;
+&#xD;
+               -  May be initiated before, during, or after radiotherapy&#xD;
+&#xD;
+          -  No other concurrent chemotherapy, immunotherapy, or experimental medications&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruce Haffty, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rutgers Cancer Institute of New Jersey</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rutgers Cancer Institute of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>May 28, 2009</study_first_submitted>
+  <study_first_submitted_qc>May 28, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 29, 2009</study_first_posted>
+  <last_update_submitted>April 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Bruce G. Haffty, MD</investigator_full_name>
+    <investigator_title>Professor and Chairman, Department of Radiation Oncology</investigator_title>
+  </responsible_party>
+  <keyword>ductal breast carcinoma in situ</keyword>
+  <keyword>invasive ductal breast carcinoma</keyword>
+  <keyword>invasive lobular breast carcinoma</keyword>
+  <keyword>medullary ductal breast carcinoma with lymphocytic infiltrate</keyword>
+  <keyword>mucinous ductal breast carcinoma</keyword>
+  <keyword>papillary ductal breast carcinoma</keyword>
+  <keyword>tubular ductal breast carcinoma</keyword>
+  <keyword>stage I breast cancer</keyword>
+  <keyword>stage II breast cancer</keyword>
+  <keyword>stage IIIA breast cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

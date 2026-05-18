@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00661882</url>
+  </required_header>
+  <id_info>
+    <org_study_id>405-02</org_study_id>
+    <nct_id>NCT00661882</nct_id>
+  </id_info>
+  <brief_title>Pancreatic Cancer Collaborative Registry</brief_title>
+  <official_title>Integrated Cancer Repository for Cancer Research (iCaRe2)- Subproject: Pancreatic Cancer Collaborative Registry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Quan Ly</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Nebraska</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Gathering information about patients with cancer may help doctors learn more about&#xD;
+      the disease and plan early diagnosis and treatment.&#xD;
+&#xD;
+      PURPOSE: This clinical trial is studying computer tools for improving early diagnosis and&#xD;
+      treatment in patients with pancreatic cancer, are at risk for pancreatic cancer, or have a&#xD;
+      non-cancerous pancreatic disorder.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Develop Integrated Biomedical Computing Tools (IBCT) for the better understanding and&#xD;
+           treatment of pancreatic cancer by using the power of computer and informatics sciences.&#xD;
+&#xD;
+        -  Continue development of the Pancreatic Cancer Collaborative Registry (PCCR)&#xD;
+           infrastructure to act as a repository for socio-demographic, environmental, clinical,&#xD;
+           and family history data collected from individuals and interested family members with a&#xD;
+           personal and/or family history of pancreatic cancer.&#xD;
+&#xD;
+        -  Participate in an international pancreatic registry known as the PCCR by sharing&#xD;
+           information collected for research purposes only, to be used by pancreatic cancer&#xD;
+           research collaborators from other institutions.&#xD;
+&#xD;
+        -  Collect and bank excess biological materials (i.e., pancreatic tissue, tumor tissue,&#xD;
+           and/or metastatic pancreatic cancer tissue, and/or paraffin-embedded tissue), blood, and&#xD;
+           serum from registry participants for future research.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study.&#xD;
+&#xD;
+      Patients undergo blood and pancreatic tissue collection. Normal, tumor, and/or metastatic&#xD;
+      pancreatic cancer tissue, and/or paraffin-embedded tissue from prior surgery or biopsy are&#xD;
+      obtained.&#xD;
+&#xD;
+      Patients provide or complete personal information about themselves, their medical history,&#xD;
+      their diet and lifestyle habits, any past or current environmental exposures, and re-create&#xD;
+      their family tree for any cancers that have occurred in any of their family members. Clinical&#xD;
+      data is collected annually.&#xD;
+&#xD;
+      High Risk participants provide blood samples and complete questionnaires at baseline.&#xD;
+      Clinical data is collected annually.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2003</start_date>
+  <completion_date type="Actual">September 9, 2013</completion_date>
+  <primary_completion_date type="Actual">September 9, 2013</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of the Pancreatic Cancer Collaborative Registry (PCCR) infrastructure as a repository for socio-demographic, environmental, clinical, and family history data</measure>
+    <time_frame>Yearly</time_frame>
+    <description>Ongoing registry.</description>
+  </primary_outcome>
+  <enrollment type="Actual">379</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>medical chart review</intervention_name>
+    <description>Medical information, called &quot;protected health information&quot; (PHI), which includes demographic information (like address and birth date), the results of physical exams, blood tests, x-rays and other diagnostic and medical procedures and treatments, as well as medical and surgical history will be accessed from the subject's medical record.</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire administration</intervention_name>
+    <description>Provide or complete personal information about themselves, their medical history, their diet and lifestyle habits, any past or current environmental exposures and to re-create their family tree for any cancers that have occurred in any of their family members. In accordance with OPRR guidelines, no identifying information such as name, address, or date of birth will be used for relatives, but the affected status (cancer, age of onset, age of death) will be recorded. This information will be collected by whichever method they prefer; completing the questionnaires on hardcopy (to then be entered into the PCCR by a data manager) or by logging on to the PCCR website to complete the questionnaires by obtaining a user id and password to enter their information directly into the PCCR. Study participants who are in the EDRN project are required to complete the questionnaires on hardcopy (to then be entered into the PCCR by a data manager).</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>study of socioeconomic and demographic variables</intervention_name>
+    <description>Share the information they provided with the PCCR research collaborators. This national group has formed the PCCR and is dedicated to pooling their efforts against pancreatic cancer.</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>biopsy</intervention_name>
+    <description>Release a portion of pancreatic tissue, tumor tissue and/or metastatic pancreatic cancer tissue and/or paraffin embedded tissue that has already been collected and saved from their previous surgery or biopsy for storage in the UNMC Solid Tumor Bank for future studies done here or at collaborating institutions. All studies will be proposed in future IRB submissions.</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Questionnaire Blood: 30ml Access to leftover tissue: release a portion of leftover tissue&#xD;
+      collected and saved from surgery/biopsy.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study participants will be asked to voluntarily participate in this project because they&#xD;
+        have been diagnosed with PC, have a family history of PC, or fulfill the criteria to be one&#xD;
+        of the three different control groups meaning they will either have a diagnosis of chronic&#xD;
+        pancreatitis, acute biliary obstruction, or they are a healthy unaffected individual.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Patients must meet 1 of the following criteria:&#xD;
+&#xD;
+               -  Histologically confirmed adenocarcinoma of the pancreas&#xD;
+&#xD;
+                    -  Resectable stage I-IIA disease or stage IIB or higher disease&#xD;
+&#xD;
+                         -  Must have undergone complete surgical resection of the tumor with&#xD;
+                            curative intent&#xD;
+&#xD;
+                    -  Pancreatic mass (solid) that is less than 4 cm as determined by any&#xD;
+                       conventional imaging (MRI, EUS, or CT scan)&#xD;
+&#xD;
+                    -  No evidence of extension of the mass beyond the pancreas including vascular&#xD;
+                       invasion or invasion into surrounding organs, with the exception of the bile&#xD;
+                       duct&#xD;
+&#xD;
+                    -  No imaging evidence of metastatic disease or lymphadenopathy (lymph nodes&#xD;
+                       greater than 1 cm and/or appearance suspicious for an advanced lesion by&#xD;
+                       imaging criteria)&#xD;
+&#xD;
+               -  Has a family history of pancreatic cancer and is considered to be an at-risk&#xD;
+                  individual for the disease (i.e., member of a family with 2 or more individuals&#xD;
+                  with pancreatic cancer)&#xD;
+&#xD;
+          -  Control participants must meet 1 of the following criteria:&#xD;
+&#xD;
+               -  Chronic pancreatitis OR history of exocrine insufficiency meeting the following&#xD;
+                  criteria:&#xD;
+&#xD;
+                    -  At least 2 of the following criteria are met (unless patient has a history&#xD;
+                       of pancreatic exocrine insufficiency in which case only 1 criterion must be&#xD;
+                       met):&#xD;
+&#xD;
+                         -  Abdominal ultrasound that is consistent with chronic pancreatitis by&#xD;
+                            standard radiological criteria (i.e., echogenic foci in the parenchyma,&#xD;
+                            large or small cavities, calcifications, or dilated pancreatic duct)&#xD;
+&#xD;
+                         -  Abdominal CT scan consistent with chronic pancreatitis by standard&#xD;
+                            radiological criteria (i.e., calcifications, dilated pancreatic duct,&#xD;
+                            irregular contour of the gland, or cystic lesions)&#xD;
+&#xD;
+                         -  Endoscopic retrograde cholangiopancreatography exam consistent with&#xD;
+                            chronic pancreatitis by standard radiological criteria (i.e., dilated&#xD;
+                            tortuous main pancreatic duct with irregular secondary branches or&#xD;
+                            intraductal calculi)&#xD;
+&#xD;
+                         -  Endoscopic ultrasound consistent with chronic pancreatitis by standard&#xD;
+                            radiological criteria (i.e., echogenic foci, focal regions of decreased&#xD;
+                            echogenicity, or pancreatic ductal changes)&#xD;
+&#xD;
+                         -  Pancreatic calcifications identified on plain film of the abdomen&#xD;
+&#xD;
+                    -  Must have an imaging study of the pancreas within 3 months of study&#xD;
+                       enrollment that does not suggest a pancreatic mass&#xD;
+&#xD;
+                    -  Stable clinical history over the past year with no suspicion for cancer due&#xD;
+                       to weight loss, jaundice, or change in abdominal symptoms&#xD;
+&#xD;
+                    -  No family history of pancreatic cancer&#xD;
+&#xD;
+               -  Acute biliary obstruction (stones) including jaundice of benign etiology meeting&#xD;
+                  the following criteria:&#xD;
+&#xD;
+                    -  Elevation of serum bilirubin level greater than 2.0 mg/dL&#xD;
+&#xD;
+                    -  Dilated extrahepatic biliary systems demonstrated on US, MRI, or CT scan&#xD;
+&#xD;
+                    -  Blood sample available within 72 hours of admission and prior to any&#xD;
+                       corrective intervention&#xD;
+&#xD;
+                    -  Biliary obstruction must be of benign etiology such as common bile duct&#xD;
+                       stone or benign biliary stricture&#xD;
+&#xD;
+                    -  Must have complete imaging study performed of the pancreas that does not&#xD;
+                       suggest a pancreatic cancer (i.e., discrete mass lesion)&#xD;
+&#xD;
+                    -  No family history of pancreatic cancer&#xD;
+&#xD;
+               -  Healthy control meeting the following criteria:&#xD;
+&#xD;
+                    -  Age, race, and sex-matched to qualified pancreatic cancer cases&#xD;
+&#xD;
+                    -  No family history of pancreatic cancer&#xD;
+&#xD;
+                    -  No personal history of acute pancreatitis or biliary obstruction (stones)&#xD;
+                       including jaundice of benign etiology&#xD;
+&#xD;
+                    -  No concurrent abdominal pain&#xD;
+&#xD;
+                    -  No concurrent unexplained weight loss&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  No prior malignancy, except nonmelanoma skin cancer, for 10 years&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior preoperative chemoradiotherapy (neoadjuvant)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Quan Ly, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UNMC Fred and Pamela Buffett Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UNMC Eppley Cancer Center at the University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198-6805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2017</verification_date>
+  <study_first_submitted>April 18, 2008</study_first_submitted>
+  <study_first_submitted_qc>April 18, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 21, 2008</study_first_posted>
+  <last_update_submitted>May 9, 2017</last_update_submitted>
+  <last_update_submitted_qc>May 9, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 11, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Nebraska</investigator_affiliation>
+    <investigator_full_name>Quan Ly</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>adenocarcinoma of the pancreas</keyword>
+  <keyword>recurrent pancreatic cancer</keyword>
+  <keyword>stage I pancreatic cancer</keyword>
+  <keyword>stage II pancreatic cancer</keyword>
+  <keyword>stage III pancreatic cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Request for data and/or specimen will need to be approved by the center's PI.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

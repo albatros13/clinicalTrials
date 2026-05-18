@@ -1,0 +1,677 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00502684</url>
+  </required_header>
+  <id_info>
+    <org_study_id>392-22.6.07 / 2358 HMO-CTIL</org_study_id>
+    <nct_id>NCT00502684</nct_id>
+  </id_info>
+  <brief_title>Perioperative Administration of COX 2 Inhibitors and Beta Blockers to Women Undergoing Breast Cancer Surgery</brief_title>
+  <official_title>Perioperative Administration of COX 2 Inhibitors and Beta Blockers in Women Undergoing Breast Cancer Surgery: an Intervention to Decrease Immune Suppression, Metastatic Potential and Cancer Recurrence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kaplan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Tel Aviv University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tel-Aviv Sourasky Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sheba Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rabin Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kaplan Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Surgery for breast cancer has a major role in enhancing long term survival and cure, but&#xD;
+      several physiological aspects associated with surgery are implicated as enhancing tumor&#xD;
+      spread and formation of distant metastases. These include: an increase in pro-angiogenic&#xD;
+      factors, direct spread of tumor cells, accumulation of grown factors, immune suppression and&#xD;
+      direct effects of anesthetics and opiate pain relievers on cancer cells. Some of these&#xD;
+      pro-metastatic mechanism may be blocked by the interventions proposed in this study, namely&#xD;
+      by administration of beta-adrenergic blockers and COX2 inhibitors around the time of surgery.&#xD;
+&#xD;
+      Studies have shown that surgery increases levels of catecholamines and prostaglandins, which&#xD;
+      in turn may promote the release of pro-angiogenic factors such as VEGF, and enhance&#xD;
+      vascularization of micro metastases.&#xD;
+&#xD;
+      Opiates given for pain relief during and after surgery have been reported to enhance tumor&#xD;
+      cell division and cause immune suppression.&#xD;
+&#xD;
+      The immune system is significantly suppressed during surgery. This suppression has been shown&#xD;
+      to affect the systemic resistance to infection as well as neoplastic metastatic processes.&#xD;
+&#xD;
+      Several studies have shown that increased levels of catecholamines and prostaglandins add to&#xD;
+      the immune suppression.&#xD;
+&#xD;
+      Studies in rats found that peri-operative administration of the beta beta-blocker propranolol&#xD;
+      together with the COX2 inhibitor etodolac significantly reduced the suppression of NK cell&#xD;
+      activity as well as the risk for distant metastases.&#xD;
+&#xD;
+      A recent retrospective clinical study found that among breast cancer patients treated with a&#xD;
+      combination of regional anesthesia and a COX inhibitor the recurrence rated were&#xD;
+      significantly less than among patients undergoing surgery without these two interventions.&#xD;
+&#xD;
+      The purpose of the proposed prospective trial is to examine if peri-operative administration&#xD;
+      of the combination of a beta-blocker together with a COX2 inhibitor will prevent suppression&#xD;
+      of cellular immunity, decrease VEGF levels, and decrease cancer recurrence rates.&#xD;
+&#xD;
+      In the proposed study breast cancer patients will be treated with a combination of a&#xD;
+      beta-blocker and COX2 inhibitor (or placebo) before, during and after surgery. (A control&#xD;
+      group of healthy women will serve as untreated controls). The variables which will be&#xD;
+      examined are: number and activity of NK cells, levels of Th1 and Th2 cytokines, serum stress&#xD;
+      hormones and angiogenic factors, and the ability of leukocytes to produce Th1 and Th2&#xD;
+      cytokines as a result of in vitro stimulation.&#xD;
+&#xD;
+      In addition to these immediate parameters, long term follow up will be conducted in order to&#xD;
+      determine the effect of the intervention on long term cancer recurrence over five years.&#xD;
+&#xD;
+      Statistical analysis will be done using t-tests, ANOVA, and multivariate regressions, with&#xD;
+      regard to the known risk factors for recurrence such as tumor grade, lymph node involvement&#xD;
+      etc. Sample size for immunological parameters will be 40 patients in each group and 20&#xD;
+      healthy women. Sample size for estimates of cancer recurrence at five years of follow up wiil&#xD;
+      be 460 women (230 in each group). This sample size provides a power of 80% to detect a 50%&#xD;
+      reduction in cancer recurrence at an α of 0.05.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Scientific Background Anesthesia and surgery are stressful situations which cause&#xD;
+      neuro-endocrine, metabolic and neurological responses. Cancer surgery may cause a decrease in&#xD;
+      anti-angiogenic factors, and enable dissemination of tumor cells through manipulation of the&#xD;
+      tumor and it blood vessels, as well as local and systemic secretion of growth hormones, and&#xD;
+      immune suppression. The magnitude of the response depends on many factors, including the&#xD;
+      extent of tissue injury, technique of anesthesia and type of analgesia, transfusions,&#xD;
+      temperature changes, psychological stress and genetic factors (1-3). The tissue damage starts&#xD;
+      a cascade of local and systemic processes which include secretion of hormones and cytokines&#xD;
+      (1).&#xD;
+&#xD;
+      Post operatively, suppression of several immune functions occurs, and may last for weeks. The&#xD;
+      cellular immunity undergoes suppression, while the humoral immunity remains almost entirely&#xD;
+      intact (1). These changes in cell mediated immunity may impact systemic resistance to&#xD;
+      infection as well as metastatic processes. Specifically, NK cells have a pivotal role in&#xD;
+      defense from neoplastic processes. Studies have shown that high levels of activity of NK&#xD;
+      cells are associated with long term survival (1). Therefore, understanding of the processes&#xD;
+      which cause post-operative immune suppression, and prevention of such suppression, are of&#xD;
+      clinical significance.&#xD;
+&#xD;
+      Several substances which are secreted after surgery are thought to contribute to immune&#xD;
+      suppression in general and NK cell dysfunction in particular. These include prostaglandins,&#xD;
+      catecholamines, steroids and endorphins, have all been shown to suppress several&#xD;
+      immunological functions in vitro (1). Animal studies have shown that administration of&#xD;
+      prostaglandins and catecholamines to rats suppresses NK cell activity in vivo, in association&#xD;
+      with elevated susceptibility to metastases 4-6).&#xD;
+&#xD;
+      In rats undergoing a laparotomy, peri-operative administration of beta- adrenergic blockers&#xD;
+      together with COX-2 inhibitors significantly abrogated the NK cell suppression as well as the&#xD;
+      enhanced susceptibility to metastases after surgery (4,7).&#xD;
+&#xD;
+      The mechanism of effect of prostaglandins and catecholamines on NK cells has been elucidated&#xD;
+      (1): beta- adrenergic receptors and prostanoid receptors on the cell membrane cause elevated&#xD;
+      levels of intra-cellular cAMP when activated by their ligand, which in turn interferes with&#xD;
+      the NK cell cytotoxic activity against cancer cells or viral pathogens. Since the elevated&#xD;
+      intra-cellular levels of cAMP is caused by each type of receptor independently, blockade of&#xD;
+      only one of these pathways will enable an increase in intracellular cAMP levels via the other&#xD;
+      pathway, and have no effect of the suppression of cytotoxic activity. Therefore, simultaneous&#xD;
+      blockade of both pathways may be more effective. Research in rats directly supports this&#xD;
+      hypothesis (7).&#xD;
+&#xD;
+      Cells of the immune system express mostly beta-2 adrenergic receptors, and to a lesser degree&#xD;
+      beta-1 receptors (9, 10), so pharmacological blockade requires use of a non specific blocker&#xD;
+      which can block both types of receptors. The beta-antagonist propranolol was chosen for this&#xD;
+      experiment since it is a non specific beta-blocker, capable of blocking both types of&#xD;
+      receptors, as well as extensive clinical experience with this drug and the fact that it is a&#xD;
+      relatively safe drug. The COX-2 inhibitor chosen is Etodlac (Etopan), which has the advantage&#xD;
+      of being a selective COX-2 inhibitor,synthesized during injury and inflammation, with little&#xD;
+      effect on the COX-1 enzyme, which is associated with ongoing maintenance of tissues.&#xD;
+&#xD;
+      Anesthetics and opiate analgesics also cause NK cell suppression. Research in animals and in&#xD;
+      humans has shown that morphine and fentanyl cause suppression of NK cell activity, and&#xD;
+      enhance susceptibility to breast cancer metastases in rats (11,12). Lower doses of opiates in&#xD;
+      patients have been reported to decrease the immune suppression magnitude and duration (13).&#xD;
+      Therefore, peri-operative interventions which decrease the use of opiates (or their&#xD;
+      endogenous secretion) may be clinically important factors in cancer recurrence.&#xD;
+&#xD;
+      In addition to immune suppression, endogenous and exogenous opiates (endorphins morphine,&#xD;
+      fentanyl) have been implicated as promoting metastatic spread and neoplastic proliferation&#xD;
+      via other mechanisms:&#xD;
+&#xD;
+        -  Catecholamines have been reported to increase VEGF secretion by human cancer cells, and&#xD;
+           enhance tumor cell invasion (14-16).&#xD;
+&#xD;
+        -  Morphine causes increased proliferation of human tumor cells and enhances tumor&#xD;
+           vascularization (17)&#xD;
+&#xD;
+        -  COX2 inhibitors enhance sensitivity of human tumor cells to induction of apoptosis, and&#xD;
+           decrease capillary density in cancer tissue (18, 19).&#xD;
+&#xD;
+      Therefore, minimization of peri-operative opiate use and prevention or blockade of&#xD;
+      prostaglandin and catecholamine effects may delay the metastatic process and the development&#xD;
+      of existing micro-metastases.&#xD;
+&#xD;
+      A retrospective clinical study published in 2006 indirectly supports the proposed study: In&#xD;
+      this study breast cancer patients were treated per-operatively with a COX inhibitor&#xD;
+      (diclofenac) along with local blockade of the sympathetic and pain pathways (paravertebral&#xD;
+      anesthesia). These treatments no doubt lowered the use of opiates during and after surgery.&#xD;
+      Among patients thus treated a three fold decrease in recurrence rates was found three years&#xD;
+      after surgery (21). Of note, this study quotes the previously mentioned study in rats (6,22)&#xD;
+      and involves the same interventions.&#xD;
+&#xD;
+      AIM The aim of the proposed study is to examine whether peri-operative administration of COX2&#xD;
+      inhibitors with beta- adrenergic blockers decreases immune suppression during surgery,&#xD;
+      decreases stress hormone and pro-angiogenic factor secretion, and is associated with a&#xD;
+      decrease in cancer recurrence rates.&#xD;
+&#xD;
+      The peri-operative variables which will be examined will include number and activity of NK&#xD;
+      cells in the blood, levels of Th1 and Th2 cytokines, stress hormones and pro-angiogenic&#xD;
+      factors, and Th1 and 2 cytokine production by leukocytes in response to in vitro stimulation.&#xD;
+      As part of the clinical monitoring meticulous recording of type and doses of analgesics given&#xD;
+      post operatively, as well as post operative pain assessment (NAS VAS). In addition to these&#xD;
+      parameters, long term follow up will be conducted to determine long term effects of the&#xD;
+      intervention on cancer recurrence.&#xD;
+&#xD;
+      Peri-operative administration of COX inhibitors and beta- adrenergic blockers Routine pre&#xD;
+      medication before surgery generally includes anxiolytics such as benzodiazepines, drugs&#xD;
+      routinely taken by the patient, and additional drugs for specific indications. Preventive&#xD;
+      administration of beta- blockers and COX inhibitors are recommended in the literature&#xD;
+      pertaining to anesthesia and pain. Administration of beta- blockers has been shown to&#xD;
+      stabilize the cardio vascular system and decrease peri-operative ischemic events (23), while&#xD;
+      preventive administration of COX inhibitors decreases post operative pain (5). Post operative&#xD;
+      pain has significant immunological effects: it causes secretion of endogenous opiates, and is&#xD;
+      often treated with synthetic opiates such as morphine. The opiates cause a stress response,&#xD;
+      suppress immune functions and promote tumor growth and spread. Studies have shown that&#xD;
+      administration of COX inhibitors together with morphine caused a decrease in morphine&#xD;
+      requirements. Administration of COX inhibitors can help control pain by abrogation of&#xD;
+      prostaglandin mediated pain pathways while at the same time decreasing opiate requirements.&#xD;
+      An additional benefit of COX inhibitors is it's direct activity against tumor cells by&#xD;
+      enhancing apoptosis and decreasing tumor blood supply as reported in a recently published&#xD;
+      study (21). These studies indicate that peri-operative use of these drugs does not have any&#xD;
+      detrimental effects, is not associated with increased complication - and in fact may be&#xD;
+      beneficial.&#xD;
+&#xD;
+      Patients and Methods&#xD;
+&#xD;
+      Patients and treatments:&#xD;
+&#xD;
+      Immune system activity will be determined among 80 operated breast cancer patients, and 20&#xD;
+      health women in the following groups:&#xD;
+&#xD;
+        -  Treatment arm: 40 patients undergoing elective surgery for primary breast cancer will be&#xD;
+           treated orally according to the following protocol:&#xD;
+&#xD;
+             -  Propranolol (Deralin) - patients will receive a low dose of 40 mg/day (4X10mg)&#xD;
+                starting two days before surgery (immediately following the first blood draw) until&#xD;
+                the evening of surgery. The first dose will be given under supervision (described&#xD;
+                later). On the morning of surgery, a single tablet of propranolol XL 80mg will be&#xD;
+                administered together with other pre-medication drugs, and will be continued once&#xD;
+                daily for three days after surgery. Pulse and blood pressure will be monitored&#xD;
+                during the first day of treatment, during the day of surgery and on the following&#xD;
+                days until discharge from the hospital. If pulse decreases to &lt;50/min or blood&#xD;
+                pressure decreases to &lt;100 systolic - the dose will be halved.&#xD;
+&#xD;
+             -  Etodolac (Etopan) - patients will receive 400mg of etodolac XL twice a day starting&#xD;
+                two days before and continuing through two days after surgery.&#xD;
+&#xD;
+        -  Control arm: Forty patients undergoing the same operations will be treated with placebo&#xD;
+           drugs on the same schedule.&#xD;
+&#xD;
+        -  Healthy controls: a third control arm will include 20 healthy age-matched women&#xD;
+           presenting for routine breast exams and not undergoing surgery will undergo blood tests&#xD;
+           only.&#xD;
+&#xD;
+      Patients will be randomized to one of the two groups, and patient, physicians and laboratory&#xD;
+      personnel will be blinded to the patient's assignment.&#xD;
+&#xD;
+      Dependent variables to be tested:&#xD;
+&#xD;
+        1. Cytotoxic activity of NK cells against K562 target cells.&#xD;
+&#xD;
+        2. Blood leukocyte levels of NK cells, NKT cells, lymphocytes, monocytes and granulocytes&#xD;
+           as determined by FACS.&#xD;
+&#xD;
+        3. Serum levels of cytokines (Th1, Th2 and inflammatory): IFN-gamma, IL-2, IL-12, IL-4,&#xD;
+           IL-10 IL-10 and IL-6.&#xD;
+&#xD;
+        4. In vitro cytokine secretion by leukocytes stimulated by HPA and LPS. (IFN-gamma IL- 2,&#xD;
+           IL-12, IL-4, IL-10 IL-10 and IL-6.)&#xD;
+&#xD;
+        5. Stress hormones and angiogenic factors: levels of cortisol and VEGF.&#xD;
+&#xD;
+        6. Doses of anesthetics and analgesics used during and after surgery.&#xD;
+&#xD;
+        7. Cancer recurrence during 5 years (including site of recurrence). In addition to the&#xD;
+           aforementioned groups, another 190 patients will be recruited onto each group without&#xD;
+           examining immunological parameters, and will be followed only for cancer recurrence.&#xD;
+&#xD;
+      Eligibility criteria:&#xD;
+&#xD;
+        -  Women that are scheduled to undergo surgery of a single, stage I-III, invasive ductal or&#xD;
+           lobular carcinoma tumor with curative intent&#xD;
+&#xD;
+        -  No evidence of metastatic disease prior to surgery. Minimal workup would include chest&#xD;
+           XR, abdominal ultrasound and bone scan.&#xD;
+&#xD;
+        -  Age between 20 and 70 year old.&#xD;
+&#xD;
+        -  ASA score of 1-2&#xD;
+&#xD;
+        -  The patient is able to understand the study objectives and procedures, able to comply&#xD;
+           with the protocol, and is capable to sign an informed consent.&#xD;
+&#xD;
+      Exclusion criteria:&#xD;
+&#xD;
+        -  Patients with metastatic disease, known prior to surgery.&#xD;
+&#xD;
+        -  Patients in whom surgical resection is planned without curative intent.&#xD;
+&#xD;
+        -  Patients who have undergone neoadjuvant treatment.&#xD;
+&#xD;
+        -  Patients with renal failure, measured by creatinine level &gt;1.5&#xD;
+&#xD;
+        -  Patients with significant heart failure (NYHA functional class 3 or higher)&#xD;
+&#xD;
+        -  Patients with significant liver failure (known cirrhosis, Bilirubin level&gt;2)&#xD;
+&#xD;
+        -  Patients suffering from asthma&#xD;
+&#xD;
+        -  Patients with known allergy to one or more of the study medications&#xD;
+&#xD;
+        -  Patients with known allergy to any medication from the non-steroidal anti-inflammatory&#xD;
+           drug group.&#xD;
+&#xD;
+        -  Patients with diabetes mellitus (type 1 or 2).&#xD;
+&#xD;
+        -  Patients treated chronically with one or more of the study medications&#xD;
+&#xD;
+        -  Patients treated chronically with any type of Beta adrenergic blocker.&#xD;
+&#xD;
+        -  Patients treated chronically with any type of COX inhibitor.&#xD;
+&#xD;
+        -  Patients with second or third degree AV block.&#xD;
+&#xD;
+        -  Patients with sinus bradycardia (patients with heart rate of less than 50).&#xD;
+&#xD;
+        -  Patients with sick sinus syndrome.&#xD;
+&#xD;
+        -  Patients with current atrial fibrillation/flutter.&#xD;
+&#xD;
+        -  Patients with Printzmetal's angina&#xD;
+&#xD;
+        -  Patients with hypertension&#xD;
+&#xD;
+        -  Patients with right sided heart failure owing to pulmonary hypertension.&#xD;
+&#xD;
+        -  Patients with significant cardiomegaly&#xD;
+&#xD;
+        -  Patients with (current) pheochromocytoma&#xD;
+&#xD;
+        -  Patients with chronic Digoxin treatment&#xD;
+&#xD;
+        -  Patients with active peptic disease&#xD;
+&#xD;
+        -  Patients with peripheral vascular disease&#xD;
+&#xD;
+        -  Patients with history or concomitant malignant disease of any type other than breast&#xD;
+           cancer.&#xD;
+&#xD;
+        -  Patients who were treated with chemotherapy in the last 10 years for any reason besides&#xD;
+           neo-adjuvant therapy for breast cancer within the last six months.&#xD;
+&#xD;
+        -  Pregnant woman.&#xD;
+&#xD;
+        -  Patients currently participating in any other clinical trial&#xD;
+&#xD;
+      Procedure:&#xD;
+&#xD;
+      After obtaining Helsinki committee approval, eligible patients will receive explanations and&#xD;
+      be invited to participate in the study. Women who consent will sign the approved informed&#xD;
+      consent form.&#xD;
+&#xD;
+      Anesthesia procedure will include:&#xD;
+&#xD;
+      Standard monitoring including automated blood pressure, ECG, O2 saturation, levels of inhaled&#xD;
+      and exhaled gases Pre-medication: at anesthesiologists discretion Induction: at&#xD;
+      anesthesiologist's discretion Maintenance: at anesthesiologist's discretion (an effort will&#xD;
+      be made to minimize opiate use but without compromising on pain control).&#xD;
+&#xD;
+      Post operative pain management:&#xD;
+&#xD;
+      Patients will be given a choice of oral Paracetamol 1000 mg every 4 hours, oral Dipyrone 1000&#xD;
+      mg every 4 hours, oral Tramadol solution 50 mg every 6 hours and combinations of the above.&#xD;
+      If needed - 5 mg of oral percocet/oxycodone syrup every 6 hours may be added. For patients&#xD;
+      who are unable to sustain oral intake, intravenous Tramal will be offered at a dose of 50-100&#xD;
+      mg every 6 hours and if needed - morphine 0.1 mg/kg every 4 hours. This protocol is identical&#xD;
+      to the one currently used after this type of surgery.&#xD;
+&#xD;
+      Blood samples :&#xD;
+&#xD;
+      Blood samples will be obtained two days before surgery (prior to administration of study&#xD;
+      drugs or placebo), on the morning of and the morning following surgery. Blood samples will be&#xD;
+      drawn between 7:30 and 9:00 am, and will include 10 cc of peripheral blood, preferably from&#xD;
+      the ante-cubital vein.&#xD;
+&#xD;
+      Blood will be collected in vacuum tubes containing 30 units of heparin without preservatives,&#xD;
+      and will be transferred immediately to the neuro-immunology lab at Tel Aviv University.&#xD;
+      Laboratory evaluation of the samples will begin within 3 hours of blood drawing. The samples&#xD;
+      will be kept at room temperature.&#xD;
+&#xD;
+      The samples will be divided as follows:&#xD;
+&#xD;
+      NK cell activity testing - 2 ml FACS analysis of cells - 1 ml In vitro testing of cytokine&#xD;
+      response to LPS - 2 ml Cytokine, cortisol and VEGF levels - 5 ml (to be performed in batches&#xD;
+      at a later time - after separation of cells plasma will be kept at -80C).&#xD;
+&#xD;
+      Documentation and analysis of results:&#xD;
+&#xD;
+      Documentation:&#xD;
+&#xD;
+      Epidemiological data: identification (name, ID no), age, ethnic origin, background medical&#xD;
+      conditions and drugs, smoking, menstrual status and date of last menstrual period, physical&#xD;
+      activity, presence of infections or viral illnesses within last 2 weeks.&#xD;
+&#xD;
+      Data related to anesthesia and surgery:&#xD;
+&#xD;
+      Type and length of surgery, systemic administration of opioids during and after surgery (type&#xD;
+      and dose).&#xD;
+&#xD;
+      Cancer related parameters: Tumor size, grade, histological type, lymph node status, adjuvant&#xD;
+      therapy.&#xD;
+&#xD;
+      Immunological parameters: as previously detailed is three blood samples from operated&#xD;
+      patients and a single sample from the healthy controls.&#xD;
+&#xD;
+      Recurrence data: location, time since surgery and survival.&#xD;
+&#xD;
+      Statistical Analysis:&#xD;
+&#xD;
+      Statistical analysis will be done by ANOVA (between and within subjects) regarding the&#xD;
+      variables. Determination of specific differences between groups will be based on the PLSD&#xD;
+      test for planned comparisons, and the Scheffe test for unplanned comparisons. Chi square&#xD;
+      tests will be used as well as Kaplan-Meier survival curves for non continuous or categorical&#xD;
+      variables. In addition, Cox regressions will be calculated to evaluate the predictive ability&#xD;
+      of treatments on cancer recurrence, taking other predicting factors into account. Blood&#xD;
+      samples and immunological data will be collected for 40 patients in groups 1 and 2 and 20&#xD;
+      healthy controls in group 3. In order to determine impact of treatment on recurrence rates a&#xD;
+      total of 230 patients will be recruited in each group. Sample size was calculated to provide&#xD;
+      an 805 power to detect a 30-50% decrease in cancer recurrence with an alpha of 0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>June 2014</start_date>
+  <completion_date type="Anticipated">January 2016</completion_date>
+  <primary_completion_date type="Anticipated">January 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>No. &amp; cytotoxic activity of NK cells, levels of NKT cells, lymphocytes, monocytes and granulocytes; cytokine levels; In vitro cytokine secretion; levels of cortisol and VEGF. Cancer recurrence in 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Primary Operable Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Peri-operative etodolac and propranolol as described in protocol</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>peri-operative placebo as described in protocol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Propranolol, etodolac</intervention_name>
+    <description>propranolol 10 mg X 4 /day, starting on day -3 pre-op, for 6 days, till POD 2 Etodolac 400 mg X2/day, starting on day -3 pre-op, for 6 days, till POD 2</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women that are scheduled to undergo surgery of a single, stage I-III, invasive ductal&#xD;
+             or lobular carcinoma tumor with curative intent&#xD;
+&#xD;
+          -  No evidence of metastatic disease prior to surgery. Minimal workup would include chest&#xD;
+             XR, abdominal ultrasound and bone scan.&#xD;
+&#xD;
+          -  Age between 20 and 70 year old.&#xD;
+&#xD;
+          -  ASA score of 1-2&#xD;
+&#xD;
+          -  The patient is able to understand the study objectives and procedures, able to comply&#xD;
+             with the protocol, and is capable to sign an informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with metastatic disease, known prior to surgery.&#xD;
+&#xD;
+          -  Patients in whom surgical resection is planned without curative intent.&#xD;
+&#xD;
+          -  Patients who have undergone neoadjuvant treatment.&#xD;
+&#xD;
+          -  Patients with renal failure, measured by creatinine level &gt;1.5&#xD;
+&#xD;
+          -  Patients with significant heart failure (NYHA functional class 3 or higher)&#xD;
+&#xD;
+          -  Patients with significant liver failure (known cirrhosis, Bilirubin level&gt;2)&#xD;
+&#xD;
+          -  Patients suffering from asthma&#xD;
+&#xD;
+          -  Patients with known allergy to one or more of the study medications&#xD;
+&#xD;
+          -  Patients with known allergy to any medication from the non-steroidal anti-inflammatory&#xD;
+             drug group.&#xD;
+&#xD;
+          -  Patients with diabetes mellitus (type 1 or 2).&#xD;
+&#xD;
+          -  Patients treated chronically with one or more of the study medications&#xD;
+&#xD;
+          -  Patients treated chronically with any type of Beta adrenergic blocker.&#xD;
+&#xD;
+          -  Patients treated chronically with any type of COX inhibitor.&#xD;
+&#xD;
+          -  Patients with second or third degree AV block.&#xD;
+&#xD;
+          -  Patients with sinus bradycardia (patients with heart rate of less than 50).&#xD;
+&#xD;
+          -  Patients with sick sinus syndrome.&#xD;
+&#xD;
+          -  Patients with current atrial fibrillation/flutter.&#xD;
+&#xD;
+          -  Patients with Printzmetal's angina&#xD;
+&#xD;
+          -  Patients with hypertension&#xD;
+&#xD;
+          -  Patients with right sided heart failure owing to pulmonary hypertension.&#xD;
+&#xD;
+          -  Patients with significant cardiomegaly&#xD;
+&#xD;
+          -  Patients with (current) pheochromocytoma&#xD;
+&#xD;
+          -  Patients with chronic Digoxin treatment&#xD;
+&#xD;
+          -  Patients with active peptic disease&#xD;
+&#xD;
+          -  Patients with peripheral vascular disease&#xD;
+&#xD;
+          -  Patients with history or concomitant malignant disease of any type other than breast&#xD;
+             cancer.&#xD;
+&#xD;
+          -  Patients who were treated with chemotherapy in the last 10 years for any reason&#xD;
+             besides neo-adjuvant therapy for breast cancer within the last six months.&#xD;
+&#xD;
+          -  Pregnant woman.&#xD;
+&#xD;
+          -  Patients currently participating in any other clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tanir M Allweis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Kaplan Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Shamgar Ben-Eliyahu, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tel Aviv University, Neuroimmunology Research Unit</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Moshe Shabtai, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sheba Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eran Sharon, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rabin Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tanir M Allweis, MD</last_name>
+    <phone>+972-8-9441693</phone>
+    <email>taniral@clalit.org.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shamgar Ben-Eliyahu, Prof</last_name>
+    <phone>+972-3-6407266</phone>
+    <email>shamgar@post.tau.ac.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rabin Medical Center</name>
+      <address>
+        <city>Petah Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eran Sharon, MD</last_name>
+      <phone>+972-3-9376213</phone>
+      <email>erans@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Irit Glik</last_name>
+      <phone>+972-3-9376717</phone>
+      <email>IritGlik@clalit.org.il</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eran Sharon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Moshe Shabtai, MD</last_name>
+      <phone>972-3-5302247</phone>
+      <email>Moshe.Shabtai@sheba.health.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maytal Shabat-Simon, PhD</last_name>
+      <phone>972-50-2624233</phone>
+      <email>maytal.shabat@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Moshe Shabtai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Medical Center</name>
+      <address>
+        <city>Rehovot</city>
+        <zip>76100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tanir M Allweis, MD</last_name>
+      <phone>+972-50-7874268</phone>
+      <email>taniral@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maytal Shabat-Simon, PhD</last_name>
+      <phone>972-50-2624233</phone>
+      <email>maytal.shabat@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tanir M Allweis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>June 2014</verification_date>
+  <study_first_submitted>July 17, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 17, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 18, 2007</study_first_posted>
+  <last_update_submitted>June 29, 2014</last_update_submitted>
+  <last_update_submitted_qc>June 29, 2014</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 1, 2014</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kaplan Medical Center</investigator_affiliation>
+    <investigator_full_name>Tanir M Allweis, MD</investigator_full_name>
+    <investigator_title>Director, Sarah Markowitz Breast Health Center</investigator_title>
+  </responsible_party>
+  <keyword>breast cancer</keyword>
+  <keyword>surgery</keyword>
+  <keyword>immune suppression</keyword>
+  <keyword>beta blockers</keyword>
+  <keyword>COX2 inhibitors</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Etodolac</mesh_term>
+    <mesh_term>Propranolol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

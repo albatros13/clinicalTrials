@@ -1,0 +1,314 @@
+// ============================================================
+//  eFlint Policy Model: Clinical Trial Eligibility
+//  Study: NCT04414150 (Open-label Phase I, Advanced Solid Tumors)
+//  Models: inclusion criteria, exclusion criteria, and the
+//          derived permission to enrol a patient.
+//
+//  Conventions:
+//    - Fact types represent patient attributes / lab values
+//    - Acts represent clinical or administrative events
+//    - Duties represent obligations triggered by enrolment
+//    - The top-level permission "enrolment-permitted" is
+//      derived from all inclusion and exclusion conditions
+// ============================================================
+
+
+// ============================================================
+//  SECTION 1 — ACTOR AND PATIENT FACTS
+// ============================================================
+
+Fact patient
+  Identified by patient-id.
+
+Fact investigator
+  Identified by investigator-id.
+
+Fact sponsor
+  Identified by sponsor-id.
+
+
+// ============================================================
+//  SECTION 2 — DEMOGRAPHIC INCLUSION FACTS
+// ============================================================
+
+// Age between 18 and 75 years (inclusive)
+Fact age-eligible Identified by patient
+  Holds when age-in-years(patient) >= 18
+         And age-in-years(patient) <= 75.
+
+// Pathologically or clinically confirmed advanced solid tumour
+Fact confirmed-advanced-solid-tumour Identified by patient.
+
+// Failed prior standard-of-care OR no effective therapy available
+Fact no-adequate-prior-therapy Identified by patient.
+
+
+// ============================================================
+//  SECTION 3 — PERFORMANCE AND LIFE EXPECTANCY FACTS
+// ============================================================
+
+// ECOG performance status 0 or 1
+Fact ecog-eligible Identified by patient
+  Holds when ecog-score(patient) = 0
+         Or  ecog-score(patient) = 1.
+
+// Life expectancy of at least 12 weeks
+Fact adequate-life-expectancy Identified by patient
+  Holds when life-expectancy-weeks(patient) >= 12.
+
+
+// ============================================================
+//  SECTION 4 — TUMOUR ASSESSMENT FACTS
+// ============================================================
+
+// At least one measurable lesion per RECIST v1.1
+Fact measurable-lesion-recist-v1 Identified by patient.
+
+
+// ============================================================
+//  SECTION 5 — HAEMATOLOGICAL / BONE MARROW FACTS
+//
+//  Note: blood products or G-CSF within 14 days of study drug
+//        initiation disqualify the marrow result entirely.
+// ============================================================
+
+// No blood products or growth factors within 14 days before study drug
+Fact no-recent-blood-products Identified by patient
+  Holds when days-since-last-blood-product(patient) > 14
+         Or  never-received-blood-products(patient).
+
+Fact no-recent-growth-factors Identified by patient
+  Holds when days-since-last-growth-factor(patient) > 14
+         Or  never-received-growth-factors(patient).
+
+// ANC >= 1.5 x 10^9 / L
+Fact adequate-anc Identified by patient
+  Holds when anc-10e9-per-l(patient) >= 1.5.
+
+// Platelets >= 90 x 10^9 / L
+Fact adequate-platelets Identified by patient
+  Holds when platelet-count-10e9-per-l(patient) >= 90.
+
+// Haemoglobin >= 9 g/dL
+Fact adequate-haemoglobin Identified by patient
+  Holds when haemoglobin-g-per-dl(patient) >= 9.
+
+// Composite bone-marrow adequacy (all three counts + no recent support)
+Fact adequate-bone-marrow Identified by patient
+  Holds when adequate-anc(patient)
+         And  adequate-platelets(patient)
+         And  adequate-haemoglobin(patient)
+         And  no-recent-blood-products(patient)
+         And  no-recent-growth-factors(patient).
+
+
+// ============================================================
+//  SECTION 6 — HEPATIC FUNCTION FACTS
+// ============================================================
+
+// Serum albumin >= 3.0 g/dL
+Fact adequate-albumin Identified by patient
+  Holds when albumin-g-per-dl(patient) >= 3.0.
+
+// Total bilirubin <= 1.5 x ULN
+Fact adequate-bilirubin Identified by patient
+  Holds when total-bilirubin-x-uln(patient) <= 1.5.
+
+// ALT <= 3.0 x ULN
+Fact adequate-alt Identified by patient
+  Holds when alt-x-uln(patient) <= 3.0.
+
+// AST <= 3.0 x ULN
+Fact adequate-ast Identified by patient
+  Holds when ast-x-uln(patient) <= 3.0.
+
+// Composite hepatic adequacy
+Fact adequate-hepatic-function Identified by patient
+  Holds when adequate-albumin(patient)
+         And  adequate-bilirubin(patient)
+         And  adequate-alt(patient)
+         And  adequate-ast(patient).
+
+
+// ============================================================
+//  SECTION 7 — RENAL FUNCTION FACTS
+// ============================================================
+
+// Serum creatinine <= 1.25 x ULN
+Fact adequate-renal-function Identified by patient
+  Holds when creatinine-x-uln(patient) <= 1.25.
+
+
+// ============================================================
+//  SECTION 8 — CARDIAC FUNCTION FACTS
+// ============================================================
+
+// LVEF >= 50%
+Fact adequate-cardiac-function Identified by patient
+  Holds when lvef-percent(patient) >= 50.
+
+
+// ============================================================
+//  SECTION 9 — TUMOUR SAMPLE OBLIGATION FACT
+//
+//  All patients except those on a single lead-in dose must
+//  provide an FFPE tumour sample before enrolment is complete.
+// ============================================================
+
+Fact single-lead-in-dose-only Identified by patient.
+
+Fact ffpe-sample-provided Identified by patient.
+
+// Sample requirement is met when either:
+//   (a) the patient is on a single lead-in dose only, OR
+//   (b) an FFPE sample has been provided
+Fact sample-requirement-met Identified by patient
+  Holds when single-lead-in-dose-only(patient)
+         Or  ffpe-sample-provided(patient).
+
+
+// ============================================================
+//  SECTION 10 — EXCLUSION CONDITION FACTS
+// ============================================================
+
+// Known or suspected autoimmune disease
+Fact has-autoimmune-disease Identified by patient.
+
+// Systemic corticosteroids or immunosuppressants within 28 days
+Fact recent-immunosuppression Identified by patient
+  Holds when days-since-last-immunosuppressant(patient) <= 28.
+
+// Severe allergic reaction to any prior monoclonal antibody
+Fact severe-mab-allergy Identified by patient.
+
+// Prior treatment with a LAG-3 antibody
+Fact prior-lag3-treatment Identified by patient.
+
+
+// ============================================================
+//  SECTION 11 — BRAIN METASTASES CONDITIONAL PERMISSION
+//
+//  Brain metastases are permitted IF:
+//    - They have been treated (not active/untreated), AND
+//    - Disease has been stable for at least 1 month, AND
+//    - Steroid treatment (prednisone or equivalent) has been
+//      discontinued for at least 2 weeks
+// ============================================================
+
+Fact has-brain-metastases Identified by patient.
+
+Fact treated-brain-metastases Identified by patient
+  Holds when has-brain-metastases(patient)
+         And  brain-metastases-treated(patient).
+
+Fact stable-brain-metastases Identified by patient
+  Holds when treated-brain-metastases(patient)
+         And  months-brain-metastases-stable(patient) >= 1.
+
+Fact steroids-discontinued-for-brain-mets Identified by patient
+  Holds when weeks-since-steroid-discontinuation(patient) >= 2.
+
+// Brain metastases are permissible when treated, stable, and steroid-free
+Fact permissible-brain-metastases Identified by patient
+  Holds when Not has-brain-metastases(patient)
+         Or  (stable-brain-metastases(patient)
+              And steroids-discontinued-for-brain-mets(patient)).
+
+
+// ============================================================
+//  SECTION 12 — COMPOSITE INCLUSION AND EXCLUSION GUARDS
+// ============================================================
+
+Fact inclusion-criteria-met Identified by patient
+  Holds when age-eligible(patient)
+         And  confirmed-advanced-solid-tumour(patient)
+         And  no-adequate-prior-therapy(patient)
+         And  measurable-lesion-recist-v1(patient)
+         And  ecog-eligible(patient)
+         And  adequate-life-expectancy(patient)
+         And  adequate-bone-marrow(patient)
+         And  adequate-hepatic-function(patient)
+         And  adequate-renal-function(patient)
+         And  adequate-cardiac-function(patient)
+         And  sample-requirement-met(patient).
+
+Fact exclusion-criteria-absent Identified by patient
+  Holds when Not has-autoimmune-disease(patient)
+         And  Not recent-immunosuppression(patient)
+         And  Not severe-mab-allergy(patient)
+         And  Not prior-lag3-treatment(patient)
+         And  permissible-brain-metastases(patient).
+
+
+// ============================================================
+//  SECTION 13 — TOP-LEVEL ENROLMENT PERMISSION
+// ============================================================
+
+// A patient may be enrolled if and only if all inclusion criteria
+// are satisfied and no exclusion criterion applies.
+Fact enrolment-permitted Identified by patient
+  Holds when inclusion-criteria-met(patient)
+         And  exclusion-criteria-absent(patient).
+
+
+// ============================================================
+//  SECTION 14 — ACTS: ENROLMENT LIFECYCLE
+// ============================================================
+
+// An investigator may screen a patient (eligibility assessment)
+Act screen-patient
+  Actor  investigator
+  Object patient
+  Preconditions
+    confirmed-advanced-solid-tumour(patient).
+
+// An investigator may enrol a patient once enrolment is permitted
+Act enrol-patient
+  Actor  investigator
+  Object patient
+  Preconditions
+    enrolment-permitted(patient)
+  Creates
+    enrolled(patient)
+  Terminates
+    // Once enrolled, the screening eligibility check is complete
+    pending-screen(patient).
+
+// An investigator may reject a patient if eligibility is not met
+Act reject-patient
+  Actor  investigator
+  Object patient
+  Preconditions
+    Not enrolment-permitted(patient)
+  Creates
+    rejected(patient).
+
+Fact enrolled    Identified by patient.
+Fact rejected    Identified by patient.
+Fact pending-screen Identified by patient.
+
+
+// ============================================================
+//  SECTION 15 — DUTIES: POST-ENROLMENT OBLIGATIONS
+// ============================================================
+
+// Enrolled patients who did not receive a single lead-in dose
+// must provide an FFPE tumour sample if not already provided.
+Duty provide-ffpe-sample
+  Holder  patient
+  Claimant investigator
+  Holds when enrolled(patient)
+         And  Not single-lead-in-dose-only(patient)
+         And  Not ffpe-sample-provided(patient).
+
+// The investigator has a duty to assess RECIST response for each
+// enrolled patient with a measurable lesion at baseline.
+Duty assess-recist-response
+  Holder  investigator
+  Claimant sponsor
+  Holds when enrolled(patient)
+         And  measurable-lesion-recist-v1(patient).
+
+// ============================================================
+//  END OF POLICY MODEL
+// ============================================================

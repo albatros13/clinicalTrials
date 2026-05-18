@@ -1,0 +1,214 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00802932</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-15303</org_study_id>
+    <secondary_id>106406</secondary_id>
+    <nct_id>NCT00802932</nct_id>
+  </id_info>
+  <brief_title>Pilot Study to Validate Metallic Markers for Image Guided Radiation Therapy for Breast Cancer Tx</brief_title>
+  <official_title>Pilot Study to Validate Metallic Markers for Image Guided Radiation Therapy for Breast Cancer Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test metallic markers in the breast tissue after breast&#xD;
+      conserving surgery and to observe the metallic markers' stability in the breast for use as&#xD;
+      tumor bed markers and positioning devices for radiation treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In order to validate metallic marker placement and stability, patients will have the internal&#xD;
+      metallic markers placed at the time of their last breast surgery (either lumpectomy or&#xD;
+      re-excision for margins) by the surgeon and are permanent. They will undergo routine 3D&#xD;
+      CT-based treatment planning and will receive routine radiation treatment to the whole breast&#xD;
+      or partial breast as determined by the treating physician. Daily images of the breast will be&#xD;
+      obtained throughout treatment using the online portal imaging system. These images will be&#xD;
+      analyzed for the daily position of the metallic markers and compared across the entire course&#xD;
+      of treatment to determine the stability of metallic markers placement and to assess their&#xD;
+      efficacy as positioning devices for image guided radiation therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2008</start_date>
+  <completion_date type="Actual">October 2012</completion_date>
+  <primary_completion_date type="Actual">October 2012</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positional Stability of Metallic Markers in the Breast Parenchyma</measure>
+    <time_frame>Completion of planned radiation treatment.</time_frame>
+    <description>To validate that intraparenchymal metallic markers placed in the breast tissue can be used as stable markers throughout a course of radiation treatment for daily image guided localization. Image Guided Radiation Therapy (IGRT) will be deemed feasible if the average shift in marker position results in deviations of up to 7 mm from the initial position.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">61</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Partial Breast Radiation</arm_group_label>
+    <description>1. Patients receiving Partial breast radiation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Whole Breast Radiation</arm_group_label>
+    <description>2. Patients receiving whole breast radiation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Non-contrast Computed Tomography (CT) Scans (Metallic Markers)</intervention_name>
+    <description>Non-contrast CT Scans prior to start of radiation therapy, and during weeks 2, 4, 6.</description>
+    <arm_group_label>Partial Breast Radiation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Non-contrast CT Scans (Metallic Markers)</intervention_name>
+    <description>Non-contrast CT Scans prior to start of radiation therapy and on Day 5.</description>
+    <arm_group_label>Whole Breast Radiation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Research subjects will be recruited from the clinical practice of the Breast Program&#xD;
+        referred for radiation therapy at Moffitt Cancer Center who meets the eligibility criteria.&#xD;
+        This provides a potential pool of about 450 patients over a 12 month period.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pathologically confirmed stage 0, I or II bilateral or unilateral breast cancer&#xD;
+&#xD;
+          -  Any invasive adenocarcinoma or intraductal carcinoma&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2&#xD;
+&#xD;
+          -  Surgical treatment with lumpectomy (partial mastectomy)&#xD;
+&#xD;
+          -  Successful placement of intraparenchymal metallic markers at last breast surgery&#xD;
+&#xD;
+          -  Pathologic tumor size &lt; 5.0 cm (Microscopic multifocality is allowed if total&#xD;
+             pathologic tumor size is within 5 cm)&#xD;
+&#xD;
+          -  Axillary sampling (sentinel node or axillary dissection) performed for axillary nodal&#xD;
+             staging for all invasive cancers. No axillary sampling is required for ductal&#xD;
+             carcinoma in situ)&#xD;
+&#xD;
+          -  Negative margins of excision.&#xD;
+&#xD;
+          -  Radiation treatment to begin within 8 weeks after last surgery or last dose of&#xD;
+             chemotherapy&#xD;
+&#xD;
+          -  Negative post-biopsy mammogram if presented with mammographically detected&#xD;
+             microcalcifications to ensure removal of suspicious calcifications&#xD;
+&#xD;
+          -  History of prior cancers is allowed if patient is without evidence of disease at the&#xD;
+             time of study entry&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breast feeding at time of study entry. Note: Radiation therapy is&#xD;
+             teratogenic. Women of child bearing potential must agree to use adequate contraception&#xD;
+             (abstinence, hormonal or barrier method of birth control) prior to and during study&#xD;
+             participation. Should a woman become pregnant, she should inform the treating&#xD;
+             physicians immediately.&#xD;
+&#xD;
+          -  Prior in-field irradiation&#xD;
+&#xD;
+          -  Stage III or IV breast cancer&#xD;
+&#xD;
+          -  Inability to place intraparenchymal metallic markers due to excessive bleeding or&#xD;
+             other intraoperative complication so that the surgeon deems it inadvisable to place&#xD;
+             the marker&#xD;
+&#xD;
+          -  Pathologic tumor size &gt;/= 5 cm&#xD;
+&#xD;
+          -  Positive or unassessed margins of surgical resection&#xD;
+&#xD;
+          -  Diffuse calcifications on mammogram pre- or post-operatively&#xD;
+&#xD;
+          -  Positive or suspicious post-lumpectomy mammogram or breast magnetic resonance imaging&#xD;
+             (MRI)&#xD;
+&#xD;
+          -  Multicentric carcinoma in more than one quadrant of the breast&#xD;
+&#xD;
+          -  Non-epithelial breast malignancy; Paget's disease of the nipple&#xD;
+&#xD;
+          -  Personal history of collagen vascular disease clinically judged to be a&#xD;
+             contraindication to radiation therapy&#xD;
+&#xD;
+          -  Recurrent disease or prior history of ipsilateral breast cancer&#xD;
+&#xD;
+          -  Psychiatric or addictive disorders that impair patient's voluntary ability to&#xD;
+             participate in informed consent or protocol procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eleanor Harris, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>H. Lee Moffitt Cancer Center and Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center and Research Institute, Inc.</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.moffitt.org/research--clinical-trials/clinical-trials</url>
+    <description>Moffitt Cancer Center Clinical Trials website</description>
+  </link>
+  <verification_date>January 2013</verification_date>
+  <study_first_submitted>December 4, 2008</study_first_submitted>
+  <study_first_submitted_qc>December 4, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 5, 2008</study_first_posted>
+  <last_update_submitted>January 29, 2013</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 30, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>breast cancer</keyword>
+  <keyword>female</keyword>
+  <keyword>metallic markers</keyword>
+  <keyword>image guided radiation therapy</keyword>
+  <keyword>IGRT</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

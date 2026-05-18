@@ -1,0 +1,240 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00353730</url>
+  </required_header>
+  <id_info>
+    <org_study_id>020265</org_study_id>
+    <secondary_id>02-H-0265</secondary_id>
+    <nct_id>NCT00353730</nct_id>
+  </id_info>
+  <brief_title>Identification of Genes Expressed in Atherosclerotic Plaque</brief_title>
+  <official_title>Identification of Genes Expressed in Atherosclerotic Plaques</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will identify genes and proteins in the blood of patients with atherosclerosis and&#xD;
+      in that of normal volunteers. The findings will be compared to determine the influence of&#xD;
+      these substances on the development of atherosclerosis a narrowing and hardening of blood&#xD;
+      vessel walls by deposits of fatty substances. Blood vessel blockage caused by atherosclerosis&#xD;
+      can impede blood flow and cause stroke, heart attack and poor limb circulation. The&#xD;
+      information from this study may lead to better ways to detect, prevent and treat these&#xD;
+      diseases.&#xD;
+&#xD;
+      Healthy volunteers and patients scheduled for carotid endarterectomy at Suburban Hospital in&#xD;
+      Bethesda, Maryland, are eligible for this study. Carotid endarterectomy is a surgical&#xD;
+      procedure in which the inner layer of the carotid artery (neck artery supplying blood to the&#xD;
+      brain) is scraped away to open the blocked vessel. Participants will undergo the following&#xD;
+      tests and procedures:&#xD;
+&#xD;
+      Patients&#xD;
+&#xD;
+        -  Blood sample: Collection of about 32 cc (8 tablespoons) of blood for genetic and protein&#xD;
+           analysis&#xD;
+&#xD;
+        -  Tissue sample: Collection of a piece of diseased blood vessel discarded from the&#xD;
+           endarterectomy procedure&#xD;
+&#xD;
+        -  Review of records: Review of medical records for information about past illnesses,&#xD;
+           medications, tests, and so forth, if needed&#xD;
+&#xD;
+      Normal Volunteers&#xD;
+&#xD;
+        -  Blood samples: Collection of about 32 cc (8 tablespoons) of blood for genetic and&#xD;
+           protein analysis&#xD;
+&#xD;
+        -  Carotid artery ultrasound: Ultrasound imaging of the neck arteries for detection of any&#xD;
+           blockage&#xD;
+&#xD;
+        -  Electrocardiogram: Recording of the electrical activity of the heart to detect any&#xD;
+           abnormalities in heart rhythm&#xD;
+&#xD;
+        -  Echocardiogram: Ultrasound examination to detect possible abnormalities of the heart&#xD;
+           muscle&#xD;
+&#xD;
+        -  Cardiac stress test: Treadmill stress test to detect possible heart vessel blockage (for&#xD;
+           subjects who have not had a cardiac stress test in the past year)&#xD;
+&#xD;
+        -  Review of records: Review of medical records for information about past illnesses,&#xD;
+           medications, tests, and so forth, if needed&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Significant progress has been made in the prevention and treatment of atherosclerosis, but it&#xD;
+      continues to be a leading cause of morbidity and mortality in our society. The problem will&#xD;
+      become even more significant as an increasing proportion of the population ages. The goal of&#xD;
+      the proposed project is to advance our understanding of the genetic mechanisms of&#xD;
+      atherosclerosis. We propose to identify genes selectively expressed in peripheral monocytes&#xD;
+      of patients with atherosclerosis and in macrophages and endothelial cells of atherosclerotic&#xD;
+      plaques. We will examine gene expression profiles in purified subpopulations of cells using&#xD;
+      Serial Analysis of Gene Expression (SAGE) that requires only minute amounts of RNA, enabling&#xD;
+      the study of small homogeneous populations of cells. This sequence-based high-throughput gene&#xD;
+      expression profiling technique has the advantage of not requiring prior knowledge of the&#xD;
+      expressed gene sequences, allowing the discovery of new genes. With the completion of the&#xD;
+      human genome sequence, the SAGE technique is an ideal tool for comprehensively characterizing&#xD;
+      the transcriptomes of the important cells involved in atherosclerosis. This proposal is an&#xD;
+      exploratory study to find candidates, both known and unknown genes, which will be used for&#xD;
+      more extensive and statistically powered projects in the future. The insights obtained will&#xD;
+      be used for elucidating the pathogenesis of atherosclerosis and for developing new simple,&#xD;
+      sensitive and specific tests for early disease diagnosis. In addition, the new insights&#xD;
+      obtained may lead to the development of novel therapeutic strategies for disease prevention&#xD;
+      and treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 21, 2002</start_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To identify known and unknown genes involved in the pathogenesis of atherosclerosis for further analyses.</measure>
+    <time_frame>ongoing</time_frame>
+    <description>To identify known and unknown genes involved in the pathogenesis of atherosclerosis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To identify atherosclerosis-specific genes expressed in peripheral monocytes, plaque macrophages or endothelial cells that may serve as early markers for disease diagnosis</measure>
+    <time_frame>ongoing</time_frame>
+    <description>To identify atherosclerosis-specific genes expressed in peripheral monocytes, plaque macrophages or endothelial cells that may serve as early markers for disease diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To identify genes expressed early in the pathogenesis of atherosclerosis that may be targeted for disease prevention.</measure>
+    <time_frame>ongoing</time_frame>
+    <description>To identify genes expressed early in the pathogenesis of atherosclerosis that may be targeted for disease prevention.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">69</enrollment>
+  <condition>Atherosclerosis</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Any adult patient with carotid artery disease or known atherosclerosis capable of giving&#xD;
+        informed consent.&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR MEDICATION TREATED SUBJECT:&#xD;
+&#xD;
+        Any adult with normal total cholesterol (less than 200 mg/dl) and blood pressure (systolic&#xD;
+        less than 140 and diastolic less than 90).&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR NORMAL BRONCHOSCOPY SUBJECT:&#xD;
+&#xD;
+        Any healthy adult subject with no history of peripheral or coronary artery disease, who is&#xD;
+        eligible for bronchoalveolar lavage per Protocol 99-H-0068 and capable of giving informed&#xD;
+        consent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Unable to give consent&#xD;
+&#xD;
+        History of chronic infections, vasculitis or any other inflammatory disease&#xD;
+&#xD;
+        History of neoplastic disease or chemotherapy treatment&#xD;
+&#xD;
+        Immunosuppressive medications other than common over-the-counter drugs such as aspirin or&#xD;
+        acetaminophen&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR MEDICATION TREATED SUBJECT:&#xD;
+&#xD;
+        Subject with abnormal liver and renal function tests on pretreatment screening or currently&#xD;
+        taking a statin or ACE inhibitor medication.&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR NORMAL BRONCHOSCOPY SUBJECT:&#xD;
+&#xD;
+        Any exclusion criteria for normal subject listed in Protocol 99-H-0068.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul M Hwang, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Heart, Lung, and Blood Institute (NHLBI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Suburban Hospital</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2002-H-0265.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Glass CK, Witztum JL. Atherosclerosis. the road ahead. Cell. 2001 Feb 23;104(4):503-16. Review.</citation>
+    <PMID>11239408</PMID>
+  </reference>
+  <reference>
+    <citation>Fayad ZA, Fuster V. Clinical imaging of the high-risk or vulnerable atherosclerotic plaque. Circ Res. 2001 Aug 17;89(4):305-16. Review.</citation>
+    <PMID>11509446</PMID>
+  </reference>
+  <reference>
+    <citation>Libby P, Ridker PM, Maseri A. Inflammation and atherosclerosis. Circulation. 2002 Mar 5;105(9):1135-43. Review.</citation>
+    <PMID>11877368</PMID>
+  </reference>
+  <verification_date>September 15, 2020</verification_date>
+  <study_first_submitted>July 18, 2006</study_first_submitted>
+  <study_first_submitted_qc>July 18, 2006</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 19, 2006</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Serial Analysis of Gene Expression</keyword>
+  <keyword>Carotid Artery Plaque</keyword>
+  <keyword>Atherosclerosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Plaque, Atherosclerotic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

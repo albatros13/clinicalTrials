@@ -1,0 +1,286 @@
+# =============================================================================
+# Clinical Trial Eligibility Policy — NCT04414150
+# Phase I, Open-Label Study: Advanced Solid Tumors
+#
+# This policy encodes the inclusion and exclusion criteria for NCT04414150.
+# It is intended for use as an OPA runtime access/eligibility checker within
+# a federated data processing workflow.
+#
+# INPUT DOCUMENT SHAPE (all fields required unless marked optional):
+# {
+#   "patient": {
+#     "age":                        integer,          -- years
+#     "tumor": {
+#       "confirmed_advanced_solid":   boolean,        -- clinically/pathologically confirmed
+#       "failed_standard_of_care":    boolean,        -- failed prior SOC
+#       "no_effective_therapy":       boolean,        -- no effective therapy available
+#       "measurable_lesion_recist11": boolean,        -- ≥1 measurable lesion per RECIST v1.1
+#       "brain_metastases": {                         -- optional; omit if absent
+#         "present":        boolean,
+#         "treated":        boolean,
+#         "stable_months":  number,                   -- months disease has been stable
+#         "steroids_discontinued_weeks": number       -- weeks since steroids stopped
+#       }
+#     },
+#     "performance": {
+#       "ecog_status":     integer                    -- 0 or 1
+#     },
+#     "prognosis": {
+#       "life_expectancy_weeks": number               -- weeks
+#     },
+#     "bone_marrow": {
+#       "anc_10e9_per_L":   number,                   -- absolute neutrophil count ×10⁹/L
+#       "platelets_10e9_per_L": number,               -- platelet count ×10⁹/L
+#       "hemoglobin_g_per_dL": number,                -- hemoglobin g/dL
+#       "blood_products_or_growth_factors_within_14d": boolean
+#     },
+#     "hepatic": {
+#       "albumin_g_per_dL":   number,
+#       "total_bilirubin_x_uln": number,              -- as multiple of ULN
+#       "alt_x_uln":          number,                 -- ALT as multiple of ULN
+#       "ast_x_uln":          number                  -- AST as multiple of ULN
+#     },
+#     "renal": {
+#       "creatinine_x_uln":   number                  -- serum creatinine as multiple of ULN
+#     },
+#     "cardiac": {
+#       "lvef_percent":       number                  -- left ventricular ejection fraction %
+#     },
+#     "autoimmune": {
+#       "known_or_suspected": boolean
+#     },
+#     "medications": {
+#       "systemic_corticosteroids_within_28d":  boolean,
+#       "immunosuppressants_within_28d":        boolean,
+#       "lag3_antibody_prior":                  boolean
+#     },
+#     "allergies": {
+#       "severe_monoclonal_antibody": boolean
+#     },
+#     "tissue_sample": {
+#       "ffpe_available":     boolean,                -- formalin-fixed, paraffin-embedded
+#       "single_lead_in_dose_only": boolean           -- exempt from FFPE requirement
+#     }
+#   }
+# }
+#
+# OUTPUT:
+#   data.nct04414150.eligible       -- true if all criteria satisfied
+#   data.nct04414150.reasons        -- set of human-readable failure messages
+# =============================================================================
+
+package nct04414150
+
+import rego.v1
+
+# ---------------------------------------------------------------------------
+# Top-level eligibility decision
+# A patient is eligible if and only if the reasons set is empty.
+# ---------------------------------------------------------------------------
+
+default eligible := false
+
+eligible if {
+    count(reasons) == 0
+}
+
+# ---------------------------------------------------------------------------
+# INCLUSION CRITERIA
+# Each rule appends a failure message to `reasons` when violated.
+# ---------------------------------------------------------------------------
+
+# I-1: Age 18–75 years
+reasons contains "I-1: Age must be between 18 and 75 years (inclusive)" if {
+    not _age_eligible
+}
+
+_age_eligible if {
+    input.patient.age >= 18
+    input.patient.age <= 75
+}
+
+# ---------------------------------------------------------------------------
+# I-2: Confirmed advanced solid tumor AND (failed SOC OR no effective therapy)
+reasons contains "I-2: Patient must have clinically or pathologically confirmed advanced solid tumor" if {
+    not input.patient.tumor.confirmed_advanced_solid
+}
+
+reasons contains "I-2: Patient must have failed prior standard-of-care or have no effective therapy available" if {
+    not _prior_treatment_eligible
+}
+
+_prior_treatment_eligible if {
+    input.patient.tumor.failed_standard_of_care
+}
+
+_prior_treatment_eligible if {
+    input.patient.tumor.no_effective_therapy
+}
+
+# ---------------------------------------------------------------------------
+# I-3: At least one measurable lesion per RECIST v1.1
+reasons contains "I-3: At least one measurable lesion required per RECIST v1.1" if {
+    not input.patient.tumor.measurable_lesion_recist11
+}
+
+# ---------------------------------------------------------------------------
+# I-4: ECOG performance status 0 or 1
+reasons contains "I-4: ECOG performance status must be 0 or 1" if {
+    not _ecog_eligible
+}
+
+_ecog_eligible if {
+    input.patient.performance.ecog_status == 0
+}
+
+_ecog_eligible if {
+    input.patient.performance.ecog_status == 1
+}
+
+# ---------------------------------------------------------------------------
+# I-5: Life expectancy ≥ 12 weeks
+reasons contains "I-5: Life expectancy must be at least 12 weeks" if {
+    input.patient.prognosis.life_expectancy_weeks < 12
+}
+
+# ---------------------------------------------------------------------------
+# I-6: Bone marrow reserve
+reasons contains "I-6: Absolute neutrophil count must be ≥1.5 ×10⁹/L" if {
+    input.patient.bone_marrow.anc_10e9_per_L < 1.5
+}
+
+reasons contains "I-6: Platelet count must be ≥90 ×10⁹/L" if {
+    input.patient.bone_marrow.platelets_10e9_per_L < 90
+}
+
+reasons contains "I-6: Hemoglobin must be ≥9 g/dL" if {
+    input.patient.bone_marrow.hemoglobin_g_per_dL < 9
+}
+
+reasons contains "I-6: Blood products or cell growth factors must not have been administered within 14 days before study drug initiation" if {
+    input.patient.bone_marrow.blood_products_or_growth_factors_within_14d
+}
+
+# ---------------------------------------------------------------------------
+# I-7: Hepatic function
+reasons contains "I-7: Serum albumin must be ≥3.0 g/dL" if {
+    input.patient.hepatic.albumin_g_per_dL < 3.0
+}
+
+reasons contains "I-7: Total bilirubin must be ≤1.5× ULN" if {
+    input.patient.hepatic.total_bilirubin_x_uln > 1.5
+}
+
+reasons contains "I-7: ALT (alanine aminotransferase) must be ≤3.0× ULN" if {
+    input.patient.hepatic.alt_x_uln > 3.0
+}
+
+reasons contains "I-7: AST (aspartate aminotransferase) must be ≤3.0× ULN" if {
+    input.patient.hepatic.ast_x_uln > 3.0
+}
+
+# ---------------------------------------------------------------------------
+# I-8: Renal function
+reasons contains "I-8: Serum creatinine must be ≤1.25× ULN" if {
+    input.patient.renal.creatinine_x_uln > 1.25
+}
+
+# ---------------------------------------------------------------------------
+# I-9: Cardiac function
+reasons contains "I-9: Left ventricular ejection fraction must be ≥50%" if {
+    input.patient.cardiac.lvef_percent < 50
+}
+
+# ---------------------------------------------------------------------------
+# I-10: Tissue sample (FFPE) — waived for single lead-in dose patients only
+reasons contains "I-10: Formalin-fixed, paraffin-embedded (FFPE) tumor sample must be available" if {
+    not input.patient.tissue_sample.single_lead_in_dose_only
+    not input.patient.tissue_sample.ffpe_available
+}
+
+# ---------------------------------------------------------------------------
+# EXCLUSION CRITERIA
+# ---------------------------------------------------------------------------
+
+# E-1: Known or suspected autoimmune disease
+reasons contains "E-1: Known or suspected autoimmune disease is an exclusion criterion" if {
+    input.patient.autoimmune.known_or_suspected
+}
+
+# E-2: Systemic corticosteroids within 28 days before study drug administration
+reasons contains "E-2: Use of systemic corticosteroids within 28 days before study drug administration is not permitted" if {
+    input.patient.medications.systemic_corticosteroids_within_28d
+}
+
+# E-3: Immunosuppressive agents within 28 days
+reasons contains "E-3: Use of systemic immunosuppressive agents within 28 days before study drug administration is not permitted" if {
+    input.patient.medications.immunosuppressants_within_28d
+}
+
+# E-4: Severe allergic reactions to other monoclonal antibodies
+reasons contains "E-4: History of severe allergic reaction to monoclonal antibodies is an exclusion criterion" if {
+    input.patient.allergies.severe_monoclonal_antibody
+}
+
+# E-5: Previous LAG-3 antibody treatment
+reasons contains "E-5: Prior treatment with a LAG-3 antibody is an exclusion criterion" if {
+    input.patient.medications.lag3_antibody_prior
+}
+
+# ---------------------------------------------------------------------------
+# E-6: Brain metastases — CONDITIONAL INCLUSION
+# Treated brain metastases are permitted ONLY if:
+#   (a) disease stable for ≥1 month, AND
+#   (b) steroids (prednisone or equivalent) discontinued for ≥2 weeks
+# If brain metastases are present but conditions are not met → exclude.
+# If brain metastases are absent → no constraint applies.
+# ---------------------------------------------------------------------------
+
+reasons contains "E-6: Untreated brain metastases are an exclusion criterion" if {
+    input.patient.tumor.brain_metastases.present
+    not input.patient.tumor.brain_metastases.treated
+}
+
+reasons contains "E-6: Treated brain metastases must be stable for at least 1 month" if {
+    input.patient.tumor.brain_metastases.present
+    input.patient.tumor.brain_metastases.treated
+    input.patient.tumor.brain_metastases.stable_months < 1
+}
+
+reasons contains "E-6: Steroids (prednisone or equivalent) must have been discontinued for at least 2 weeks before study entry" if {
+    input.patient.tumor.brain_metastases.present
+    input.patient.tumor.brain_metastases.treated
+    input.patient.tumor.brain_metastases.steroids_discontinued_weeks < 2
+}
+
+# ---------------------------------------------------------------------------
+# HELPER: summary report for eligible patients
+# ---------------------------------------------------------------------------
+
+summary := {
+    "trial":     "NCT04414150",
+    "eligible":  eligible,
+    "reasons":   reasons,
+    "criteria_checked": {
+        "inclusion": [
+            "I-1: Age 18–75",
+            "I-2: Confirmed advanced solid tumor; failed SOC or no effective therapy",
+            "I-3: ≥1 measurable lesion per RECIST v1.1",
+            "I-4: ECOG PS 0 or 1",
+            "I-5: Life expectancy ≥12 weeks",
+            "I-6: Adequate bone marrow reserve (ANC, platelets, Hb; no recent blood products/GCF)",
+            "I-7: Adequate hepatic function (albumin, bilirubin, ALT, AST)",
+            "I-8: Adequate renal function (creatinine)",
+            "I-9: Normal cardiac function (LVEF ≥50%)",
+            "I-10: FFPE tumor sample available (except single lead-in dose)"
+        ],
+        "exclusion": [
+            "E-1: No known/suspected autoimmune disease",
+            "E-2: No systemic corticosteroids within 28 days",
+            "E-3: No immunosuppressive agents within 28 days",
+            "E-4: No severe allergy to monoclonal antibodies",
+            "E-5: No prior LAG-3 antibody treatment",
+            "E-6: Brain metastases conditional (treated, stable ≥1 month, steroids off ≥2 weeks)"
+        ]
+    }
+}

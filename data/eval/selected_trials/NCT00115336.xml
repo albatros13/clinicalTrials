@@ -1,0 +1,1008 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00115336</url>
+  </required_header>
+  <id_info>
+    <org_study_id>191</org_study_id>
+    <secondary_id>U54HL070588</secondary_id>
+    <nct_id>NCT00115336</nct_id>
+  </id_info>
+  <brief_title>Ketorolac Versus Ibuprofen to Treat Painful Episodes of Sickle Cell Disease</brief_title>
+  <official_title>Ketorolac Versus Ibuprofen for the Painful Crisis of Sickle Cell Disease - Southwestern Comprehensive Sickle Cell Center</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Texas Southwestern Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare ketorolac, a potent, non-steroidal anti-inflammatory&#xD;
+      drug (NSAID), with ibuprofen, a commonly used NSAID, for the treatment of the painful crisis&#xD;
+      of sickle cell disease (SCD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      SCD is a common disorder among African Americans and other minority groups. It is&#xD;
+      characterized by chronic anemia and episodic vaso-occlusive crises. The most common of these&#xD;
+      crises is the painful crisis. Current treatment of the painful crisis includes rest,&#xD;
+      hydration, and analgesic medication. Morphine is the most commonly prescribed analgesic&#xD;
+      medication for moderate to severe painful episodes, but there are several side effects&#xD;
+      associated with its use, including somnolence, respiratory depression, constipation,&#xD;
+      dysphoria, and pruritus. Other analgesic medications, including NSAIDs, may improve pain&#xD;
+      control and decrease the need for morphine and other opioid drugs; however, more research is&#xD;
+      needed to confirm the benefits in individuals with SCD.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      This study will enroll 120 children who will receive standard opioid and supportive therapy.&#xD;
+      In addition to this care, participants will be randomly assigned to receive one of the&#xD;
+      following: 1) intravenous ketorolac and oral placebo; or 2) intravenous placebo and oral&#xD;
+      ibuprofen. Outcome assessments will include the duration of hospitalization for opioid&#xD;
+      therapy; the degree of pain intensity and relief determined by validated pain scales; and the&#xD;
+      utilization of opioid medications during hospitalization. All participants will be monitored&#xD;
+      for potential adverse effects of the study medications by laboratory measurements and&#xD;
+      clinical assessments. Additionally, participants will self-report pain levels using the&#xD;
+      Oucher pain scale. Participants will be monitored for the development of adverse events,&#xD;
+      including gastrointestinal symptoms and deterioration of kidney function, as determined by&#xD;
+      daily kidney function tests including BUN, creatinine, and hematuria.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Poor accrual&#xD;
+  </why_stopped>
+  <start_date>January 2005</start_date>
+  <completion_date type="Actual">December 2008</completion_date>
+  <primary_completion_date type="Actual">August 2008</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to a 50% Reduction in Reported Pain Intensity</measure>
+    <time_frame>Measured every 4 hours during hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+    <description>The primary endpoint is the time to a 50% reduction in reported pain intensity. This endpoint is relative to the baseline pain intensity rating on the Oucher scale (minimum 0, maximum 10; higher scores indicate greater pain). The endpoint will be reached when the reported pain intensity is at least one-half of the baseline value on two consecutive measurements at least 4 hours apart. The time ascribed to the endpoint will be the time of the second of these two consecutive pain scales. Participants who do not have a 50% reduction in reported pain intensity, as defined above, before discharge from the hospital will be censored at the time of last rating on the Oucher pain scale before discharge from the hospital</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+    <description>Time between admission to the hospital and discharge from the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Parenteral Opioid Usage</measure>
+    <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+    <description>Sum of all parenteral opioids used during the study period in milligrams (mg) of morphine or morphine equivalents.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Azotemia</measure>
+    <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+    <description>Participants who had measured values of blood urea nitrogen (BUN), serum creatinine, or both that were above the upper limit of normal for age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fluid Retention</measure>
+    <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+    <description>Number of participants who had clinically overt fluid retention as determined by history, physical examination, vital signs, and weight (e.g., peripheral edema, increase in weight)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematuria</measure>
+    <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+    <description>Number of participants who had microscopic hematuria as determined by urinalysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspepsia</measure>
+    <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+    <description>Number of participants who reported discomfort in the stomach related to eating or drinking</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastrointestinal Ulceration</measure>
+    <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+    <description>Number of participants who had gastrointestinal ulceration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding</measure>
+    <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+    <description>Number of participants who had clinically overt bleeding from any site. This excludes microscopic hematuria only.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Hematologic Diseases</condition>
+  <condition>Anemia, Sickle Cell</condition>
+  <arm_group>
+    <arm_group_label>1-Intravenous ketorolac and oral placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intravenous ketorolac and oral placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2-Intravenous placebo and oral ibuprofen</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intravenous placebo and oral ibuprofen</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intravenous Ketorolac</intervention_name>
+    <description>Intravenous ketorolac</description>
+    <arm_group_label>1-Intravenous ketorolac and oral placebo</arm_group_label>
+    <other_name>Toradol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibuprofen</intervention_name>
+    <description>Ibuprofen, taken orally</description>
+    <arm_group_label>2-Intravenous placebo and oral ibuprofen</arm_group_label>
+    <other_name>Motrin, Advil</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed diagnosis of any form of SCD, including sickle cell anemia,&#xD;
+             sickle-hemoglobin C disease, and sickle-ß˖ or ß°-thalassemia&#xD;
+&#xD;
+          -  Currently experiencing an acute painful episode (vaso-occlusive crisis), defined as&#xD;
+             acute pain in the extremities, back, abdomen, or chest that has lasted at least 4&#xD;
+             hours and is presumed to be due to SCD, with no other identified cause&#xD;
+&#xD;
+          -  Onset of severe pain in its current location(s) must have occurred within 72 hours of&#xD;
+             study entry&#xD;
+&#xD;
+          -  Intensity of pain must be great enough to necessitate hospitalization for opioid&#xD;
+             analgesia (e.g., failure of home and outpatient therapy)&#xD;
+&#xD;
+          -  Ability to comprehend and use patient-controlled analgesia (PCA)&#xD;
+&#xD;
+          -  Score of 6 or greater on the baseline pain scale&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Temperature greater than or equal to 38.5ºC at the time of study entry or in the&#xD;
+             preceding 12 hours&#xD;
+&#xD;
+          -  Has a new lobar pulmonary infiltrate or a diagnosis of acute chest syndrome (i.e., a&#xD;
+             new lobar pulmonary infiltrate and two or more of the following: temperature greater&#xD;
+             than 38ºC, tachypnea, dyspnea, intercostal or supraclavicular retractions, nasal&#xD;
+             flaring, chest wall pain, and an oxygen saturation of less than 90% in room air by&#xD;
+             pulse oximetry)&#xD;
+&#xD;
+          -  Diagnosis of acute splenic or hepatic sequestration crisis (i.e., liver or spleen&#xD;
+             enlarged from steady-state size and Hgb level decreased 2 g/dL or more from&#xD;
+             steady-state value)&#xD;
+&#xD;
+          -  Currently experiencing priapism&#xD;
+&#xD;
+          -  Pain caused by suspected or confirmed hepatobiliary disease (e.g., cholecystitis or&#xD;
+             cholelithiasis)&#xD;
+&#xD;
+          -  Chronic pain caused by suspected or confirmed aseptic or avascular necrosis of the&#xD;
+             femoral or humeral heads&#xD;
+&#xD;
+          -  Chronic pain syndrome characterized by opioid tolerance and defined by hospitalization&#xD;
+             for at least 30 days for the management of pain in a 1 year period prior to study&#xD;
+             entry&#xD;
+&#xD;
+          -  Current participation (last transfusion given within the 2 months prior to study&#xD;
+             entry) in a program of chronic transfusions for the management of SCD; the use of&#xD;
+             hydroxyurea alone is permitted&#xD;
+&#xD;
+          -  Allergy or history of anaphylactoid reactions to aspirin or other NSAIDs&#xD;
+&#xD;
+          -  Kidney dysfunction (i.e., serum creatinine concentration greater than 1.5 times the&#xD;
+             upper limit of normal for age)&#xD;
+&#xD;
+          -  History of gastrointestinal bleeding or ulceration requiring medical therapy&#xD;
+&#xD;
+          -  Concomitant bleeding disorder (e.g., von Willebrand disease, hemophilia, or a&#xD;
+             qualitative platelet defect)&#xD;
+&#xD;
+          -  Any other medical condition that would make it unsafe to receive NSAIDs, as determined&#xD;
+             by the study physician&#xD;
+&#xD;
+          -  PCA not preferred&#xD;
+&#xD;
+          -  Use of ketorolac in the 30 days prior to study entry&#xD;
+&#xD;
+          -  Use of scheduled (e.g., &quot;around the clock&quot;) opioid analgesics in the 5 days before the&#xD;
+             onset of current acute painful crisis&#xD;
+&#xD;
+          -  Pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles T. Quinn, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Texas Southwestern Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 21, 2005</study_first_submitted>
+  <study_first_submitted_qc>June 21, 2005</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 22, 2005</study_first_posted>
+  <results_first_submitted>October 19, 2018</results_first_submitted>
+  <results_first_submitted_qc>October 6, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 8, 2020</results_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Blood Diseases</keyword>
+  <keyword>Sickle Cell Anemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ibuprofen</mesh_term>
+    <mesh_term>Ketorolac</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Planned enrollment for the trial was 120 subjects. Accrual was extremely slow; only 10 participants were randomized before the trial was closed in 2008 due to lack of accrual. Less than 10% of planned enrollment was achieved.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>IV Ketorolac / Oral Placebo</title>
+          <description>Intravenous ketorolac and oral placebo</description>
+        </group>
+        <group group_id="P2">
+          <title>IV Placebo / Oral Ibuprofen</title>
+          <description>Intravenous placebo and oral ibuprofen</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Hospital discharge before study drug</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>IV Ketorolac / Oral Placebo</title>
+          <description>Intravenous ketorolac and oral placebo</description>
+        </group>
+        <group group_id="B2">
+          <title>IV Placebo / Oral Ibuprofen</title>
+          <description>Intravenous placebo abd oral ibuprofen</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+            <count group_id="B2" value="4"/>
+            <count group_id="B3" value="10"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.4" lower_limit="14.0" upper_limit="17.3"/>
+                    <measurement group_id="B2" value="17.7" lower_limit="15.6" upper_limit="18.2"/>
+                    <measurement group_id="B3" value="16.7" lower_limit="14.0" upper_limit="18.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to a 50% Reduction in Reported Pain Intensity</title>
+        <description>The primary endpoint is the time to a 50% reduction in reported pain intensity. This endpoint is relative to the baseline pain intensity rating on the Oucher scale (minimum 0, maximum 10; higher scores indicate greater pain). The endpoint will be reached when the reported pain intensity is at least one-half of the baseline value on two consecutive measurements at least 4 hours apart. The time ascribed to the endpoint will be the time of the second of these two consecutive pain scales. Participants who do not have a 50% reduction in reported pain intensity, as defined above, before discharge from the hospital will be censored at the time of last rating on the Oucher pain scale before discharge from the hospital</description>
+        <time_frame>Measured every 4 hours during hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to a 50% Reduction in Reported Pain Intensity</title>
+          <description>The primary endpoint is the time to a 50% reduction in reported pain intensity. This endpoint is relative to the baseline pain intensity rating on the Oucher scale (minimum 0, maximum 10; higher scores indicate greater pain). The endpoint will be reached when the reported pain intensity is at least one-half of the baseline value on two consecutive measurements at least 4 hours apart. The time ascribed to the endpoint will be the time of the second of these two consecutive pain scales. Participants who do not have a 50% reduction in reported pain intensity, as defined above, before discharge from the hospital will be censored at the time of last rating on the Oucher pain scale before discharge from the hospital</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.4" lower_limit="29.3" upper_limit="87.4"/>
+                    <measurement group_id="O2" value="68.0" lower_limit="20.3" upper_limit="115.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Hospitalization</title>
+        <description>Time between admission to the hospital and discharge from the hospital</description>
+        <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Hospitalization</title>
+          <description>Time between admission to the hospital and discharge from the hospital</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.7" lower_limit="19.3" upper_limit="142.1"/>
+                    <measurement group_id="O2" value="83.0" lower_limit="27.2" upper_limit="138.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Parenteral Opioid Usage</title>
+        <description>Sum of all parenteral opioids used during the study period in milligrams (mg) of morphine or morphine equivalents.</description>
+        <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Parenteral Opioid Usage</title>
+          <description>Sum of all parenteral opioids used during the study period in milligrams (mg) of morphine or morphine equivalents.</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>milligrams (mg) of morphine equivalents</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="225.2" lower_limit="17.0" upper_limit="433.3"/>
+                    <measurement group_id="O2" value="264.6" lower_limit="0" upper_limit="530.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Occurrence of Azotemia</title>
+        <description>Participants who had measured values of blood urea nitrogen (BUN), serum creatinine, or both that were above the upper limit of normal for age.</description>
+        <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+        <population>Extremely slow accrual led to the trial closing in 2008. Because only 10% of planned enrollment was achieved, no analysis of the primary or secondary outcome data was performed because of lack of power and generalizability.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Occurrence of Azotemia</title>
+          <description>Participants who had measured values of blood urea nitrogen (BUN), serum creatinine, or both that were above the upper limit of normal for age.</description>
+          <population>Extremely slow accrual led to the trial closing in 2008. Because only 10% of planned enrollment was achieved, no analysis of the primary or secondary outcome data was performed because of lack of power and generalizability.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Fluid Retention</title>
+        <description>Number of participants who had clinically overt fluid retention as determined by history, physical examination, vital signs, and weight (e.g., peripheral edema, increase in weight)</description>
+        <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intravenous Ketorolac and Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo&#xD;
+Intravenous Ketorolac: Intravenous ketorolac</description>
+          </group>
+          <group group_id="O2">
+            <title>Intravenous Placebo and Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen&#xD;
+Ibuprofen: Ibuprofen, taken orally</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Fluid Retention</title>
+          <description>Number of participants who had clinically overt fluid retention as determined by history, physical examination, vital signs, and weight (e.g., peripheral edema, increase in weight)</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hematuria</title>
+        <description>Number of participants who had microscopic hematuria as determined by urinalysis</description>
+        <time_frame>The duration of the entire hospitalization, over a mean hospitalization duration of 81.5 hours.</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hematuria</title>
+          <description>Number of participants who had microscopic hematuria as determined by urinalysis</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Dyspepsia</title>
+        <description>Number of participants who reported discomfort in the stomach related to eating or drinking</description>
+        <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Dyspepsia</title>
+          <description>Number of participants who reported discomfort in the stomach related to eating or drinking</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Gastrointestinal Ulceration</title>
+        <description>Number of participants who had gastrointestinal ulceration.</description>
+        <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Gastrointestinal Ulceration</title>
+          <description>Number of participants who had gastrointestinal ulceration.</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Bleeding</title>
+        <description>Number of participants who had clinically overt bleeding from any site. This excludes microscopic hematuria only.</description>
+        <time_frame>The entire study period (daily assessments during hospitalization [mean of 81.5 hours] and once at the 30-day follow-up visit, over a mean of 33.4 days)</time_frame>
+        <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>IV Ketorolac / Oral Placebo</title>
+            <description>Intravenous ketorolac and oral placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>IV Placebo / Oral Ibuprofen</title>
+            <description>Intravenous placebo and oral ibuprofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Bleeding</title>
+          <description>Number of participants who had clinically overt bleeding from any site. This excludes microscopic hematuria only.</description>
+          <population>One participant was randomized but was discharged (unexpectedly early) from the hospital before study drug was administered. Thus, no primary or secondary outcome data are available for this one participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days</time_frame>
+      <desc>All adverse events were systematically assessed at all study visits according to the study protocol by trained study personnel. Adverse events were recorded for up to 30 days from discharge from the hospital.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>IV Ketorolac / Oral Placebo</title>
+          <description>Intravenous ketorolac and oral placebo</description>
+        </group>
+        <group group_id="E2">
+          <title>IV Placebo / Oral Ibuprofen</title>
+          <description>Intravenous placebo and oral ibuprofen</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (8.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="4"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary Retention</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="6"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="4"/>
+              </event>
+              <event>
+                <sub_title>Acute chest syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Extremely slow accrual led to the trial closing in 2008. Because less than 10% of planned enrollment was achieved, no statistical analysis of the primary or secondary outcome data was performed because of lack of power and generalizability.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Charles Quinn</name_or_title>
+      <organization>Cincinnati Children's Hospital Medical Center</organization>
+      <phone>5138033086</phone>
+      <email>charles.quinn@cchmc.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+
