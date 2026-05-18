@@ -55,8 +55,7 @@ JSON Output:"""
 def main():
     config = {
         "api": "anthropic",
-        "model": "claude-3-5-sonnet-latest",
-        "limit": 1,
+        "limit": 100000,
         "trials_dir": "data/eval/selected_trials",
         "input_file": "data/eval/eligibility_criteria.json",
         "output_file": "data/eval/eligibility_criteria.json",
@@ -64,7 +63,7 @@ def main():
     }
     
     if config["api"] == "openai":
-        client = OpenAIClient(model=config["model"])
+        client = OpenAIClient()
     else:
         client = AnthropicClient() # Anthropic client uses its default model
 
@@ -112,19 +111,23 @@ def main():
             trial_path = os.path.join(config["trials_dir"], filename)
             
             print(f"Processing {trial_id}...")
-            criteria_text = parse_criteria(trial_path)
-            
-            if not criteria_text:
-                print(f"No criteria found for {trial_id}")
-                conditions = []
-            else:
-                conditions = extract_conditions_with_llm(client, criteria_text)
+            try:
+                criteria_text = parse_criteria(trial_path)
                 
-            results.append({
-                "id": trial_id,
-                "criteria": conditions
-            })
-            count += 1
+                if not criteria_text:
+                    print(f"No criteria found for {trial_id}")
+                    conditions = []
+                else:
+                    conditions = extract_conditions_with_llm(client, criteria_text)
+                    
+                results.append({
+                    "id": trial_id,
+                    "criteria": conditions
+                })
+                count += 1
+            except Exception as e:
+                print(f"Error processing {trial_id}: {e}. Skipping...")
+                continue
             
             if count % config["batch_size"] == 0:
                 with open(config["output_file"], 'w', encoding='utf-8') as f:
