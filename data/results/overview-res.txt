@@ -1,0 +1,9 @@
+Claude extraction, Claude matching
+1. Exact value match: 51/100 (51.00%)
+2. Success (2) vs Not Success (0 or 1) match: 56/100 (56.00%)
+
+Claude extraction, OpenAI matching
+1. Exact value match: 66/100 (66.00%)
+2. Success (2) vs Not Success (0 or 1) match: 76/100 (76.00%)
+
+OpenAI extraction, Claude matching

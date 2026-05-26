@@ -54,8 +54,8 @@ JSON Output:"""
 
 def main():
     config = {
-        "api": "anthropic",
-        "limit": 100000,
+        "api": "openai",
+        "limit": 1000,
         "trials_dir": "data/eval/selected_trials",
         "input_file": "data/eval/eligibility_criteria.json",
         "output_file": "data/eval/eligibility_criteria.json",

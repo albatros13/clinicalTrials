@@ -1,0 +1,3 @@
+Total rows evaluated: 100
+1. Exact value match: 51/100 (51.00%)
+2. Success (2) vs Not Success (0 or 1) match: 56/100 (56.00%)

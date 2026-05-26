@@ -1,0 +1,27 @@
+[
+  {
+    "topic_id": "1",
+    "trial_id": "NCT00002814",
+    "allow": true
+  },
+  {
+    "topic_id": "1",
+    "trial_id": "NCT00003470",
+    "allow": true
+  },
+  {
+    "topic_id": "1",
+    "trial_id": "NCT00003471",
+    "allow": true
+  },
+  {
+    "topic_id": "1",
+    "trial_id": "NCT00003621",
+    "allow": true
+  },
+  {
+    "topic_id": "1",
+    "trial_id": "NCT00006474",
+    "allow": true
+  }
+]

@@ -45,6 +45,8 @@ Answer only with a single integer (2, 1, or 0) followed by a newline and then yo
 - **1**: No, the topic does not satisfy the requirements because the patient matches exclusion criteria.
 - **0**: No, the topic is irrelevant to the trial.
 
+Only use the information provided in the topic description and criteria. Do not make up any additional information.
+If the topic description does not provide enough information to make a decision, respond with 2.
 Format:
 Score: [0, 1, or 2]
 Explanation: [Your justification]
@@ -62,7 +64,7 @@ def match_trials_to_patients(args):
     topics = parse_topics(topics_path)
     eligibility_map = load_eligibility_criteria(criteria_json_path)
     
-    if args["api"] == "openai":
+    if args["api"] == "anthropic":
         client = OpenAIClient()
     else:
         client = AnthropicClient()
@@ -134,9 +136,9 @@ def match_trials_to_patients(args):
 def main():
     # Define configuration object here
     args = {
-        "api": "anthropic",
-        "limit": 100,
-        "start_index": 10
+        "api": "openai",
+        "limit": 200,
+        "start_index": 0
     }
     match_trials_to_patients(args)
 
