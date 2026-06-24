@@ -1,0 +1,3931 @@
+Loading topics...
+Loading qrels...
+
+--- Evaluating Topic 1 vs Trial NCT00002814 ---
+Ground Truth Score: 1
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW1YWbGCY766fvEo3g'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Biopsy proven glioblastoma multiforme or anaplastic astrocytoma
+Central pathologic review at Dartmouth-Hitchcock Medical Center, including assay for tumor
+p53 expression No anaplastic oligodendroglioma No mixed oligodendroastrocytoma Recurrent or
+progressive disease following radiotherapy documented by CT or MRI within 2 weeks of entry
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Karnofsky 60%-100%
+Hematopoietic: WBC at least 3,000 ANC at least 1,500 Platelets at least 100,000 Hepatic:
+Bilirubin no greater than 1.0 mg/dL AST/ALT no greater than 2.5 times normal Renal:
+Creatinine no greater than 1.5 mg/dL Other: No documented sensitivity to E. coli-derived
+products No major medical or psychiatric illness that would interfere with therapy or
+compliance with scheduled follow-up No pregnant or nursing women Adequate contraception
+required of fertile patients
+PRIOR CONCURRENT THERAPY: No prior taxanes or topoisomerase I inhibitors At least 4 weeks
+since chemotherapy (6 weeks since nitrosoureas) At least 4 weeks since radiotherapy
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00003470 ---
+Ground Truth Score: 1
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW2re2kYRyCV9MZxtF'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically or cytologically confirmed incurable adult anaplastic astrocytoma
+-  Evidence of progressive or recurrent tumor by MRI scan performed within 2 weeks prior
+to study entry
+-  Must have received and failed standard therapy
+-  Tumor must be at least 5 mm
+PATIENT CHARACTERISTICS:
+Age:
+-  18 and over
+Performance status:
+-  Karnofsky 60-100%
+Life expectancy:
+-  At least 2 months
+Hematopoietic:
+-  WBC at least 2000/mm^3
+-  Platelet count at least 50,000/mm^3
+Hepatic:
+-  Bilirubin no greater than 2.5 mg/dL
+-  SGOT and SGPT no greater than 5 times upper limit of normal
+-  No hepatic failure
+Renal:
+-  Creatinine no greater than 2.5 mg/dL
+-  No history of renal conditions that contraindicate high dosages of sodium
+Cardiovascular:
+-  No uncontrolled hypertension
+-  No history of congestive heart failure
+-  No history of other cardiovascular conditions that contraindicate high dosages of
+sodium
+Pulmonary:
+-  No serious lung disease such as severe chronic obstructive pulmonary disease
+Other:
+-  Not pregnant or nursing
+-  Fertile patients must use effective contraception during and for 4 week s after study
+-  No active infection
+-  No other serious concurrent disease
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  At least 4 weeks since prior immunotherapy and recovered
+-  No concurrent immunomodulating agents
+Chemotherapy:
+-  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas) and recovered
+-  No concurrent antineoplastic agents
+Endocrine therapy:
+-  Concurrent corticosteroids allowed
+Radiotherapy:
+-  At least 8 weeks since prior radiotherapy and recovered
+Surgery:
+-  Fully recovered from any prior surgery
+Other:
+-  Prior cytodifferentiating agent allowed
+-  No prior antineoplaston therapy
+All
+18 Years
+99 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00003471 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW3ij3Xa3vTjqVZXwL'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically or cytologically confirmed low-grade astrocytoma that has progressed,
+recurred, or persisted after initial therapy, including radiotherapy
+-  Previously treated with at least 1 prior standard therapy (e.g., radiotherapy,
+chemotherapy, immunotherapy, or cytodifferentiating agent)
+-  Measurable tumor by MRI scan performed within two weeks prior to study entry
+-  Tumor must be at least 5 mm
+-  No brain stem tumors
+PATIENT CHARACTERISTICS:
+Age:
+-  18 and over
+Performance status:
+-  Karnofsky 60-100%
+Life expectancy:
+-  More than 2 months
+Hematopoietic:
+-  WBC at least 2,000/mm^3
+-  Platelet count at least 50,000/mm^3
+Hepatic:
+-  Bilirubin no greater than 2.5 mg/dL
+-  SGOT and SGPT no greater than 5 times upper limit of normal
+-  No hepatic failure
+Renal:
+-  Creatinine no greater than 2.5 mg/dL
+-  No renal insufficiency
+-  No history of renal conditions that contraindicate high dosages of sodium
+Cardiovascular:
+-  No uncontrolled hypertension
+-  No chronic heart failure
+-  No history of congestive heart failure
+-  No history of other cardiovascular conditions that contraindicate high dosages of
+sodium
+Pulmonary:
+-  No severe lung disease (e.g., chronic obstructive pulmonary disease)
+Other:
+-  Not pregnant or nursing
+-  Fertile patients must use effective contraception during and for 4 weeks after study
+participation
+-  No other concurrent serious disease
+-  No active infection
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  See Disease Characteristics
+-  At least 4 weeks since prior immunotherapy and recovered
+-  No concurrent immunomodulating agents
+Chemotherapy:
+-  See Disease Characteristics
+-  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas) and recovered
+-  No concurrent antineoplastic agents
+Endocrine therapy:
+-  Concurrent corticosteroids allowed
+Radiotherapy:
+-  See Disease Characteristics
+-  At least 8 weeks since prior radiotherapy and recovered
+Surgery:
+-  Must recover from prior surgery
+Other:
+-  No prior antineoplastons
+All
+18 Years
+99 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00003621 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW4fXe9zPAoxNp9PuR'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Histologically confirmed, newly diagnosed, anaplastic astrocytoma
+No oligodendrogliomas or oligoastrocytomas
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy: Not
+specified Hematopoietic: WBC at least 3500/mm3 Platelet count at least 130,000/mm3 Hepatic:
+Bilirubin no greater than 1.5 times upper limit of normal (ULN) SGOT no greater than 2
+times ULN Renal: Creatinine no greater than 0.5 mg/dL Other: Not pregnant or nursing
+Fertile patients must use effective contraception No uncontrolled infection No concurrent
+malignant disease or major medical problem except superficial skin cancers
+PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: At least 5 years
+since prior chemotherapy Endocrine therapy: Concurrent corticosteroids allowed
+Radiotherapy: At least 5 years since prior radiotherapy Surgery: Not specified
+All
+18 Years
+120 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00006474 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW5UeNSzWVQPkrS7bp'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Part I:
+-  Histologically confirmed, newly diagnosed glioblastoma multiforme or anaplastic
+astrocytoma (closed to accrual 12/19/2000)
+-  Parts I and II:
+-  Histologically confirmed astrocytic, oligodendroglial, or mixed glial tumor
+-  Grade III or higher
+-  Recurrent or progressive after radiotherapy
+-  Evaluable residual disease by contrast-enhanced MRI or CT scan
+PATIENT CHARACTERISTICS:
+Age:
+-  18 and over
+Performance status:
+-  Karnofsky 60-100%
+Life expectancy:
+-  Not specified
+Hematopoietic:
+-  Granulocyte count at least 1,500/mm3
+-  Platelet count at least 100,000/mm3
+Hepatic:
+-  SGOT no greater than 2.5 times upper limit of normal
+-  Bilirubin normal
+Renal:
+-  Creatinine no greater than 1.5 mg/dL OR
+-  Creatinine clearance greater than 60 mL/min
+-  BUN no greater than 25 mg/dL
+Other:
+-  Not pregnant or nursing
+-  Negative pregnancy test
+-  Fertile patients must use effective contraception during and for 2 months after study
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  At least 6 weeks since prior biologic therapy and recovered
+Chemotherapy:
+-  At least 2 weeks since prior chemotherapy (including but not limited to topotecan) and
+recovered
+-  Patients in trials with one of the following treatment combinations are allowed
+to enroll 6 weeks after receiving carmustine (BCNU):
+-  BCNU on day 1
+-  BCNU on day 1 and topotecan on days 1, 8, 15, 22, 29, and 36
+-  BCNU on day 1 and irinotecan on days 1, 8, 15, and 22
+Endocrine therapy:
+-  Patients on corticosteroids must be on a stable dose for at least 2 weeks before study
+-  At least 6 weeks since other prior endocrine therapy and recovered
+Radiotherapy:
+-  See Disease Characteristics
+-  At least 6 weeks since prior radiotherapy and recovered
+Surgery:
+-  Not specified
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00064363 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW6LjohZmQryw7PBvv'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically confirmed high-grade glioma, including any of the following:
+-  Glioblastoma multiforme
+-  Anaplastic astrocytoma
+-  Anaplastic oligodendroglioma
+-  Anaplastic mixed oligoastrocytoma
+-  Malignant astrocytoma not otherwise specified
+-  Patients with clinical and radiographic diagnosis of brain stem glioma are
+also eligible
+-  Evidence of tumor progression by MRI or CT scan
+-  Scan must be performed while patient is on a stable steroid dose for at least 5
+days
+-  Must have failed prior radiotherapy
+-  Residual disease after prior resection of recurrent or progressive tumor is allowed
+PATIENT CHARACTERISTICS:
+Age
+-  18 and over
+Performance status
+-  Karnofsky 60-100%
+Life expectancy
+-  More than 8 weeks
+Hematopoietic
+-  Absolute neutrophil count greater than 1,500/mm^3
+-  Platelet count at least 100,000/mm^3 (transfusion independent)
+-  Hemoglobin at least 10 g/dL (transfusion allowed)
+Hepatic
+-  Bilirubin less than 2 times upper limit of normal (ULN)
+-  SGOT less than 2 times ULN
+-  No significant active hepatic disease
+Renal
+-  Creatinine less than 1.5 mg/dL OR
+-  Creatinine clearance at least 60 mL/min
+-  No significant active renal disease
+Cardiac
+-  No significant active cardiac disease
+Other
+-  Not pregnant or nursing
+-  Negative pregnancy test
+-  Fertile patients must use 2 effective methods of contraception during and for 2 months
+after study participation
+-  Able to swallow whole capsules
+-  No active infection requiring IV antibiotics
+-  No significant active psychiatric disease that would preclude use of the study drug
+-  No other significant uncontrolled medical illness that would preclude study
+participation
+-  No other active life-threatening malignancy
+PRIOR CONCURRENT THERAPY:
+Biologic therapy
+-  At least 1 week since prior interferon or thalidomide
+-  No concurrent anticancer immunotherapy
+Chemotherapy
+-  At least 2 weeks since prior vincristine
+-  At least 3 weeks since prior procarbazine
+-  At least 6 weeks since prior nitrosoureas
+-  No other concurrent anticancer chemotherapy
+Endocrine therapy
+-  See Disease Characteristics
+-  At least 1 week since prior tamoxifen
+-  Concurrent steroids for the control of increased intracranial pressure allowed
+Radiotherapy
+-  See Disease Characteristics
+-  At least 4 weeks since prior radiotherapy
+-  No concurrent anticancer radiotherapy
+Surgery
+-  See Disease Characteristics
+-  Prior recent resection of recurrent or progressive disease allowed
+Other
+-  Recovered from all prior therapy
+-  At least 1 week since prior noncytotoxic agents (e.g., isotretinoin), except for
+radiosensitizers
+-  At least 4 weeks since prior investigational agents
+-  At least 4 weeks since prior cytotoxic therapy
+-  No other concurrent investigational agents
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00080054 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW7E4fAEJ6HCKkRBgU'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  At least 18 years old
+-  Histologically confirmed diagnosis of malignant gliomas that requires systemic
+antineoplastic treatment. Malignant glioma is defined as any of the following:
+Glioblastoma multiforme (GBM); Anaplastic astrocytoma (AA); Anaplastic
+oligodendroglioma; Anaplastic mixed glioma; Glioma not otherwise specified (except
+low-grade glioma)
+-  ECOG performance status score of 0, 1, or 2
+-  Each patient must sign a study-specific informed consent form
+Exclusion Criteria:
+Laboratory values of:
+-  Absolute neutrophil count < 2000/µL
+-  Platelet count < 100,000/µL
+-  AST or ALT > 2 x the upper limit of normal (ULN)
+-  Alkaline phosphatase > 5 x ULN
+-  Bilirubin > 2 x ULN
+-  Creatinine > 2.0 mg/µL
+and
+-  Plan to use any additional cancer therapy (e.g., systemic, radiation, surgery) during
+the study period
+-  Women who are pregnant or lactating
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00276783 ---
+Ground Truth Score: 1
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW8DM7gC7qFfDLUSYa'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Diagnosis of 1 of the following:
+-  Malignant glioma, including the following subtypes: glioblastoma or gliosarcoma,
+anaplastic astrocytoma, anaplastic oligodendroglioma, anaplastic mixed glioma, or
+malignant glioma not otherwise specified, meeting the following criteria:
+-  Not required to have measurable or evaluable disease
+-  Must have failed prior radiation therapy > 4 weeks ago
+-  Must have failed at least 1 prior chemotherapy regimen
+-  Confirmation of tumor progression by MR spectroscopy, PET scan, or
+biopsy/resection if prior radiosurgery was performed
+-  Primary CNS lymphoma, meeting the following criteria:
+-  Measurable disease as defined by bidimensionally measurable lesions with
+clearly defined margins by CT scan or MRI
+-  Must have failed at least one prior chemotherapy regimen
+-  Must have failed at least one agent or regimen
+-  Brain metastases from a solid tumor, meeting the following criteria:
+-  Measurable disease as defined by bidimensionally measurable lesions with
+clearly defined margins by CT scan or MRI
+-  Biopsy is not required if radiographic imaging is consistent with brain
+metastases
+-  Must have failed prior whole-brain radiotherapy
+-  Patients with leptomeningeal metastases with or without brain metastases are
+eligible for therapy (may be diagnosed by MRI or cytology)
+-  Confirmation of tumor progression by MR spectroscopy, PET scan, or
+biopsy/resection if prior radiosurgery was performed
+-  Effusions or fluid collections must be drained prior to study entry
+PATIENT CHARACTERISTICS:
+-  Karnofsky performance score ≥ 60
+-  WBC > 3,000/mm^3
+-  Absolute neutrophil count > 1,500/mm^3
+-  Platelet count > 100,000/mm^3
+-  Hemoglobin > 10 mg/dL (transfusion allowed)
+-  SGOT/SGPT < 3.0 times upper limit of normal (ULN)
+-  Bilirubin < 1.5 times ULN
+-  Creatinine < 1.5 mg/dL
+-  Creatinine clearance > 45 mL/min
+-  Women of childbearing potential and sexually active males must commit to the use of
+effective contraception while on study and for 3 months after completing study
+treatment
+-  Women who are pregnant or breast-feeding are not eligible for study treatment
+-  Negative pregnancy test
+-  Able to take steroids, vitamin B12, or folate
+-  No significant medical illnesses or infection that, in the investigator's opinion,
+cannot be adequately controlled with appropriate therapy or would compromise the
+patient's ability to tolerate this therapy
+-  Only one active tumor type allowed, except nonmelanoma skin cancer or carcinoma in
+situ of the cervix
+-  A history of other malignancies are acceptable if in complete remission and off
+all therapy for that disease for a minimum of 3 years
+PRIOR CONCURRENT THERAPY:
+-  See Disease Characteristics
+-  More than 4 weeks since prior whole-brain or other radiotherapy
+-  Recovered from any side effects (6 weeks for a nitrosourea; 4 weeks for temozolomide,
+procarbazine, etoposide or experimental agent; 3 weeks for isotretinoin or tamoxifen)
+(for patients with gliomas)
+-  No more than 2 prior chemotherapeutic agents or regimens (includes biologic agents)
+(for patients with gliomas)
+-  Recovered from prior biopsy or re-resection of the tumor (10-14 days for resection or
+3-5 days for a biopsy) (for patients with gliomas)
+-  May not be on any other chemotherapy except for hormonal therapy or trastuzumab
+(Herceptin®) (for patients with brain metastases)
+-  No limitations on prior CNS-directed therapies (for patients with brain metastases)
+-  Able to discontinue nonsteroidal anti-inflammatory drugs (NSAIDs)
+-  Patients taking NSAIDs or aspirin are required to interrupt therapy for at least 2
+days before the study treatment and 2 days after the infusion
+All
+18 Years
+120 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00301418 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfW9Rn1YFNaoP8q2w5x'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Male or female patients of ≥ 18 years of age.
+-  Patients with a documented histologic diagnosis of relapsed or refractory glioblastoma
+multiforme (GBM), anaplastic astrocytoma (AA) or anaplastic mixed oligoastrocytoma
+(AOA). All patients will have samples of their tissue evaluated for EGFRvIII
+overexpression and PTEN loss.
+-  Patients with a histologically confirmed low grade brain tumor who relapse with an
+enhancing tumor on magnetic resonance imaging (MRI) can be evaluated for toxicity
+only.
+-  Patients must have at least one confirmed and evaluable tumor site.*
+*A confirmed tumor site is one which is biopsy-proven. NOTE: Radiographic procedures
+(e.g., Gd-enhanced MRI or computed tomography [CT] scans) documenting existing lesions
+must have been performed within three weeks of treatment on this research study.
+-  Patients must have a Karnofsky performance status ≥ 60% (or the equivalent Eastern
+Cooperative Oncology Group [ECOG] level of 0-2) and an expected survival of ≥ three
+months.
+-  No chemotherapy for six weeks prior to treatment under this research protocol and no
+external beam radiation for eight weeks prior to treatment under this research
+protocol.
+-  Patients must have adequate hematologic reserve with WBC ≥ 3000/mm3, absolute
+neutrophils ≥ 1500/mm3 and platelets ≥ 100,000/mm3. Patients who are on Coumadin must
+have a platelet count of ≥ 150,000/mm3
+-  Pre-enrollment chemistry parameters must show: bilirubin < 1.5X the institutional
+upper limit of normal (IUNL); AST or ALT < 2.5X IUNL and creatinine < 1.5X IUNL.
+-  Pre-enrollment coagulation parameters (PT and PTT) must be ≤ 1.5X the IUNL.
+-  Concomitant Medications:
+-  Growth factor(s): Must not have received within 1 week of entry onto this study.
+-  Steroids: Systemic corticosteroid therapy is permissible in patients with
+centrail nervous system (CNS) tumors for treatment of increased intracranial
+pressure or symptomatic tumor edema. Patients with CNS tumors who are receiving
+dexamethasone must be on a stable or decreasing dose for at least 1 week prior to
+study entry.
+-  Study Specific: Patients on enzyme-inducing anticonvulsants will be changed to
+non-enzyme inducing anticonvulsants or will not be allowed on this study.
+Patients receiving proton pump inhibitor or H2 blockers will not be allowed on
+study. Patients taking antacids will be allowed on study although they should not
+take the antacid for two hours before or two hours after taking erlotinib.
+-  Patients must agree to use a medically effective method of contraception during and
+for a period of three months after the treatment period. A pregnancy test will be
+performed on each premenopausal female of childbearing potential immediately prior to
+entry into the research study.
+-  Patients should not have received a CYP3A4 inhibitor within 1 week of study entry and
+should not have received a CYP3A4 inducer within 4 weeks of study entry.
+-  Patients should not have received proton-pump inhibitors within 5 days of study entry
+or H2 blockers within 2 days of study entry.
+-  Patients on steroids must receive prophylaxis for Pneumocystis carinii pneumonia (PCP)
+with Bactrim, unless they have a history of allergy to sulfa drugs.
+-  Patients must be able to understand and give written informed consent. Informed
+consent must be obtained at the time of patient screening.
+Exclusion Criteria:
+-  Previous treatment with Tarceva®.
+-  Women who are pregnant or lactating.
+-  Women of childbearing potential and fertile men will be informed as to the potential
+risk of procreation while participating in this research trial and will be advised
+that they must use effective contraception during and for a period of three months
+after the treatment period.
+-  Patients with significant intercurrent medical or psychiatric conditions that would
+place them at increased risk or affect their ability to receive or comply with
+treatment or post-treatment clinical monitoring.
+All
+18 Years
+N/A
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00354068 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWAsqc2CkVgYB85ocK'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically confirmed malignant glioma
+-  Any of the following subtypes:
+-  Glioblastoma multiforme
+-  Gliosarcoma
+-  Anaplastic astrocytoma
+-  Anaplastic oligodendroglioma
+-  Anaplastic oligoastrocytoma
+-  Previous histologic diagnosis of a lower grade of glioma allowed if there is
+histologic evidence of progression to a diagnosis of malignant glioma
+-  Multifocal disease allowed
+-  Must have undergone prior conventional external-beam radiation therapy
+-  Stable disease, disease recurrence, or relapsed disease
+-  Must not have received any systemic therapy for this recurrence or relapse
+-  No prior progressive disease
+-  No central/systemic fluid collections (pericardial effusion, pulmonary effusion,
+ascites) ≥ grade 2
+-  No evidence of intratumor hemorrhage on pretreatment diagnostic imaging, except for
+stable post-operative grade 1 hemorrhage
+PATIENT CHARACTERISTICS:
+-  Karnofsky performance status 70-100%
+-  Absolute neutrophil count > 1,500/mm³
+-  Hemoglobin > 9 g/dL
+-  Platelet count > 100,000/mm³
+-  AST and ALT < 2.5 times upper limit of normal (ULN)
+-  Bilirubin < 1.5 times ULN
+-  Creatinine < 1.5 times ULN
+-  No chronic renal disease
+-  No active uncontrolled infection
+-  No uncontrolled diabetes
+-  No excessive risk of bleeding, as defined by occurrence of any of the following:
+-  Stroke within the past 6 months
+-  History of CNS or intraocular bleed
+-  Septic endocarditis
+-  No history of labile hypertension
+-  No congestive heart failure
+-  No poorly controlled hypertension
+-  No myocardial infarction within the past 6 months
+-  No history of poor compliance with antihypertensive regimen
+-  No other severe and/or uncontrolled medical disease that would preclude study
+participation
+-  No peripheral edema ≥ grade 2
+-  No gastrointestinal bleeding
+-  No gross hematuria
+-  No other active systemic bleeding
+-  Patients must not have experienced toxicity ≥ grade 3 with prior treatment with either
+temozolomide or imatinib mesylate
+-  No other primary malignancy within the past 5 years except basal cell skin cancer or
+carcinoma in situ of the cervix or other cancer not currently clinically significant
+nor requiring active interventions
+PRIOR CONCURRENT THERAPY:
+-  See Disease Characteristics
+-  Recovered from all prior therapy
+-  Prior surgical resection(s) allowed
+-  At least 2 weeks since prior surgery
+-  At least 2 weeks since prior chemotherapy (6 weeks for nitrosoureas)
+-  At least 2 weeks since prior external-beam radiotherapy
+-  At least 2 weeks since prior investigational drugs
+-  More than 1 week since prior biologic, immunotherapeutic, or cytostatic agents
+-  No concurrent warfarin
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00430872 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWC33B9TBVmDuFbdPX'}
+
+[Eligibility Section from Trial]
+Patients with a tumor on the spine or spinal cord.
+Non-Probability Sample
+Inclusion Criteria:
+1. Diagnosis of a tumor involving the spinal cord (intramedullary or extramedullary)
+2. Age > or = to 18 years of age
+3. Ability to speak and read English. Non-English speaking subjects will be included in
+future studies, once the final instrument has been developed.
+Exclusion Criteria:
+1. Patients < 18 years of age
+2. Evidence of gross cognitive dysfunction limiting memory or ability to complete a
+self-report questionnaire as determined by evaluation of physician or mid-level
+provider.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00458731 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWCpR4pQ8cxZvV6qEU'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients must have histological confirmation of Solid Tumor or Lymphoma that is
+metastatic or unresectable; if assessing a single target lesion, histological
+confirmation of that particular lesion MUST be carried out
+-  Patients may have received an unlimited number of prior therapies; however, At least 4
+weeks MUST have passed since the last chemotherapy to day 1 of registration (6 weeks
+for regimens containing nitrosoureas or Mitomycin C)
+-  ECOG performance status =< 2 (Karnofsky >= 60%)
+-  Leukocytes >= 3,000/mcL
+-  Absolute neutrophil count >= 1,500/mcL
+-  Platelets >= 100,000/mcL
+-  Total bilirubin =< 2.0 mg/dL (does NOT apply to patients with Gilbert's Syndrome)
+-  AST(SGOT)/ALT(SGPT) =< 2.5 X institutional upper limit of normal (Patients with liver
+involvement will be allowed =< 5.0 X institutional upper normal limit)
+-  Serum creatinine =< 2.0 mg/dL
+-  Patients MUST have recovered from all treatment related toxicities to Grade 1 NCI CTC
+(v 4.0) in severity
+-  Patients must be willing and able to review, understand, and provide written consent
+before starting therapy
+-  Patients with stable brain metastasis (stable disease on one MRI assessment at least 4
+weeks after completion of whole brain radiation, no evidence of progression on MRI
+assessment 4 weeks after stereotactic radiosurgery or complete surgical excision) will
+also be allowed to participate in this trial
+-  Patients with histologically proven intracranial glioblastoma, gliosarcoma or
+anaplastic astrocytoma will be eligible; patients must have shown unequivocal
+radiographic evidence for tumor progression by MRI scan; scan should be performed
+within 14 days prior to registration and on a steroid dose that has been stable for at
+least 5 days; if the steroid dose is increased between the date of imaging and
+registration, a new baseline MRI is required
+Exclusion Criteria:
+-  Patients with squamous non-small cell lung carcinoma
+-  Serious or non-healing wound, ulcer or bone fracture
+-  History of abdominal fistula, gastrointestinal perforation or intra-abdominal abscess
+within 28 days of day 1 of registration
+-  Invasive procedures defined as follows:
+-  Major surgical procedure, open biopsy or significant traumatic injury within 28
+days prior to Day 1 registration
+-  Anticipation of need for major surgical procedures during the course of the study
+-  Core biopsy within 7 days prior to day 1 of therapy
+-  Patients may not be receiving any other investigational agents
+-  Patients with bleeding diathesis (clinical bleeding, prothrombin time >= 1.5 X upper
+institutional normal value, INR >= 1.5, activated partial thromboplastin time aPTT >=
+1.5 X upper institutional normal value), active gastric or duodenal ulcer
+-  Uncontrolled systemic vascular hypertension (Systolic blood pressure > 140 mmHg,
+Diastolic Blood Pressure > 90 mmHg)
+-  Urine protein should be screened by dipstick or urine analysis; for proteinuria > 1+
+or urine protein:creatinine ratio > 1.0, 24-hour urine protein should be obtained and
+the level should be < 1000 mg for patient enrollment
+-  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+infection requiring parenteral antibiotics on Day 1
+-  Patients with clinically significant cardiovascular disease:
+-  History of CVA within 6 months
+-  Myocardial Infarction or unstable angina within 6 months
+-  New York Heart Association Grade II or greater congestive heart failure, serious
+cardiac arrhythmia requiring medication, unstable angina pectoris
+-  Clinically significant peripheral vascular disease
+-  QTc prolongation > 500msec or other significant ECG abnormality noted within 14
+days of registration
+-  Conditions requiring concurrent use of drugs or biologics with proarrythmic
+potential; these drugs are prohibited during studies with AZD2171 (refer to
+appendix V for a listing of these agents)
+-  Patients with history of hemoptysis
+-  Patients with tumor mass abutting a major vessel
+-  Pregnant women are excluded from this study because AZD-2171 is an angiogenesis
+inhibiting agent with potential teratogenic or abortifacient effects; because of the
+potential risk for adverse events in nursing infants secondary to treatment of the
+mother with AZD-2171, breastfeeding should be discontinued if the mother is treated
+with AZD-2171; these potential risks may also apply to other agents used in this
+study; women of child-bearing potential and men must agree to use contraception prior
+to study entry and for the duration of study participation; should a woman become
+pregnant or suspect she is pregnant while participating in this study, she should
+inform her treating physician immediately
+All
+15 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00575887 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWDni624kxu6Ak1UEm'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patient age >18 years old
+-  Histopathological diagnosis of high grade glioma (anaplastic astrocytoma or anaplastic
+oligodendroglioma or anaplastic oligoastrocytoma or glioblastoma multiforme)
+-  Progression after standard dose (D1-5/28 days)temozolomide either during recurrence or
+adjuvant treatment approved in Magnetic Resonance imaging
+-  Karnofsky Performance Status scale >/=50 (due to brain pathology)
+-  Adequate hematological, renal and hepatic function
+-  Patients willing to participate in the study and signing the informed consent
+Exclusion Criteria:
+-  Karnofsky Performance Status scale <50
+-  Female patients with pregnancy or with suspicion of pregnancy. Patients with fertility
+will be warned for appropriate contraception during the study
+-  Patients not suitable for follow-up
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00612001 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWEhHKeRtZdX7qGFq4'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically confirmed diagnosis of 1 of the following malignant gliomas:
+-  Anaplastic astrocytoma
+-  Glioblastoma multiforme
+-  Oligodendroglioma
+-  Oligoastrocytoma
+-  WHO grade III or IV disease
+-  Newly diagnosed or recurrent disease
+-  Bidimensionally measurable disease by contrast-enhancing MRI
+-  Surgically accessible tumor for which resection is indicated
+-  Previously treated with or planning to undergo treatment with conventional external
+beam radiotherapy
+-  HLA-A*201 positive
+-  Karnofsky performance status 60-100%
+-  Life expectancy ≥ 8 weeks
+-  Hemoglobin ≥ 10 g/dL
+-  Absolute granulocyte count ≥ 1,500/mm³
+-  Platelet count ≥ 100,000/mm³
+-  SGOT and SGPT ≤ 2 times normal
+-  Alkaline phosphatase ≤ 2 times normal
+-  Bilirubin ≤ 1.5 mg/dL
+-  BUN ≤ 1.5 times normal OR creatinine ≤ 1.5 times normal
+-  Negative pregnancy test
+-  Fertile patients must use effective contraception
+-  Hepatitis B negative
+-  Hepatitis C negative
+-  HIV negative
+-  Syphilis serology negative
+-  Afebrile
+Exclusion Criteria:
+-  active infection
+-  immunodeficiency
+-  autoimmune disease that may be exacerbated by immunotherapy, including any of the
+following:
+-  Rheumatoid arthritis
+-  Systemic lupus erythematosus
+-  Vasculitis
+-  Polymyositis-dermatomyositis
+-  Scleroderma
+-  Multiple sclerosis
+-  Juvenile-onset insulin-dependent diabetes
+-  allergy to study agents
+-  underlying condition that would contraindicate study therapy
+-  concurrent severe or unstable medical condition that would preclude giving informed
+consent
+-  psychiatric condition that would preclude study participation or giving informed
+consent
+-  other malignancy within the past 5 years except adequately treated basal cell or
+squamous cell skin cancer, localized prostate cancer, or carcinoma in situ of the
+cervix
+-  prior chemotherapy (6 weeks for nitrosoureas) within last 4 weeks of starting
+treatment
+-  concurrent corticosteroids within 2 weeks prior to treatment
+-  radiotherapy within 2 weeks prior to treatment
+-  systemic antibiotics within 72 hours prior to treatment
+-  prior organ allograft
+-  antihistamine therapy within 5 days before or after administration of study vaccine
+-  chemotherapy during and for 4 weeks after administration of study vaccine
+-  adjuvant therapy during and for 4 weeks after administration of study vaccine
+-  other concurrent investigational agents
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00613093 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWFYsoCorrVdyus9ui'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients have recurrent/progressive Malignant Glioma (MG). Stereotactic biopsy at time
+of recurrence/progression is only required if radiation-induced necrosis is suspected
+-  Patients have MG resistant to Temodar, which is defined as > or = to 25 percent
+increase in tumor growth on contrast enhanced MRI/CT within 8 weeks of last dose of
+Temodar
+-  Age > or = to 18 years
+-  Evidence of measurable enhancing disease on contrast-enhanced MRI, unless medically
+contraindicated.
+-  Interval of at least 2 weeks between prior surgical resection/ 4 weeks between prior
+radiotherapy/chemotherapy, and enrollment on protocol unless there is unequivocal
+evidence of tumor progression. However, patients treated with chemotherapy agents such
+as VP-16 who would normally be retreated after shorter intervals may be treated at
+usual starting time even if less than 4 weeks from last prior dose of chemotherapy
+-  Karnofsky performance score > or = to 60 percent
+-  Hematocrit > 29 percent, absolute neutrophil count (ANC) > 1,500 cells/microliter,
+platelets > 100,000 cells/microliter
+-  Serum creatinine <1.5 mg/dl, Blood Urea Nitrogen (BUN) <25 mg/dl, Serum Glutamic
+Oxaloacetic Transaminase (SGOT) & bilirubin <1.5 x upper limit of normal (ULN)
+-  For patients on corticosteroids, they must have been on stable dose for 1 week prior
+to entry, if clinically possible, and dose should not be escalated over entry dose
+level
+-  Signed informed consent approved by Institutional Review Board (IRB) prior to patient
+entry
+-  If sexually active, patients will take contraceptive measures for duration of
+treatments
+Exclusion criteria:
+-  Pregnancy
+-  Co-medication that may interfere with study results
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00631137 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWGSTQwHfYyiNdL4GV'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Newly diagnosed high-grade glioma, including the following subtypes:
+-  Anaplastic astrocytoma
+-  Anaplastic oligodendroglioma
+-  Glioblastoma multiforme
+-  Requires dexamethasone at a dose of > 4 mg/day to control symptoms of tumor-related
+edema at time of study enrollment AND has been on a stable dose of steroids for ≥ 5
+days prior to study enrollment
+-  Completed ≥ 80% of prescribed radiotherapy
+-  Hypogonadal, defined as serum testosterone level < 350 ng/dL
+-  No history of prostate or breast cancer
+-  No benign prostatic hypertrophy requiring therapy OR AUA score of ≥ 8
+-  PSA ≤ 4 ng/mL
+PATIENT CHARACTERISTICS:
+-  Karnofsky performance status 60-100%
+-  Able to keep daily records or has a care provider that agrees to keep daily records of
+drug administration
+-  No clinical history of congestive heart failure requiring therapy
+-  No psychotic disorder requiring active treatment
+-  No structured exercise program involving exercise for > 3 hours/week
+-  No polycythemia (i.e., hematocrit > 52%)
+PRIOR CONCURRENT THERAPY:
+-  More than 6 months since prior androgen therapy
+Male
+18 Years
+120 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00668122 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWHHYurQ8NBZ4YonsM'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+The primary diagnosis in this clinical trial was cUTI in men or non-pregnant women over 18
+years of age. Other main inclusion criteria:
+-  One or more clinical symptoms and signs of a lower UTI: fever (> 38°C, orally),
+chills, frequency of micturition, dysuria, urge sensation.
+-  One or more of the following underlying conditions suggestive of cUTI:
+-  Indwelling urinary catheter.
+-  100 mL of residual urine after voiding.
+-  Neurogenic bladder.
+-  Obstructive uropathy due to lithiasis, tumor or fibrosis.
+-  Acute urinary retention in men.
+Exclusion Criteria:
+Diagnosis of pyelonephritis supported by clinical signs/symptoms of fever (>38°C orally),
+chills and flank pain (all 3 signs/symptoms must be present).
+-  Have a history of allergy to quinolones
+-  Are unable to take oral medication
+-  Have an intractable infection requiring > 14 days of therapy
+-  Have a requirement for concomitant administration of sucralfate or divalent and
+trivalent cations such as iron or antacids containing magnesium, aluminum or calcium
+-  Have prostatitis or epididymitis
+-  Have had a renal transplant
+-  Have ileal loop or vesica- urethral reflux
+-  Have significant liver or kidney impairment
+-  Have a history of tendinopathy associated with fluoroquinolones
+-  Are pregnant, nursing
+-  Have a history of convulsions or CNS disorders
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00704080 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWJCcrp1SyqHqos6J5'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically confirmed intracranial Grade 3 or 4 anaplastic glioma or glioblastoma
+(astrocytic tumor, anaplastic oligodendroglioma, or oligoastrocytoma)
+-  Received prior standard radiation for a Grade 3 or 4 astrocytic tumor with a minimum
+cumulative dose of 40 Gy administered
+-  Completed at least one full cycle of temozolomide of 200 mg/m2/day administered on
+Days 1-5 of a 28-day cycle, without unacceptable toxicity or progression
+-  Karnofsky performance status of 60 or more
+-  Adequate organ and bone marrow function as defined by hematological and serum
+chemistry limits
+-  At least 18 years old.
+-  Both men and women must practice adequate contraception
+-  Informed consent
+Exclusion Criteria:
+-  Progressed while on temozolomide
+-  Evidence of acute intracranial or intratumoral hemorrhage > Grade 1
+-  Restriction of some therapies/medications within specific timeframes prior to
+enrollment and during the study including cytotoxic chemotherapy other than
+temozolomide, biologic agents, nitrosoureas or mitomycin C, small-molecule kinase
+inhibitors, non-cytotoxic hormonal agents, prior therapy with a PI3K inhibitors,
+radiation therapy, enzyme-inducing anti-convulsants, valproic acid
+-  Not recovered from the toxic effects of prior therapy
+-  Pregnant or breast feeding
+-  History of diabetes mellitus
+-  Uncontrolled intercurrent illness
+-  Congestive heart failure, unstable angina, or a myocardial infarction within 3 months
+of entering the study.
+-  HIV positive
+-  Diagnosis of another malignancy may exclude subject from study
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00705198 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWK2yST3eazaWqnsvW'}
+
+[Eligibility Section from Trial]
+Patients treated with temozolomide for newly diagnosed malignant glioma (concomitant with
+radiotherapy and then as monotherapy) and relapsed malignant glioma (as monotherapy). In
+addition, up to 450 patients with newly diagnosed anaplastic astrocytoma will be registered
+to investigate survival time.
+Non-Probability Sample
+Inclusion Criteria:
+-  All patients treated with temozolomide for newly diagnosed malignant glioma
+(concomitant with radiotherapy and then as monotherapy) and relapsed malignant glioma
+(as monotherapy).
+Exclusion Criteria:
+-  Patients with a history of hypersensitivity to temozolomide or dacarbazine.
+-  Pregnant women and women who may be pregnant.
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 1 vs Trial NCT00723827 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWLYG5kHG7LhkF6Me9'}
+
+[Eligibility Section from Trial]
+Participants with newly diagnosed glioblastoma multiforme.
+Participants with malignant glioma, such as glioblastoma multiforme or anaplastic
+astrocytoma, showing recurrence or progression after standard therapy.
+Probability Sample
+Inclusion Criteria:
+-  Participants who are prescribed with temozolomide by local labeling:
+-  participants with newly diagnosed glioblastoma multiforme;
+-  participants with malignant glioma, such as glioblastoma multiforme or anaplastic
+astrocytoma, showing recurrence or progression after standard therapy.
+Exclusion Criteria:
+-  N/A
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00000469 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWMwbYTwZtLNtV9wvp'}
+
+[Eligibility Section from Trial]
+Men and women with early carotid atherosclerosis and moderately elevated LDL cholesterol
+between the 60th and 90th percentiles.
+All
+40 Years
+79 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00005199 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWNhz4DA2yFTBBNV9W'}
+
+[Eligibility Section from Trial]
+No eligibility criteria
+Male
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00005267 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWPsRsyWZgsGZBFdXf'}
+
+[Eligibility Section from Trial]
+(A) sample of hypertensive sibships with at least two members diagnosed with hypertension
+before the age of 60 (probands); (B) random sample of age-matched persons from the same
+base populations, from which normotensive controls could be drawn; (C) unmedicated,
+normotensive adult offspring of one of the hypertensive siblings.
+Non-Probability Sample
+Inclusion criteria for probands: Onset of hypertension by age 60 years and the presence of
+at least one additional hypertensive sibling who was willing to participate. Hypertension
+was defined according to systolic BP ≥140 or diastolic BP ≥90 in at least two different
+evaluations, or treatment for hypertension. Volunteers with type 1 diabetes or renal
+failure were excluded.
+Inclusion criteria for subsequent recruits: Criteria as indicated in Study Population
+Description (i.e., criteria based on familial relationships, hypertension and
+antihypertensive medication status).
+All
+18 Years
+100 Years
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00172419 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWQuwEqrE1etTj58c2'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria: Untreated dyslipidemic (LDL cholesterol >110 mg/dl) subjects with
+documented atherosclerosis in at least 1 vascular territory: at least moderate (≧4.0mm)
+aortic atherosclerosis by transesophageal echocardiography or CT/MRI, angiographically
+documented with coronary artery stenosis (≧50% luminal stenosis), ultrasonographically
+documented significant extracranial arterial stenosis (≧50%), history of ischemic stroke
+and transient ischemic attack (TIA), or documented peripheral vascular disease. Exclusion
+Criteria: Acute illness,infection, inflammation or major systemic diseases, T-Bil >3 mg/dl,
+or Creatinine >3 mg/dl.
+All
+30 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00176410 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWRxhG9ySqfGr2xEh6'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. Age ≥ 21 years
+2. Mild to moderate aortic stenosis
+3. No symptoms caused by aortic stenosis
+4. Written informed consent to participate in the study
+5. Aortic valve leaflet thickening with reduced systolic opening
+6. Reduced aortic valve area > 0,8 cm2 and < 1,5 cm2
+7. Maximum aortic jet velocity at rest > 2,5 m/s
+Exclusion Criteria:
+1. Symptoms caused by aortic stenosis
+2. Aortic valve area < 0,7 cm2
+3. Severe aortic regurgitation
+4. Reduced left ventricular ejection fraction (< 50%)
+5. Any valve disease with indication for surgery
+6. Coronary artery disease
+7. Therapy refractory arterial hypertension
+8. Comorbid noncardiac diseases or other reasons which make a regular follow-up
+impossible
+9. Other indication for treatment with statins
+10. Women of childbearing potential not using the contraception method(s) specified in
+this study (specify), as well as women who are breastfeeding
+11. Known sensitivity to study drug(s) or class of study drug(s)
+12. Patients with severe medical condition(s) that in the view of the investigator
+prohibits participation in the study (specify as required)
+13. Use of any other investigational agent in the last 30 days
+All
+21 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00247533 ---
+Ground Truth Score: 1
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWToa8QDytMxjxnWEB'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Coronary artery stenosis >50% and either carotid or brain artery stenosis > 50%
+Exclusion Criteria:
+-  Creatinine > 2.0 mg/dL
+-  Co-morbidity
+-  ER
+-  A letter of authorization is not given
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00256165 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWUcC3mm6kDfTPk6yQ'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patient requires, for the first time, isolated aortic valve replacement due to aortic
+stenosis or mixed aortic stenosis disease etiology when aortic stenosis is predominant
+and aortic regurgitation is mild.
+-  Patient is of legal age in the host country.
+-  Patient (or legal guardian) has signed a study specific informed consent form
+Exclusion Criteria:
+-  Patient was previously operated on with any heart surgery including heart valve
+replacement or coronary artery bypass graft (CABG); or underwent any form of
+myocardial revascularization in the past (including stents), etc.
+-  Patient requires any concomitant heart surgery other than the isolated native aortic
+heart valve replacement and concomitant ascending aortic replacement (e.g not allowed
+are: multiple valve replacements or concomitant CABG, pacemaker insertions, or severe
+septal hypertrophy needing surgical excision, etc.)
+-  Patient has unstable angina
+-  Patient is in New York Heart Association functional class IV
+-  Patient has significant abnormality in wall motion
+-  Patient is affected by active endocarditis.
+-  Patient has a cardiac pacemaker or automatic implanted cardiac defibrillator
+-  Patient is affected by acute aortic dissection.
+-  Patient is in chronic and persistent atrial fibrillation
+-  Patient receives hemodialysis therapy
+-  Patient has a medical condition which contraindicates implantation of the SJM Epic and
+Epic™ Supra Porcine Bioprosthetic Heart Valve (e.g. renal failure or abnormal calcium
+metabolism).
+-  Patient has aneurysmal clips or carotid artery vascular stents
+-  Patient has a neurostimulator
+-  Patient has an implanted or external drug infusion device (e.g. insulin pump)
+-  Patient has a bone growth/fusion stimulator
+-  Patient has a cochlear, otologic, or ear implant
+-  Patients with severe claustrophobia in which medical sedation is contraindicated or
+unable to resolve anxiety sufficiently
+-  Patients with ocular foreign body (e.g. metal shavings)
+-  Patient is pregnant or nursing
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00269165 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWVZjm73JA7iqbjVGw'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Severe Aortic Stenosis
+-  NYHA Class 2-4 CHF Symptoms
+-  Age > 75
+-  EuroSCORE > 7
+-  Prohibitively High Risk for Aortic Valve Replacement Surgery as Designated by a
+Cardiac Surgeon
+All
+75 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00294775 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWWSKs2hFyQQB9fYdq'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. Symptomatic severe AVS referred for valve replacement (mechanic prosthesis or
+bioprosthesis) at Odense University Hospital
+2. Signed informed consent
+Exclusion Criteria:
+1. Severe renal failure (s-creatinine >300 mmole/l)
+2. Moderate or severe hepatic failure
+3. Moderate or severe LV systolic dysfunction (LVEF<40%)
+4. Patients already treated with ACE-I or ARB
+5. Known intolerance for ARB
+6. Unwilling to participate in the study
+7. Poor echocardiographic window
+8. Pregnant women
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00535899 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWXKQY5QcSh8qQDbLF'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Severe aortic stenosis with ejection fraction less than 40% that is schedule to
+undergo aortic valve replacement
+Exclusion Criteria:
+-  Creatinine > 2
+-  More than moderate mitral, tricuspid, or aortic regurgitation.
+-  Endocarditis
+-  Emergent surgery
+-  Prior sternotimy
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00598754 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWYBFJBd6aYgbgE5w8'}
+
+[Eligibility Section from Trial]
+Patients coming to Cleveland Clinic to have surgery for aortic stenosis or aortic
+insufficiency.
+Non-Probability Sample
+Inclusion Criteria:
+-  Scheduled for surgery for aortic stenosis or aortic regurgitation
+Exclusion Criteria:
+-  Previous open heart surgery
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00699452 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWZ36TGTKATGdsMXEo'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  120 consecutive patients with clinically significant, symptomatic aortic stenosis
+referred to the Helsinki University Central Hospital for consideration of valve
+replacement surgery.
+Exclusion Criteria:
+-  Individuals with past myocardial infarction, more than mild mitral valve disease, or
+previous cardiac surgery will be excluded.
+-  Patients with heart failure who need urgent surgery or those with hypotension
+(systolic blood pressure below 110 mm Hg) will be excluded.
+-  Patients already taking ACE inhibitors or AT-1R antagonists will be excluded from the
+study population.
+-  Other exclusion criteria include the following:
+-  Complicated diabetes
+-  Primary cardiomyopathy
+-  Pregnant women, women who are breast feeding, and women of childbearing potential
+who are not using chemical or mechanical contraception or have a positive serum
+pregnancy test
+-  History of malignancy (unless a documented disease free period exceeding 5-years
+is present) with the exception of basal cell or squamous cell carcinoma of the
+skin. Women with a history of cervical dysplasia would be permitted to enter the
+study provided they had 3 consecutive clear Papanicolaou (Pap) smears
+-  Hypothyroidism (TSH 1.5xULN)
+-  History of alcohol or drug abuse within the last 5 years (this may affect
+compliance)
+-  Unexplained creatine kinase (CK 3xULN) (To protect patient safety)
+-  Serum creatinine >176 umol/L (2.0mg/dL)
+-  Participation in another investigational drug study less than 4 weeks before
+enrolment in the study, or according to subjects local ethics committee
+requirements where a larger period is stipulated (to avoid potential
+misinterpretation of overlapping adverse events)
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00767013 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWZwfEfHJWW2BoM7FP'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients with aortic valve disease who were scheduled to undergo cardiac surgery
+Exclusion Criteria:
+-  Hemodynamic instability
+-  Renal insufficiency (serum creatinine level > 133umol/L)
+-  Known allergy to iodinated contrast agents
+-  Non-treated hyperthyreosis
+All
+40 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00774657 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWbGYBaSHfCSPZ8EN9'}
+
+[Eligibility Section from Trial]
+Lahey Clinic patients who have been referred to the echocardiography lab for clinical
+indications, found to have a aortic stenosis
+Non-Probability Sample
+Inclusion Criteria:
+-  Subjects more than 18 yrs of age through 90 yrs of age
+-  Both male and female
+-  Patients with moderate or severe isolated Aortic Stenosis
+-  Patients who have been referred for both two-dimensional and three- dimensional
+echocardiographies.
+Exclusion Criteria:
+-  Poor acoustic windows
+-  h/o CAD and wall motion abnormality
+All
+18 Years
+90 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00782327 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWcZB6GddxDJaAdV7G'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients > 10 years
+-  Diagnosis of MFS, according to the Ghent criteria and/or genetically proven FBN1
+mutations or linkage
+-  Consent obtained (written) either for the patient and for his/her parents (<18y
+-  Z-score of the aorta at the level of the sinus of Valsalva ≥2 (BSA adjusted)
+-  ARB naïve patients
+Exclusion Criteria:
+-  Poor echocardiographic window,limiting the accurate measurement of the aortic root
+-  Contra-indication for ARB: Bilateral renal artery stenosis, renal function
+abnormalities (creatinine above normal for age), hyperkalemia
+-  Intolerance for ARB (eg angioedema)
+-  Pregnancy or breast feeding women
+-  Absence of effective contraception
+-  Liver function abnormalities
+-  Heart Failure
+-  Patients included in other clinical trial
+All
+10 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00860678 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWdRGUHhQRHhz1bMLc'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients with severe valvular aortic stenosis and indication for valve replacement
+Exclusion Criteria:
+-  Coronary heart disease with indication for additional bypass surgery Leading
+insufficiency of the valve
+-  Age < 65 or > 75
+-  Diseases or conditions leading to additional risks during physical activity (e.g.
+diabetes, arthrosis, obstructive pulmonary disease)
+All
+65 Years
+75 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 2 vs Trial NCT00965679 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWeKLeCiBk9SADWVsR'}
+
+[Eligibility Section from Trial]
+-  INCLUSION CRITERIA:
+SELECTION CRITERIA: PATHWAY FOR RESEARCH CT:
+-  Adult patients age 18 years or older
+-  Having calcific aortic stenosis being considered for surgical or catheter-based
+treatment, determined on physical examination or noninvasive imaging such as
+echocardiography
+-  Undergoing diagnostic cardiac catheterization within 1 year
+-  Able to provide informed consent
+ALTERNATIVE SELECTION CRITERIA: PATHWAY FOR ANALYSIS OF MEDICAL DATA:
+-  Adult patients age 18 years or older
+-  Having calcific aortic stenosis being considered for surgical or catheter-based
+treatment, determined on physical examination or noninvasive imaging such as
+echocardiography
+-  Undergoing diagnostic cardiac catheterization within 1 year
+-  Having undergone cardiac CT for medical indications meeting the technical requirements
+of this protocol
+-  Able to provide informed consent
+EXCLUSION CRITERIA:
+SELECTION CRITERIA: PATHWAY FOR RESEARCH CT:
+-  Pregnant or lactating women
+-  Decompensated heart failure (unable to lie flat during CT)
+EXCLUSION CRITERIA FOR BETA ADRENERGIC BLOCKERS:
+-  Advanced atrioventricular block (Mobitz Type II second degree or third degree
+atrioventricular heart block)
+-  Asthma or chronic obstructive pulmonary disease (emphysema) currently treated with
+beta adrenergic agonists
+EXCLUSION CRITERIA FOR IODINATED RADIOCONTRAST:
+-Severe kidney disease (MDRD estimated Glomerular Filtration Rate
+< 30mL/min/l.73m(2)).
+-Request of referring physician or surgeon not to administer iodinated radiocontrast
+ALTERNATIVE SELECTION CRITERIA: PATHWAY FOR ANALYSIS OF MEDICAL DATA:
+-None
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00363662 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWfBvnPj5NqfqaoctZ'}
+
+[Eligibility Section from Trial]
+A total of 180 ICH or IVH patients will be studied. All patients will be inpatients
+admitted to the Stanford Stroke Center, a multidisciplinary referral center for the
+treatment of acute stroke. Consecutive patients will be enrolled provided they meet the
+inclusion and exclusion criteria and that they or a legally authorized representative give
+informed consent.
+Probability Sample
+Inclusion Criteria:
+A. Men and non-pregnant women, at least 18 years of age.
+B. Patients with an ICH or IVH admitted to Stanford University Medical center within 48
+hours of symptom onset.
+C. Ability to undergo MRI.
+Exclusion Criteria:
+A. Patients with a known (preexisting) source for ICH, for example a known untreated
+arterio-venous malformation.
+B. Patients receiving investigational drug therapies or procedures prior to MRI scanning.
+C. Glasgow coma scale (GCS) score < 6 in the absence of sedating medications.
+D. Informed consent cannot be obtained either directly from the patient or from a legally
+authorized representative.
+E. Severe coexisting or terminal systemic disease that limits life expectancy or that may
+interfere with the conduct of the study
+All
+18 Years
+N/A
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00418275 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWfw5FmKvB5hmufSJo'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Subjects with cerebral ischemia at any location producing a serious measurable deficit
+by NIHSS scale and who received study medication within 5 hours after the onset of the
+symptom. A serious measurable deficit by NIHSS was defined as the NIHSS  9 and  20
+(for brain stem stroke, patients with NIHSS > 20 were included).
+-  Subjects were  18 years old, of either sex.
+-  Subjects or his/her legal guardians demonstrated their willingness to participate in
+the study and comply with its procedures by signing a written informed consent.
+-  Subjects with Modified Rankin Scale > 1.
+Exclusion Criteria:
+-  Onset of symptoms on awaking from sleep.
+-  Intracranial bleeding detected on a pretreatment head computerized tomographic (CT)
+scan.
+-  Clinical presentation suggested a subarachnoid hemorrhage even if the head CT scan was
+normal.
+-  Head CT showed the evidence of early infarct sign > 1/3 of MCA territory.
+-  Subjects had generalized seizure at the onset of the stroke.
+-  Subjects with blood glucose < 50 mg/dl or > 400 mg/dl.
+-  Subjects had another stroke, head trauma, cerebral hemorrhage or ischemic infarction
+within 3 months prior to the study entry.
+-  Subjects with a significant surgery within 14 days prior to study entry.
+-  Subjects with a history of gastrointestinal or urinary tract hemorrhage within 21 days
+prior to the study entry.
+-  Subjects with lumbar puncture or arterial puncture of non-compressible site within 14
+days prior to the study entry.
+-  Subjects had known bleeding diathesis.
+-  Subjects with other serious medical illness that interfered with the study.
+-  Subjects had a platelet count < 100,000/mm3; hematocrit < 30%.
+-  Subjects with other serious medical illness that interfered with the study.
+-  Subjects had aPTT or PT > upper normal limit.
+-  Subjects had uncontrolled hypertension (> 180 mmHg systolic or > 110 mmHg diastolic)
+without additional anti-hypertensive medication at screening visit.
+-  Subjects with recent transmural myocardial infarction and evidence of pericarditis
+within 3 weeks prior to the enrollment.
+-  Subjects had intracranial neoplasm, arteriovenous malformation, or aneurysm.
+-  Subjects had hemostasis defects including secondary to severe hepatic or renal
+disease.
+-  Subjects with history of drug or alcohol abuse within 1 year prior to the study entry.
+-  Subjects had significant hepatic dysfunction (SGOT/SGPT  3 x upper normal limit).
+-  Subjects had serum creatinine level  2 x upper normal limit or on renal dialysis.
+-  Subjects had administration of any other investigational drug within 30 days prior to
+study entry.
+-  Woman who was pregnant or nursing.
+-  Subjects had used other thrombolytics (streptokinase, tissue plasminogen activator,
+urokinase, anisoylated plasminogen streptokinase activator complex, anticoagulants).
+-  Subjects had severe cardiac disease (New York Heart Association Functional
+Classification III and IV).
+-  Subjects had history of cancer except inactive non-melanoma skin cancer, in situ
+carcinoma of the cervix, or any cancer in patient's disease free for more than 5
+years.
+-  Subjects had any clinically significant deviation from normal in the physical
+examination that, in the investigator judgment, interfered with the study evaluation
+or affect subject safety.
+-  Subjects with history of lupus.
+-  Vasculitis was the cause of ischemic stroke.
+-  Subjects had been enrolled in this study previously.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00449787 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWgx6XsMNHGdrmzvMP'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Treated in the emergency department for acute primary headache
+Exclusion Criteria:
+-  Allergy, intolerance, or contra-indication to one of the study medications
+All
+18 Years
+65 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00587054 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWhpRwYTT7DYv7Sm2y'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically proven acute or chronic leukemia, non Hodgkins and lymphoblastic
+lymphoma or myelodysplastic syndrome
+-  HLA 6/6 or 5/6 antigen matched related or unrelated donor
+-  creatinine = normal or if not, CrCl > 60 ml/min/1.73ml
+-  total bilirubin < 2.5, AST < 2xnl, cardiac function > 50%
+-  pulmonary function - asymptomatic or if not DLCO > %50% (corrected for Hgb)
+-  Karnofsky performance status > 70%
+-  negative pregnancy test (where applicable)
+-  signed informed consent of patient and donor.
+Exclusion Criteria:
+-  Pregnancy or lactation
+-  unwillingness to comply with protocol treatment or follow-up
+-  uncontrolled infection
+-  HIV or HTLV positivity
+-  active CNS/skin disease
+All
+18 Years
+55 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00654563 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWig2cixeKRYGcqJcg'}
+
+[Eligibility Section from Trial]
+The Registry's study population will consist of private patients of Dr. Robert Cohen who
+have been diagnosed with a Memory Disorder or who are referred to him due to subjective
+reports of having a memory problem.
+Non-Probability Sample
+Inclusion Criteria:
+-  18 years of age and older
+-  Capable of providing informed consent and having a legal representative able to
+consent out of concern for future competency to consent (as defined by a Mini Mental
+State Exam score of <24) or capable of assent but incapable of giving competent
+informed consent, but with a legal representative able to provide informed consent
+-  Subject or family voices concern about their memory or possess knowledge that they
+have been diagnosed with a memory disorder such as Age Associated memory Impairment,
+Alzheimer's disease, Parkinson disease, Huntington disease, vascular dementia, mixed
+dementia, dementia with Lewy Bodies, or frontotemporal dementia
+Exclusion Criteria:
+-  Children (less than 18 years of age)
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00665236 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWjabhqDRvTJp5iUjs'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Eligible subjects will be 12 years of age and above, either gender, meeting the 2004
+International Classification of Headache Disorders (ICHD) criteria for migraine with
+or without aura, with a frequency of 5 to 14 per month and a headache history of more
+than two years. Patients must be under the care of one of the physicians participating
+in the study. Patients with chronic daily headache (more than 15 headache days per
+month) will be included only if they also have between 5 and 14 migraine headaches per
+month that can be clearly differentiated from chronic daily headache. Subjects or
+their caregivers must be willing and able to document headache characteristics and use
+of medications, as well as complete the assessment instruments. They must be able to
+come in for 8 weekly CST or LSSM interventions.
+Exclusion Criteria:
+-  Exclusion Criteria. Patients with significant, symptomatic depression, anxiety or
+psychosis requiring more than two psychotropic medications daily and/or more than two
+visits a month to a mental health care provider; those undergoing current treatment
+for a major medical illness such as malignancy, autoimmune or immune deficiency
+disorder; pregnancy; those with clotting disorders; those with a history of head
+trauma or cranial or neck surgery within two years; a prior history of use of CST or
+magnet therapy for headache; cardiac pacemakers; other implanted or external
+electrical devices.
+All
+12 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00733382 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWkTgGwE4VVJWZa2hR'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. Migraine attack according to international headache society criteria
+2. Migraine without aura; at least 5 attack with mean duration of 4 to 72 hours and 2 of
+following:
+-  Unilateral
+-  Pulsatile
+-  Severe enough to impair daily activity
+-  Aggravate with walking and climbing, also 1 of following:
+-  Nausea and or vomiting
+-  Photophobia and phonophobia, and not contributed to other headache.
+3. Migraine with aura; at least 2 attacks with 3 of following:
+-  One reversible aura
+-  Aura became apparent at least in 4 minutes
+-  Aura not lasting more than 60 minutes
+-  Headache develops in less than 60 minutes after aura
+Exclusion Criteria:
+1. Hypertension
+2. Ischemic heart disease
+3. Basilar migraine with sign and symptoms such as:
+-  Diplopia
+-  Ataxia
+-  Dysarthria
+-  Dysphagia
+-  Weakness
+-  Sensory disorder
+-  Drowsiness
+4. Peripheral vascular disease
+5. Sepsis
+6. Age more than 40 and less than 15 year old
+7. Pregnancy
+8. Use of triptans and ergots derivatives in past 24 hours
+All
+15 Years
+40 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00760903 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWmLWfV3NjpYijMbMv'}
+
+[Eligibility Section from Trial]
+Have had a clinically ordered CT exam performed within 24 hours of admission to the
+hospital. We will be enrolling 5 different groups of subjects into this study. These groups
+include patients18 years of age or older with moderate to severe head trauma. Children
+under 18 years of age with moderate to severe head trauma. A group of patients of any age
+who have already undergone conventional MRI of the brain and a group of volunteers who are
+part of another research study.
+Non-Probability Sample
+Inclusion Criteria:
+-  Patients of acute moderate brain trauma
+Exclusion Criteria:
+-  Patients who are medically unstable or have CT findings that may interfere with the
+study such as:
+-  a large hemorrhage or edema
+-  encephalomalacia
+-  prior neurosurgeries
+-  hardware placed in the head or neck
+-  prior head trauma
+-  history of neurological conditions
+All
+N/A
+N/A
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 3 vs Trial NCT00857662 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWnELvyPPKrxZMwbYA'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  The patient or patient's guardian understands and will sign the informed consent for
+the procedure
+-  The patient has a confirmed diagnosis of a brain AVM in the cerebral cortex,
+cerebellum or dura mater as visualized by angiography or cross sectional imaging.
+-  The brain AVM has a Spetzler-Martin grade of I, II, III, or IV. If the brain AVM has a
+Spetzler-Martin grade of I or II, the anticipated benefit of embolization for surgical
+resection is greater than the risk of the embolization procedure (e.g., patient
+stability).
+-  The patient is a candidate for surgical resection of the AVM post embolization.
+-  The patient is clinically and neurologically stable, for a minimum of 24 hours prior
+to embolization.
+-  The patient agrees to have, and is capable of completing, all study-related exams and
+procedures.
+-  Patient of any age.
+Exclusion Criteria:
+-  The patient is pregnant.
+-  The patient has a brain AVM with high flow arteriovenous fistulae that the
+investigator has determined to be unsuitable for embolization.
+-  The brain AVM has a Spetzler-Martin grade of V.
+-  The patient is participating in another research study involving another
+investigational device, procedure or drug.
+-  The brain AVM has been previously treated with another embolization agent
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00002471 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWo4hPDWuxFPrtjazL'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's
+lymphoma (Burkitt's or non-Burkitt's) Newly diagnosed large cell lymphoma with CNS
+involvement Recurrent non-Hodgkin's lymphoma L-3 and B-cell leukemia included At least 1 of
+the following required: LDH at least 500 IU/liter (old method) or 2,000 IU/liter (new
+method) Bone marrow involvement (greater than 5% lymphoblasts) CNS involvement
+(lymphoblasts on CSF cytospin or intracranial mass on CT or MRI scan)
+PATIENT CHARACTERISTICS: Age: Any age Performance status: Not specified Hematopoietic: Not
+specified Hepatic: Not specified Renal: Not specified
+PRIOR CONCURRENT THERAPY: Prior therapy allowed for non-Hodgkin's lymphoma No prior therapy
+for all other diseases
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00002663 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWpMqHyvFtVMictRGR'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Pathologically documented EBV antigen positive lymphoproliferative disease, lymphoma,
+or other EBV-associated malignancy OR
+-  Severely immunocompromised patients who develop blood levels of EBV DNA exceeding 500
+copies/ml DNA, and are therefore at high risk for developing an EBV LPD
+It is expected that five types of patients afflicted with EBV-associated lymphomas or
+lymphoproliferative diseases will be referred and will consent to participate in this
+trial. These are:
+1. Patients developing or at risk for EBV lymphomas or lymphoproliferative disorders
+following an allogeneic marrow transplant.
+2. Patients developing or at risk for EBV lymphomas or lymphoproliferative disorders
+following an allogeneic organ transplant.
+3. Patients with AIDS developing EBV lymphomas or lymphoproliferative diseases as a
+consequence of the profound acquired immunodeficiency induced by HIV.
+4. Patients who develop EBV lymphomas or lymphoproliferative diseases as a consequence of
+profound immunodeficiencies associated with a congenital immune deficit or acquired as
+a sequela of anti-neoplastic or immunosuppressive therapy.
+5. Patients who develop other EBV-associated malignancies without pre-existing immune
+deficiency, including: EBV+ Hodgkin's and Non- Hodgkin's disease, EBV+ nasopharyngeal
+carcinoma, EBV+ hemophagocytic lymphohistiocytosis, or EBV+ leiomyosarcoma.
+Exclusion Criteria:
+The following patients will be excluded from this study:
+-  Moribund patients who, by virtue of heart, kidney, liver, lung, or neurologic
+dysfunction not related to lymphoma, are unlikely to survive the 6-8 weeks required
+for in vitro generation and expansion of the EBV-specific T cells to be used for
+therapy and the subsequent 3 weeks required to achieve an initial assessment of the
+effects of infusions of EBV-specific T cells.
+-  Pregnancy does not constitute a contraindication to infusions of EBV-specific T cells.
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00003337 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWqfxpCSUX7mEb1m45'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Histologically confirmed B-cell non-Hodgkin's lymphoma (low,
+intermediate, or high grade categories) A new classification scheme for adult non-Hodgkin's
+lymphoma has been adopted by PDQ. The terminology of "indolent" or "aggressive" lymphoma
+will replace the former terminology of "low", "intermediate", or "high" grade lymphoma.
+However, this protocol uses the former terminology.
+PATIENT CHARACTERISTICS: Age: 16 and over Performance status: ECOG 0-2 Life expectancy: Not
+specified Hematopoietic: Not specified Hepatic: Not specified Renal: BUN no greater than
+1.5 times upper limit of normal (ULN) Creatinine no greater than 1.5 times ULN Other: No
+known allergies to mouse proteins No second primary malignancy within past 5 years other
+than adequately treated in situ carcinoma of the cervix or uterus, or basal or squamous
+cell carcinoma of the skin Not pregnant or nursing Effective contraception required of all
+fertile patients
+PRIOR CONCURRENT THERAPY: Biologic therapy: No prior exposure to mouse antibodies other
+than technetium Tc 99m LL2 monoclonal antibody Chemotherapy: Not specified Endocrine
+therapy: Not specified Radiotherapy: Not specified Surgery: Not specified Other: At least 1
+month since any other prior investigational therapy No concurrent participation in another
+protocol involving medical devices or investigational agents
+All
+16 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00003338 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWraHUS61rwYD2z3Mu'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Histologically confirmed B-cell non-Hodgkin's lymphoma (low,
+intermediate, or high grade categories) Must have been treated with chemotherapy and/or
+radiotherapy with evidence of minimal residual disease by conventional diagnostic
+modalities A new classification scheme for adult non-Hodgkin's lymphoma has been adopted by
+PDQ. The terminology of "indolent" or "aggressive" lymphoma will replace the former
+terminology of "low", "intermediate", or "high" grade lymphoma. However, this protocol uses
+the former terminology.
+PATIENT CHARACTERISTICS: Age: 16 and over Performance status: ECOG 0-2 Life expectancy: Not
+specified Hematopoietic: Not specified Hepatic: Not specified Renal: BUN no greater than
+1.5 times upper limit of normal (ULN) Creatinine no greater than 1.5 times ULN Other: No
+known allergies to mouse proteins No second primary malignancy within past 5 years other
+than adequately treated in situ carcinoma of the cervix or uterus, or basal or squamous
+cell carcinoma of the skin Not pregnant or nursing Effective contraception required of all
+fertile patients
+PRIOR CONCURRENT THERAPY: Biologic therapy: No prior exposure to mouse antibodies other
+than LymphoScan Chemotherapy: See Disease Characteristics Endocrine therapy: Not specified
+Radiotherapy: See Disease Characteristics Surgery: Not specified Other: At least 1 month
+since any other prior investigational therapy No concurrent participation in another
+protocol involving medical devices or investigational agents
+All
+16 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00003863 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWsVbWTciessPLgNuu'}
+
+[Eligibility Section from Trial]
+Patients diagnosed with non-Hodgkin's lymphoma and previously enrolled on CALGB 59903,
+59909, 10002 and 50103.
+Non-Probability Sample
+DISEASE CHARACTERISTICS:
+-  Histologically proven aggressive non-Hodgkin's lymphoma and registered to front-line
+CALGB protocols (e.g, CLB-59903, 59909, 10002, and 50103)
+-  Diffuse small cleaved cell lymphoma
+-  Diffuse mixed small and large cell lymphoma
+-  Diffuse large cell lymphoma
+-  Diffuse large cell immunoblastic lymphoma
+-  Small noncleaved cell lymphoma
+-  Mantle cell lymphoma OR
+-  Previously entered on similar curative CALGB protocols (CLB-8852, CLB-8854, and
+CLB-9351) with blocks or unstained slides of initial diagnosis available
+PATIENT CHARACTERISTICS:
+Age:
+-  18 years and older
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00004260 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWtJUBBdsyvy7t66MP'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS: Histologically confirmed CD20+ B-cell non-Hodgkin's lymphoma No
+relapsed intermediate or high grade disease eligible for bone marrow or stem cell
+transplant Intermediate or high grade disease must have received a prior anthracycline
+containing regimen Low grade disease (with or without prior therapy) felt to be incurable
+with standard therapy allowed No CNS involvement by lymphoma A new classification scheme
+for adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of "indolent" or
+"aggressive" lymphoma will replace the former terminology of "low", "intermediate", or
+"high" grade lymphoma. However, this protocol uses the former terminology.
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-1 Life expectancy: At
+least 12 weeks Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count
+at least 75,000/mm3 Hemoglobin at least 10 g/dL Hepatic: Bilirubin no greater than 3 times
+upper limit of normal (ULN) AST/ALT less than 3 times ULN Renal: Creatinine no greater than
+2 times ULN Cardiovascular: No New York Heart Association class III or IV heart disease No
+history of angina Other: Not pregnant or nursing Negative pregnancy test Fertile patients
+must use effective contraception HIV negative No uncontrolled infection No autoimmune
+related phenomena No peptic ulcer disease
+PRIOR CONCURRENT THERAPY: Biologic therapy: At least 12 months since prior rituximab No
+prior interleukin-12 No other concurrent immunotherapy Chemotherapy: See Disease
+Characteristics No prior fludarabine or 2-chlorodeoxyadenosine unless CD4 count normal
+Recovered from prior chemotherapy No concurrent chemotherapy Endocrine therapy: No
+concurrent steroid therapy Radiotherapy: No concurrent radiotherapy Surgery: Not specified
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00005985 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWuBnzyh5tSJeoXL8K'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  One of the following histologically confirmed diagnoses
+-  High grade non-Hodgkin's lymphoma:
+-  Immunoblastic or small noncleaved cell lymphoma (Burkitt's or non-Burkitt's)
+in complete or partial remission after initial therapy
+-  Localized (stage I or Zeigler stage A) small noncleaved (Burkitt's or
+non-Burkitt's) after relapse or incomplete response to initial therapy
+-  Lymphoblastic lymphoma in second or greater complete or partial response
+-  High risk lymphoblastic lymphoma in first complete remission or after
+initial therapy (high risk factors include stage IV disease, LDH greater
+than 2 times normal, and 2 or more extranodal sites)
+-  Intermediate grade non-Hodgkin's lymphoma:
+-  Diffuse large cell lymphoma
+-  Diffuse mixed cell lymphoma
+-  Diffuse small cleaved cell lymphoma
+-  Follicular large cell lymphoma
+-  In second or greater complete or partial remission OR
+-  High risk in first complete remission or after initial therapy
+-  High risk features include:
+-  No complete response after 12 weeks of initial combination
+chemotherapy
+-  Bulky disease (greater than 10 cm nodal masses or mediastinal
+disease involving greater than 1/3 of the chest diameter
+-  Malignant pleural effusion
+-  Liver involvement
+-  LDH greater than 2 times upper limit of normal at diagnosis
+-  At least 2 extranodal sites
+-  Low grade non-Hodgkin's lymphoma:
+-  Follicular small cleaved cell lymphoma
+-  Follicular mixed cell lymphoma
+-  Diffuse small lymphocytic lymphoma
+-  In first or greater complete response OR
+-  Following initial treatment if complete response is not achieved
+-  In second or greater complete or partial response if treated at diagnosis
+without clinical symptoms necessitating treatment
+-  T-cell lymphoma (nonlymphoblastic, intermediate, or high grade lymphomas) after
+initial therapy whether or not complete response is achieved
+-  Hodgkin's lymphoma
+-  Stage I and II disease treated with primary radiotherapy and failure of at
+least one combination chemotherapy regimen
+-  Stage III and IV disease with failure on mechlorethamine, vincristine,
+procarbazine, and prednisone (MOPP)-like regimen, alternative noncross
+resistant regimen (e.g., doxorubicin, bleomycin, vinblastine, and
+dacarbazine [ABVD]), or a combination (e.g., MOPP-ABV)
+-  High risk features allowed including:
+-  Failure to achieve initial complete remission with MOPP and/or ABVD and
+crossover or hybrid therapy
+-  Relapse within 6 months after initial therapy
+-  Relapse after initial radiotherapy with complete response longer than 1
+year since initial therapy and subsequent failure on MOPP and/or ABVD
+or hybrid
+-  Bulky mediastinal disease after initial therapy and residual mass of at
+least 5 cm with other features of persisting disease (e.g., Gallium scan
+positive, high LDH, enlarging on serial x-rays, or positive biopsy)
+-  No HIV or HTLV-1 associated lymphomas
+-  No resistant or refractory lymphoma (no partial response following up to 3 courses of
+combination chemotherapy)
+-  No active ischemic or degenerative CNS disease NOTE: A new classification scheme for
+adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of "indolent" or
+"aggressive" lymphoma will replace the former terminology of "low", "intermediate", or
+"high" grade lymphoma. However, this protocol uses the former terminology.
+PATIENT CHARACTERISTICS:
+Age:
+-  70 and under
+Performance status:
+-  Age 65-70 years:
+-  Karnofsky 80-100%
+-  Under 65 years:
+-  ECOG 0-1 (2 allowed if symptoms are directly related to lymphoma)
+Life expectancy:
+-  Greater than 8 weeks
+Hematopoietic:
+-  Not specified
+Hepatic:
+-  No prior or current chronic liver disease
+-  Bilirubin no greater than 1.5 mg/dL
+-  AST and alkaline phosphatase less than 2 times normal
+Renal:
+-  Age 65-70 years:
+-  Creatinine clearance greater than 60 mL/min (if creatinine at least 1.5 mg/dL)
+-  Under 65 years:
+-  Creatinine no greater than 1.5 mg/dL OR
+-  Creatinine clearance greater than 50 mL/min
+Cardiovascular:
+-  LVEF at least 45% by MUGA
+-  No symptoms of cardiac disease
+-  No active ischemic heart disease
+-  No uncontrolled hypertension
+Pulmonary:
+-  Age 65-70 years:
+-  If history of smoking or respiratory symptoms, spirometry and DLCO must be
+greater than 50% of predicted
+-  All ages:
+-  No obstructive airway disease
+-  No resting hypoxemia (PO_2 less than 80)
+-  DLCO at least 50% of predicted
+Other:
+-  No poorly controlled diabetes
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  Not specified
+Chemotherapy:
+-  See Disease Characteristics
+-  Must have prior chemotherapy to attempt to achieve complete response
+Endocrine therapy:
+-  Not specified
+Radiotherapy:
+-  See Disease Characteristics
+-  No radiotherapy to residual disease prior to transplantation
+Surgery:
+-  Not specified
+Other:
+-  Concurrent IV antibiotic therapy allowed for fever or signs of infection
+All
+N/A
+70 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00008216 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWvVvoLJ1n5RCqndyy'}
+
+[Eligibility Section from Trial]
+Patients undergoing allogeneic blood or marrow stem cell transplantation (alloSCT).
+Non-Probability Sample
+DISEASE CHARACTERISTICS:
+-  Diagnosis of one of the following:
+-  Chronic myelogenous leukemia
+-  Philadelphia chromosome-positive OR
+-  Molecular evidence of bcr/abl gene rearrangement
+-  Acute myeloid leukemia, acute lymphocytic leukemia, lymphoma, histiocytoses,
+myelodysplasia, juvenile chronic myelomonocytic leukemia, aplastic anemia,
+paroxysmal nocturnal hemoglobinuria, or Fanconi's anemia
+-  Confirmed by cytochemistry, immunophenotyping, and/or chromosomal
+abnormalities
+-  Multiple myeloma
+-  Hereditary immunodeficiency disorders
+-  Confirmed by immunologic determination
+-  Sickle cell anemia or beta-thalassemia
+-  Confirmed by hemoglobin electrophoresis
+-  Storage disorders (e.g., Gaucher's disease, Hurler's disease, or metachromatic
+leukodystrophy)
+-  Confirmed by metabolic testing
+-  Other non-malignant conditions
+-  Eligible for allogeneic peripheral blood stem cell or bone marrow transplantation
+PATIENT CHARACTERISTICS:
+Age:
+-  65 and under
+Performance status:
+-  Not specified
+Life expectancy:
+-  Not specified
+Hematopoietic:
+-  Not specified
+Hepatic:
+-  Not specified
+Renal:
+-  Not specified
+PRIOR CONCURRENT THERAPY:
+Biologic therapy
+-  Not specified
+Chemotherapy
+-  Not specified
+Endocrine therapy
+-  Not specified
+Radiotherapy
+-  Not specified
+Surgery
+-  Not specified
+All
+18 Years
+65 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00008307 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWwQVtNqyYhqW4DF1P'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Clinically and/or histologically confirmed hematologic malignancy or genetic disorder
+-  Chronic myelogenous leukemia
+-  Typical blood and marrow morphology
+-  Presence of Philadelphia chromosome OR
+-  Molecular evidence of bcr/abl rearrangement if Philadelphia
+chromosome-negative
+-  Acute myeloid leukemia, acute lymphocytic leukemia, myelodysplasia, or lymphoma
+-  High risk of relapse or progressive disease
+-  Typical clinical features and morphology in blood, marrow, lymph node, or
+other tissue by cytochemistry, immunophenotyping, and/or chromosomal
+abnormalities
+-  Multiple myeloma
+-  Typical marrow morphology, radiographic findings, and paraprotein
+-  Aplastic anemia
+-  Typical marrow and blood findings
+-  Genetic disorder including storage disease (e.g., adrenoleukodystrophy),
+hemoglobinopathies (e.g., thalassemia), or severe immunodeficiency
+-  Unwilling to undergo conventional high-dose chemoradiotherapeutic conditioning prior
+to allogeneic stem cell transplantation OR
+-  Presence of other medical disorder which precludes high-dose chemoradiotherapeutic
+conditioning (e.g., cardiac disease or infection)
+-  Syngeneic twin, HLA-identical, or 1 or 2 HLA antigen-mismatched family member or
+unrelated donor
+PATIENT CHARACTERISTICS:
+Age:
+-  1 to 80
+Performance status:
+-  Karnofsky 50-100%
+Life expectancy:
+-  Not specified
+Hematopoietic:
+-  Not specified
+Hepatic:
+-  Not specified
+Renal:
+-  Not specified
+Other:
+-  No other serious medical or psychiatric illness that would preclude study compliance
+-  Not pregnant or nursing
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  See Disease Characteristics
+Chemotherapy:
+-  See Disease Characteristics
+Endocrine therapy:
+-  Not specified
+Radiotherapy:
+-  See Disease Characteristics
+Surgery:
+-  Not specified
+All
+1 Year
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00039130 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWxHagomzCcKAUhvzh'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically, cytogenetically, or immunophenotypically confirmed Burkitt's leukemia
+or Burkitt's or Burkitt-like lymphoma
+-  L3 morphology surface IgG expression
+-  Cytogenetic evidence for t(8;14), t(8;22), or t(2;8)
+-  Previously untreated disease except hydroxyurea for leukocytosis
+-  CNS involvement allowed
+-  Patients with Burkitt's leukemia or Burkitt's lymphoma with bone marrow involvement
+must also be enrolled on CALGB-8461
+-  Patients with Burkitt's leukemia must also be enrolled on CALGB-9665
+PATIENT CHARACTERISTICS:
+Age:
+-  16 and over
+Hepatic:
+-  Bilirubin no greater than 1.5 times upper limit of normal (ULN)
+Renal:
+-  Creatinine no greater than 1.5 times ULN
+Other:
+-  HIV negative
+-  Not pregnant or nursing
+-  Fertile patients must use effective contraception
+PRIOR CONCURRENT THERAPY:
+Biologic therapy:
+-  No concurrent interleukin-11
+Chemotherapy:
+-  See Disease Characteristics
+-  No other concurrent chemotherapy
+Endocrine therapy:
+-  No concurrent hormonal therapy except for non-disease-related conditions (e.g.,
+insulin for diabetes)
+-  No concurrent steroids except for adrenal failure
+Radiotherapy:
+-  No concurrent palliative radiotherapy except whole-brain irradiation for documented
+CNS disease
+All
+16 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00126191 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWyiu3x7D8HSTUrFeD'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically documented Burkitt or atypical Burkitt according to World Health
+Organization (WHO) criteria.
+-  Pathology must be reviewed at the Brigham and Women's Hospital (BWH).
+-  Measurable or evaluable disease: Disease reproducibly measurable in two perpendicular
+dimensions on exam, computed tomography (CT), radiograph, or magnetic resonance
+imaging (MRI). Disease present on bone marrow biopsy will be considered as evaluable
+disease.
+-  The following may not be used as the sole site of measurable or evaluable disease:
+*ascites, *pleural effusion, *bone lesion or *central nervous system (CNS) disease.
+-  Age > 18
+-  Laboratory data (within 2 weeks of study registration):
+-  ANC > 1500/ul;
+-  platelet > 100,000/ul;
+-  creatinine < 1.5 X normal;
+-  creatinine clearance > 60 ml/min;
+-  bilirubin < 1.5 X normal;
+-  AST and ALT < 2.5 X normal;
+-  alkaline phosphates < 3 X normal;
+-  HIV negative;
+-  cardiac ejection fraction > 50%.
+Exclusion Criteria:
+-  Previous chemotherapy or radiation therapy. Steroids of less than 72 hours duration
+for impending oncologic emergency are allowed.
+-  Uncontrolled bacterial, fungal, or viral infection.
+-  Concomitant malignancy excluding carcinoma in situ of the cervix and basal cell
+carcinoma of the skin.
+-  Serious comorbid disease. Clinically significant pulmonary symptomatology. In patients
+with a history of symptomatic pulmonary disease, pulmonary function tests (PFTs)
+should document an forced expiratory volume at 1 second (FeV1), forced vital capacity
+(FVC), and total lung capacity (TLC) of > 60% predicted and carbon monoxide diffusing
+capacity of the lung (DLCO) of > 50% predicted. No clinically significant cardiac
+symptomatology. The cardiac ejection fraction must be > 50%.
+-  Pregnancy. All males and females with reproductive potential must consent to use an
+effective form of contraception while on study.
+-  Major surgery within the previous 2 weeks.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00133991 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfWzt6pfsinXbKo9U4q'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically confirmed diagnosis of 1 of the following:
+-  Classic, sporadic Burkitt's lymphoma
+-  Burkitt's leukemia (FAB L3 acute lymphoblastic leukemia)
+-  Atypical Burkitt/Burkitt's-like lymphoma or leukemia, defined by the following
+criteria:
+-  Characteristic morphologic features
+-  High proliferative index AND Ki-67 ≥ 85%
+-  Any stage allowed
+-  Newly diagnosed or untreated disease
+-  Steroids allowed
+PATIENT CHARACTERISTICS:
+Age
+-  30 and over
+Performance status
+-  Not specified
+Life expectancy
+-  Not specified
+Renal
+-  No known irreversible renal dysfunction that would preclude treatment with high-dose
+cyclophosphamide
+Cardiovascular
+-  No known significant cardiac dysfunction that would preclude treatment with high-dose
+cyclophosphamide
+Other
+-  Not pregnant or nursing
+-  No known HIV positivity
+-  No other malignancy within the past 3 years except basal cell or squamous cell skin
+cancer or carcinoma in situ of the cervix
+PRIOR CONCURRENT THERAPY:
+Biologic therapy
+-  Not specified
+Chemotherapy
+-  No prior chemotherapy for lymphoma
+-  A maximum of 2 prior doses of intrathecal chemotherapy are allowed
+Endocrine therapy
+-  Not specified
+Radiotherapy
+-  No prior radiation therapy for lymphoma
+Surgery
+-  Prior complete or incomplete surgical resection of lymphoma allowed
+All
+30 Years
+120 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00180882 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX2DDn9bD9SB6acicW'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Age : 18 years or older
+-  Histologically or cytologically proven Burkitt lymphoma according to the WHO
+classification
+-  WHO performance < 3
+-  Informed consent
+Exclusion Criteria:
+-  Known HIV positive infection
+-  Positive serology for HCV and HBV (except after vaccination)
+-  Patients previously treated for lymphoma
+-  cardiac disease that contradict anthracycline chemotherapy
+-  Psychological or psychiatric condition who contradict steroids therapy
+-  Patients with serious renal failure unrelated to the lymphoma (serum creatinin level
+higher than 150 mmole/L)
+-  Cirrhosis or severe hepatic failure unrelated to the lymphoma
+-  Previous malignant disease except basal cell skin carcinoma or in situ uterine cervix
+carcinoma
+-  Any psychological, familial, sociological or geographical condition potentially
+hampering compliance with the study protocol and follow-up schedule
+-  Primary organ transplant or other immunosuppressive conditions Pregnancy
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00199082 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX35oZpX6mJRfUVeRB'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Burkitt's leukemia or Burkitt's lymphoma or primary mediastinal large B-cell lymphoma
+or B-precursor lymphoblastic lymphoma or large cell anaplastic lymphoma
+-  Age > 15 years
+-  Written informed consent
+Exclusion Criteria:
+-  Serious secondary diseases, including psychiatric conditions, under which the required
+therapy compliance is not to be expected
+-  HIV infection
+-  Secondary lymphoma following prior chemotherapy/radiotherapy or active second
+malignancy
+-  Known severe allergy to foreign proteins
+-  Pre-treatment other than 1 cycle CHOP or similar; < 1 week of another chemotherapy.
+-  Pregnancy or nursing
+-  Participation in other studies that interfere with study therapy
+All
+15 Years
+65 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00203996 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX5i4bSAWrxHEcxJit'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  PCOS subjects will be recruited from the Endocrinology Clinics of the University of
+Chicago. All will be at least 2 years post-menarche and less than 40 years of age. A
+diagnosis of PCOS will require:
+-  the presence of oligo/amenorrhea;
+-  hyperandrogenemia, defined by a supranormal plasma free testosterone level (> 10
+pg/ml);
+-  hyperandrogenism, as evidenced by infertility, hirsutism, acne, or androgenetic
+alopecia; and
+-  exclusion of nonclassic 21-hydroxylase deficiency congenital adrenal hyperplasia,
+Cushing's syndrome, hypothyroidism, or significant elevations in serum prolactin.
+Thus, all subjects will meet the National Institutes of Health (NIH) consensus
+criteria for PCOS.
+-  Control subjects will be matched, as closely as possible, for age, ethnicity, body
+mass index (BMI), and body fat distribution [as assessed by single cut abdominal
+computed tomography (CT) scan and dual energy x-ray absorptiometry (DEXA) scan].
+-  Normal lean (BMI <25 kg/m2) women will be between 18 and 40 years of age, in good
+health, with normal menstrual cycles, no sleep complaints, no history of endocrine
+disorder. All studies will be initiated in the early follicular phase (days 2-4).
+Exclusion Criteria:
+-  For at least 2 months before the study, all subjects (PCOS and control) must not take
+steroid preparations (including oral contraceptives), medications known to alter
+insulin secretion and/or action, or medications known to influence sleep.
+All
+18 Years
+40 Years
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00266370 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX6a9nFTsz9rnw51nu'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+Clinical diagnosis of infectious diseases and lymphoma.
+Exclusion Criteria:
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00278408 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX7TEZAXo4KGCSWa2G'}
+
+[Eligibility Section from Trial]
+DISEASE CHARACTERISTICS:
+-  Histologically confirmed aggressive B-cell non-Hodgkin's lymphoma, including the
+following subtypes:
+-  Grade 3 follicular lymphoma
+-  Diffuse B-cell lymphoma, including diffuse large cell lymphoma with the following
+variants:
+-  Centroblastic
+-  Immunoblastic
+-  Plasmablastic
+-  Anaplastic large cell
+-  T-cell-rich B-cell lymphoma
+-  Primary effusion lymphoma
+-  Intravascular B-cell lymphoma
+-  Primary mediastinal B-cell lymphoma
+-  Burkitt's or Burkitt-like lymphoma
+-  Mantle cell lymphoma (blastoid)
+-  Aggressive marginal zone lymphoma (monocytoid)
+-  Previously untreated disease
+-  CD20-positive disease
+-  International prognostic index (IPI) score 0 or 1 (age-adjusted)
+-  Only patients with bulky disease, as defined by largest single or conglomerate
+tumor ≥ 7.5 cm in diameter, are allowed to have an IPI score of 0
+-  No mucosa-associated lymphoid tissue (MALT) lymphoma
+-  No CNS involvement of lymphoma (intracerebral, meningeal, or intraspinal)
+PATIENT CHARACTERISTICS:
+-  ECOG performance status 0-2
+-  Platelet count ≥ 100,000/mm³
+-  WBC ≥ 2,500/mm³
+-  No known hypersensitivity to the study medications
+-  No known HIV-positivity
+-  No active hepatitis infection
+-  Not pregnant or lactating
+-  Negative pregnancy test
+-  No other malignancy within the past 5 years except carcinoma in situ or basal cell
+skin cancer
+-  No impaired left ventricular function
+-  No severe cardiac arrhythmias
+-  No other impaired organ function
+-  No other serious disorder
+PRIOR CONCURRENT THERAPY:
+-  No prior chemotherapy or radiotherapy
+-  No prior immunosuppressive treatment with cytostatics
+-  No concurrent participation in other treatment studies
+All
+18 Years
+60 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00440583 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX8MocjenRdv1hYe9V'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically confirmed, CD 20 positive diffuse large B-cell lymphoma, meeting 1 of
+the following stage criteria: Bulky stage II disease, Stage III disease, Stage IV
+disease at the initial diagnosis.
+-  Bidimensionally measurable disease
+-  Age 18 - 75 Years
+-  Performance status Zubrod 0-2
+-  Less than 20,000/mcL circulating lymphoid cells on WBC differential count
+-  Adequate sections AND a paraffin block OR ≥ 10 unstained sections from the original
+diagnostic specimen available
+-  Needle aspiration or cytology are not considered adequate
+-  No clinical evidence of CNS involvement by lymphoma
+-  No prior diagnosis of indolent lymphoma
+-  No histologic transformation
+-  Life expectancy : Not specified
+-  Hepatic : Not specified
+-  Renal : Not specified
+-  Cardiovascular
+-  Ejection fraction ≥ 45% by MUGA OR
+-  No significant abnormalities by echocardiogram
+-  Pulmonary : No requirement for continuous supplemental oxygen
+-  Other
+-  All adult patients of reproductive potential must use contraception during and
+for 6 months after completion of study treatment
+-  No other malignancy within the past 5 years except adequately treated basal cell
+or squamous cell skin cancer, stage I or II cancer in complete remission, or
+carcinoma in situ of the cervix
+-  No known HIV positive
+-  Written informed consent
+-  PRIOR CONCURRENT THERAPY:
+-  Biologic therapy : No prior antibody therapy for lymphoma
+-  Chemotherapy : 6 cycles of CHOP
+-  Endocrine therapy : Not specified
+-  Radiotherapy : No prior radiotherapy for lymphoma
+-  Surgery : No prior solid organ transplantation
+Exclusion Criteria:
+-  Previous antineoplastic treatment other than the 6 cycles of CHOP for the initial
+treatment of DLBCL
+-  Positive HIV serology
+-  Positive serology of HCV with the presence of HCV RNA of chronic hepatitis
+-  Positive serology of HBV with the presence of HBV RNA of chronic hepatitis
+-  Serum creatinine or bilirubin > 2.5 x upper limit of normal
+-  Active uncontrolled infection
+-  Concurrent severe and/or uncontrolled medical disease which could compromise the
+participation in the study
+-  Patients in whom more than 25% of the bone marrow has been infiltrated by lymphoma
+cells
+-  Patients with platelet counts <100,000/µl or neutrophil counts < 1500/µl
+All
+18 Years
+75 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00447304 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfX9fSV7cT6QgFibtFj'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Patients of age > 18 years
+-  Patients with acute cholecystitis based on three of the following signs
+-  abdominal pain in the upper right quadrant
+-  Murphy's sign
+-  leucocytosis > 10 /ml
+-  rectal temperature > 38 °C or < 36.5 °C plus
+-  cholecystolithiasis (stones / sludge) or sonographic signs of cholecystitis
+(thickening and triple layer formation of the gall bladder wall)
+-  Immediate antibiotic therapy (400 mg Moxifloxacin i.v. once a day)
+-  Laparoscopic cholecystectomy possible within 24 hours after presentation of the
+patient
+-  Informed consent
+Exclusion Criteria:
+-  ASA IV and V (table 2)
+-  Septic shock
+-  Perforation or abscess of the gall bladder
+-  Impossibility of laparoscopic surgery (further surgery, surgeon, …)
+-  Additional need of antibiotics due to secondary disease
+-  Known intolerability of Moxifloxacin
+-  Known or possible pregnancy, breast feeding
+-  Life-threatening diseases (life-expectancy < 48 hours)
+-  End-stage liver disease (Child-Pugh C)
+-  Psychiatric or severe neurologic disease
+-  Relevant bradycardia or other symptomatic arrhythmias
+-  Significant cardiac disease
+-  Known long QT-disorders
+-  Electrolyte disorders, especially hypocalcemia
+-  Known intolerability of chinolones
+-  Earlier participation in this trial
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00587054 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXAY2TqM8EkUP28Heh'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Histologically proven acute or chronic leukemia, non Hodgkins and lymphoblastic
+lymphoma or myelodysplastic syndrome
+-  HLA 6/6 or 5/6 antigen matched related or unrelated donor
+-  creatinine = normal or if not, CrCl > 60 ml/min/1.73ml
+-  total bilirubin < 2.5, AST < 2xnl, cardiac function > 50%
+-  pulmonary function - asymptomatic or if not DLCO > %50% (corrected for Hgb)
+-  Karnofsky performance status > 70%
+-  negative pregnancy test (where applicable)
+-  signed informed consent of patient and donor.
+Exclusion Criteria:
+-  Pregnancy or lactation
+-  unwillingness to comply with protocol treatment or follow-up
+-  uncontrolled infection
+-  HIV or HTLV positivity
+-  active CNS/skin disease
+All
+18 Years
+55 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00669877 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXCEy5rns7ZehHuTY2'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. Burkitt's or Burkitt-like leukemia and/or lymphoma, either previously untreated,
+previously treated (may be in CR or with active disease after 1-2 courses of
+chemotherapy), or HIV-related.
+2. All ages are eligible.
+3. Zubrod performance status < 3 (ECOG Scale, Appendix A).
+4. Adequate liver function (bilirubin < 3.0 mg/dL, unless considered due to tumor), and
+renal function (creatinine < 3.0 mg/dL, unless considered due to tumor).
+5. Signed informed consent.
+Exclusion Criteria:
+1) N/A
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00944567 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXCzcYRn2BdHdw5G8j'}
+
+[Eligibility Section from Trial]
+patient must have histological confirmation of the diagnodis of primary mediastinal diffuse
+large B cell lymphoma and have a dominant mass within the anterior mediastinum
+Non-Probability Sample
+Inclusion Criteria:
+-  Primary mediastinal diffuse large B-cell lymphoma, CD20 positive. Patients must have
+histological confirmation of the diagnosis, and in addition have a dominant mass
+within the anterior mediastinum.
+-  No prior treatment of lymphoma. Patients may have received corticosteroids for up to 1
+week for the relief of local compressive symptoms.
+-  Any stage of disease.
+-  Age at least 18 years.
+-  Fit to receive chemotherapy with curative intent.
+-  Able and willing to give informed consent, and to undergo staging including PET
+scanning
+-  Willingness to comply with an appropriate contraceptive method in women of
+childbearing potential or men.
+Exclusion Criteria:
+-  Evidence of clinically significant cardiac disease, as defined by history of
+symptomatic ventricular arrhythmias, congestive heart failure or myocardial infarction
+within 12 months before study entry. Cardiac compromise due to local extension of
+lymphoma will not be an exclusion criterion in the absence of other cardiac disease.
+-  Impairment of bone marrow function (WBC <3.0x109/L, ANC <1.5x109/L, PLT <100x109/L),
+unless due to involvement by lymphoma.
+-  Major impairment of renal function (serum creatinine >2x upper normal) or liver
+function (ASAT/ALAT >2,5 upper normal, total bilirubin >2,5x upper normal), unless due
+to lymphoma involvement.
+-  Known HIV infection. Patients will not be tested routinely.
+-  Pregnant or lactating women.
+-  Any psychological, familial, sociological or geographical condition potentially
+hampering compliance with the study protocol and follow-up schedule; those conditions
+should be discussed with the patient before registration in the trial
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 4 vs Trial NCT00949741 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXE28WaVvv7SYmDZZe'}
+
+[Eligibility Section from Trial]
+Patients affected by aggressive non-Hodgkin's lymphoma at diagnosis
+Probability Sample
+Inclusion Criteria:
+1. Diagnosis of
+-  Diffuse large cell lymphoma HIV positive,
+-  Lymphoblastic lymphoma,
+-  Burkitt's lymphoma,
+-  Mantle cell lymphoma blastoid type.
+2. DLCL patients who presented one risk factor for leptomeningeal involvement as:
+-  testis, bone marrow, orbit, palate, paranasal cavity or peridural disease
+localization,
+-  2-3 age-adjusted IPI score with more than 1 extranodal site and LDH > normal.
+3. Patients with cytologic and flow cytometry on cerebrospinal fluid at diagnosis.
+Exclusion Criteria:
+1. Patients with clinical or strumental evidence of meningeal localization disease.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00000469 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXEuD5QqTA2NB7bvWC'}
+
+[Eligibility Section from Trial]
+Men and women with early carotid atherosclerosis and moderately elevated LDL cholesterol
+between the 60th and 90th percentiles.
+All
+40 Years
+79 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00004732 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXFr1SwkBmV2heyLjs'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Symptomatic patients with recent neurological events (TIA or non-disabling stroke)
+with an associated carotid stenosis greater than or equal to 50% by angiography or
+greater than or equal to 70% by ultrasound or greater than or equal to 70% by Computed
+Tomography Angiography (CTA) or Magnetic Resonance Angiography (MRA) are eligible for
+randomization.
+-  Asymptomatic patients with no recent (in the last 6 months) neurological events
+referable to the study with artery and carotid stenosis (patients with symptoms beyond
+180 days are considered asymptomatic) greater than or equal to 60% by angiography or
+greater than or equal to 70% by ultrasound or greater than or equal to 80% by CTA or
+MRA are eligible for randomization.
+Exclusion Criteria:
+-  Conditions that: (1) interfere with the evaluation of endpoints, (2) are known to
+interfere with the completion of CEA or CAS, or (3) affect the likelihood of survival
+for the study period (4 years). Chronic atrial fibrillation and/or anti-coagulation or
+episodic atrial fibrillation within the last 6 months.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00005479 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXH5RsXuhHMgPztHZn'}
+
+[Eligibility Section from Trial]
+Individuals with type 2 diabetes mellitus (DM) with or without coronary artery disease
+(CAD)
+Non-Probability Sample
+Inclusion criteria
+-  Patients with type 2 diabetes mellitus (DM), defined by medical record diagnosis,
+fasting glucose >140 mg/dl, or the use of diabetes medications
+-  Had a myocardial infarction (MI) any time in the past, a coronary angiogram within the
+previous year, or an exercise perfusion scan (stress thallium study) within one year
+-  Patients with CAD group, defined by the following criteria: documented prior MI,
+PTCA/stent, CABG, or >75% stenosis in any vessel by coronary angiography.
+-  Patients without CAD group, defined as: the absence of a prior MI and <50% stenosis in
+all vessels by coronary angiography within the past year, or the combination of a
+normal exercise perfusion scan and the absence of a prior MI or any interventional
+cardiac procedures.
+Exclusion criteria
+-  MI or cardiac procedures within the past 3 months
+-  Diagnoses of cancer, severe congestive heart failure (ejection fraction < 20%), kidney
+or liver disease, pancreatitis, other gastrointestinal conditions,
+-  Laboratory values of creatinine levels > 1.3, abnormal liver function tests, abnormal
+CBC, fasting TG > 400 mg/dl, urine protein > 2+ on urinalysis or > 1000 mg/24 h,
+abnormal thyroid function tests, body mass index (BMI) > 34 for men and > 37 for women
+or BMI < 20 for both sexes
+-  Age < 35 or > 75 years
+All
+35 Years
+75 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00011258 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXHpaEVZL5RSbVHWcW'}
+
+[Eligibility Section from Trial]
+Case: Either had a history of surgical carotid endarterectomy or carotid or CT angiogram
+showing greater than or equal to 80% stenosis in one or more internal carotid artery.
+Control: An ultrasound documenting internal carotid artery stenosis less than 15%
+bilaterally.
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00106886 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXJq6fWWVENLKP1gMq'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Women and men 55 years of age or over with established CVD and at high risk for future
+fatal and nonfatal CV events, defined as:
+1. Documented coronary artery disease (CAD);
+2. Documented peripheral vascular disease (PVD);
+3. Documented cerebrovascular disease;
+4. Diabetes with one of the following; additional cardiovascular risk factors:
+i) hypertension (BP >160 mmHg systolic or >90 mmHg diastolic or on treatment); ii)
+total cholesterol >5.2 mmol/L (>200 mg/dl); iii) HDL cholesterol <0.9 mmol/L (3.5
+mg/dl); iv) current cigarette smoker; v) any evidence of previous vascular disease
+-  Provision of informed consent
+Exclusion Criteria:
+-  Current use of any vitamin supplements containing folic acid >200 micrograms/day. The
+patients taking such vitamin supplements can be asked if they agree to discontinue
+these supplements. If they agree, they can be randomized to the study following a one
+month wash-out period.
+-  Known previous adverse reactions to folic acid and/or vitamin B6 and/or B12.
+-  Planned cardiac, peripheral or cerebrovascular revascularization, defined as a
+decision taken by the patient and his or her physician(s) to perform surgical or
+percutaneous transluminal revascularization within the next 6 months.
+-  Hemodynamically significant primary valvular outflow tract obstruction (e.g. mitral
+stenosis, asymmetric septal hypertrophy, malfunctioning prosthetic valve).
+-  Constrictive pericarditis.
+-  Complex congenital heart disease.
+-  Syncopal episodes presumed to be due to uncontrolled life-threatening arrhythmias
+(asymptomatic arrhythmias including ventricular tachycardia are not exclusion
+criteria.
+-  Uncontrolled hypertension.
+-  Cor pulmonale.
+-  Heart transplant recipient.
+-  Other important non-cardiovascular disease(s) expected to limit compliance and/or
+impact on patient's ability to complete the study, such as: *history of alcohol or
+drug abuse, *psychiatric disorders, *senility, *severe physical disability, *illnesses
+including terminal stage of cancer and other major systemic illnesses expected to
+limit the patient's ability to comply with the study protocol and to complete the
+study.
+All
+55 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00106938 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXKjfswUb5nS6j6qn1'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. The subject must be > 18 and < 80 years of age.
+2. Female subjects of child bearing potential must have a documented negative pregnancy
+test within 30 days prior to the study procedure.
+3. Subject must be asymptomatic, defined as no stroke or Transient Ischemic Attack
+[(TIA);(hemispheric or ocular)] within the 180 days prior to the procedure. Subjects
+who have experienced these neurological symptoms prior to the 180 day pre-procedure
+window will be eligible for enrollment. An independent study neurologist or
+independent study neurosurgeon must confirm the subject's neurological status.
+4. Subjects taking warfarin may be included if their dosage is reduced before the
+procedure to result in an International Normalized Ratio (INR) of 1.5 or less.
+Warfarin may be restarted after the procedure.
+5. The subject must sign a written informed consent prior to the procedure, using a form
+that is approved by the local institutional review board (IRB).
+6. The subject must agree to return for all required follow-up visits.
+7. Subject has a discrete lesion located in the internal carotid artery (ICA); the
+contiguous common carotid artery (CCA) may be involved.
+8. Carotid stenosis ≥ 70% and ≤ 99% by carotid ultrasound or ≥ 70% and ≤ 99% stenosis
+(visual estimate) by angiography, without significant (> 60% by ultrasound or
+angiography) ICA/CCA contralateral stenosis.
+9. Target ICA vessel diameter must be visually estimated to be:
+> 2.5 mm and < 7.0 for the Emboshield Pro or for the Emboshield NAV6, > 2.8 mm and <
+6.2 for the Emboshield Gen 3 And > 4.0 mm and < 9.0 mm for the Xact stent treatment
+segment. An untreated contralateral ICA may be used for visual estimation when a
+highly stenosed lesion makes measurement of the target vessel inaccurate.
+10. Based on the subject's anatomy, the Investigator should expect to successfully deliver
+the stent to the target lesion (absence of extreme tortuosity, etc.).
+11. De novo target lesion that can be treated with a single stent.
+Exclusion Criteria:
+Each potential subject must be screened to ensure that they do not meet any of the
+following exclusion criteria. This screening is to be based on known medical history and
+data available at the time of eligibility determination and enrollment.
+1. Subject is symptomatic and has had a stroke or exhibited TIA (hemispheric or ocular)
+within 180 days prior to randomization, which has been confirmed by an independent
+study neurologist or independent study neurosurgeon.
+2. Subject is participating in another drug or device trial (IND or IDE) that has not
+completed the primary endpoint or that may potentially confound the results of this
+trial. Subject may be enrolled only once in this trial and may not participate in any
+other clinical trial during a 1-year period post-index procedure.
+3. Subject has inability to understand and cooperate with study procedures or provide
+informed consent.
+4. Subject has had an intracranial hemorrhage or hemorrhagic stroke within 1-year prior
+the index procedure.
+5. Subject has dementia or has a neurological illness that may confound the neurological
+evaluation.
+6. Subject has had a known untoward reaction to anesthesia or contrast media not able to
+be overcome by pre-treatment with medications.
+7. Subject has history of intolerance or allergic reaction to any of the study
+medications including aspirin, Clopidogrel bisulfate (Plavix®) or Ticlopidine
+(Ticlid®), heparin or Bivalirudin (Angiomax™). Subjects must be able to tolerate a
+combination of aspirin and Clopidogrel/Ticlopidine.
+8. Subject has Hemoglobin (Hgb) less than 10 gm/dL, platelet count <100,000/mm3 or
+>500,000/mm3, or known heparin associated thrombocytopenia.
+9. Subject has an active bleeding diathesis or coagulopathy, or will refuse blood
+transfusions.
+10. Subject has had a GI bleed that would interfere with antiplatelet therapy.
+11. Subject has known cardiac sources of emboli, including paroxysmal or sustained atrial
+fibrillation (treated or untreated).
+12. Subject has had an myocardial infarction (MI) within the previous 30 days.
+13. Subject has any condition that limits their anticipated survival to less than 3 years.
+14. Subject is a high risk surgical candidate defined as the presence of any one or more
+of a following medical conditions:
+1. Two or more proximal diseased coronary arteries of > 70% stenosis that have not
+or cannot be revascularized or < 30 days since revascularization.
+2. Ejection fraction < 30% or New York Heart Association (NYHA) heart failure
+functional class 3 or higher.
+3. Unstable angina, defined as angina at rest with ECG changes.
+4. On a list for major organ transplant or is being evaluated for such.
+5. Known history of respiratory insufficiency, forced expiratory volume (FEV1) < 30%
+(predicted).
+6. Chronic renal insufficiency (serum creatinine >2.5 mg/dL).
+7. Uncontrolled diabetes defined as fasting glucose > 400 mg/dL.
+8. Concurrent requirement for any invasive procedure 30 days pre- or post-procedure.
+9. Age ≥ 80 years.
+15. Subject may be considered a non-surgical candidate for CEA as a result of one or more
+anatomic conditions or features which preclude normal surgical access or a high
+surgical risk because of the presence of any one or more anatomic conditions that
+present an increased potential for adverse events. These subjects are not eligible for
+enrollment.
+1. Subject has had radiation treatment to the neck.
+2. Subject has had a radical neck dissection.
+3. Surgically inaccessible lesions (i.e., lesions extending above the level of C2).
+4. Spinal immobility - inability to flex neck beyond neutral or kyphotic deformity.
+5. Presence of carotid artery dissection, aneurysm, pseudoaneurysm, arteritis or
+fibromuscular dysplasia (FMD) in the target vessel.
+6. Hemodynamically significant (>60%) stenosis of the right or left common carotid
+artery (LCCA/RCCA) below the clavicle.
+7. Presence of tracheostomy stoma.
+8. Contralateral laryngeal nerve paralysis.
+9. Previous carotid endarterectomy, extracranial-intracranial or carotid subclavian
+bypass procedure ipsilateral to the carotid stenosis.
+10. Severe hypertension (defined as blood pressure > Systolic of 180 mm Hg and/or a
+diastolic of 110 mm Hg) not adequately controlled by anti-hypertensive therapy at
+the time of study entry.
+16. Severe vascular disease including tortuosity and/or occlusive disease that would
+preclude the safe introduction of a guiding catheter/sheath, cerebral protection
+device, balloon catheter, stent delivery system or stent placement. Severe tortuosity
+is defined as 2 or more >90 degree bend points within 3cm of the target stenosis. One
+of these bends will be considered to be present if the ICA branches from the CCA at a
+90 degree angle. This includes aortic arch anatomy that is unacceptable for carotid
+stent placement.
+17. Intraluminal filling defect thought to represent thrombus.
+18. Excessive calcification: defined as fluoroscopic evidence of calcium that extends
+circumferentially around the target lesion and includes the majority of the
+atherosclerotic plaque.
+19. Occlusion (TIMI 0 flow), or string sign of the ipsilateral common or internal carotid
+artery.
+20. The target lesion requires treatment with a device other than percutaneous
+transluminal angioplasty (PTA) prior to stent placement.
+21. Significant (> 60%) stenosis proximal or distal to the target lesion that might
+require revascularization or impede run off.
+22. Presence of a previously placed intravascular stent in the ipsilateral carotid
+distribution.
+23. Cerebral aneurysm (symptomatic or > 10 mm) or arteriovenous malformation (AVM) of the
+cerebral vasculature.
+24. Bilateral carotid stenosis (ICA/CCA contralateral stenosis > 60% by ultrasound or
+angiography).
+All
+18 Years
+79 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00125671 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXLaX1xAEJx3uGGMxm'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Intermittent claudication with objective evidence of PVD (e.g. ankle-brachial index
+[ABI] < 0.90)
+-  Ischemic rest pain of the lower limbs
+-  Ischemic non-healing ulcers or focal gangrene
+-  Amputation for vascular causes
+-  Previous peripheral vascular revascularization (angioplasty or bypass surgery)
+-  Blue toe syndrome
+-  Other significant peripheral arterial disease (e.g. carotid stenosis)
+-  Vascular disease and evidence of asymptomatic peripheral arterial disease [PAD] (i.e.
+ABI < 0.90)
+Exclusion Criteria:
+Temporary:
+-  Potential subjects will be temporarily excluded if they need to undergo:
+-  vascular diagnostic (angiography) or interventional procedures (arterial bypass
+graft surgery or angioplasty); or
+-  limb amputation for vascular insufficiency.
+Permanent:
+-  Subjects will be excluded for the following:
+-  active bleeding or high risk bleeding;
+-  clear indication for long-term warfarin use (i.e. atrial fibrillation);
+-  previous allergy or intolerance to warfarin;
+-  stroke in the last 6 months;
+-  renal failure requiring dialysis;
+-  known significant abdominal aortic or cerebral aneurysm;
+-  peripheral arterial aneurysms (iliac or femoral) without evidence of lower limb
+ischemia;
+-  significant liver disease (i.e. cirrhosis);
+-  cancer with a life expectancy < 6 months;
+-  anticipated non-adherence to warfarin;
+-  excessive alcohol use;
+-  pregnancy or planning to become pregnant; or
+-  failure to provide informed consent.
+All
+35 Years
+85 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00177346 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXMNeNEnUememz3NiL'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  To participate in this study, the subject MUST have all of the following for inclusion
+in the study:
+• The subject (male or non-pregnant female) must be > 18 years of age.
+• The subject should have a stenosis in the common or internal carotid artery of at
+least 70% determined by one of the modalities listed below.
+• The subject should be considered a relatively high risk for carotid endarterectomy.
+This determination has to be made and documented by two physicians, at least one of
+who must be a vascular surgeon acting as an investigator on this trial. High risk
+considerations should include at least one of the following:
+1. Cardiac dysfunction. NYHA class III or above, compensated or active congestive
+heart failure (CHF), incomplete coronary revascularization, ejection fraction of
+<35%, pulmonary hypertension, or recommendation of a cardiologist against open
+CEA.
+2. Pulmonary dysfunction, history of respiratory failure, severe chronic obstructive
+pulmonary Disease (COPD) on bronchodilators or recommendation of a pulmonary
+specialist against open CEA.
+3. Multi-system dysfunction, defined as any combination of medical problems in three
+distinct systems.
+4. Anatomic issues: previous CEA or neck dissection, neck irradiation, inaccessible
+lesions, neck fusion or other anatomic considerations increasing the risk of CEA.
+5. Age >80 AND symptomatic (defined below)
+6. General debilitation documented by the subject's primary physician.
+7. Increased anesthetic risk as documented by an anesthesiologist.
+-  Subjects can be either clinically symptomatic or asymptomatic (less than 80
+years of age). Symptomatic subjects will have experienced an event within
+the previous 120 days in the ipsilateral carotid artery distribution. The
+event will be classified as either 1) one or more TIAs, characterized by
+distinct focal neurologic dysfunction or monocular blindness with clearing
+of signs and symptoms within 24 hours, or 2) one or more completed strokes
+(as defined by this protocol) with persistence of symptoms or signs for more
+than 24 hours (the most recent event is used as the qualifying event).
+**Patients with major non-hemorrhagic strokes will be included if their
+clinical status has been stable for 5 days (based on an exam performed by a
+neurologist participating as a Co-Investigator in this trial).
+-  If an angiogram is performed to qualify the subject, it should be as recent
+as feasible and will not be acceptable if done > 120 days from study entry.
+Angiograms from other institutions will be acceptable.
+-  Other non-invasive qualifying imaging modalities include:
+1. Duplex ultrasound (DU) performed at UPMC Presbyterian or Shadyside hospitals.
+2. Magnetic Resonance Angiography (MRA) performed at UPMC Presbyterian or Shadyside
+hospitals.
+3. Computed Tomographic Angiography (CTA) performed at UPMC Presbyterian or
+Shadyside hospitals.
+-  The degree of stenosis from these non-invasive studies has to be confirmed
+on the pre-deployment diagnostic angiography prior to proceeding with stent
+deployment.
+-  However, if two of the non-invasive studies listed above report a stenosis
+of >70%, AND the pre-deployment angiogram reveals a 50 -70% stenosis, the
+patient will be randomized and entered into the trial as the angiogram can
+on occasion underestimate the stenosis.
+-  Female subjects of childbearing potential must have a documented
+negative pregnancy test during the index hospitalization.
+-  The subject must sign a written informed consent, prior to the
+procedure, using a form that is approved by the local Institutional
+Review Board or Medical Ethics Committee.
+-  If a patient's creatinine is 3.5 or greater, their nephrologist must
+clear them to participate in the trial.
+Exclusion Criteria:
+-  To participate in this study, the subject may NOT HAVE any of the following at
+enrollment to the study:
+-  The subject has had an intracranial hemorrhage, hemorrhagic stroke, or any stroke
+with mass effect demonstrated on CT scan or MRI within 30 days of the index
+procedure.
+-  The subject has a persisting ischemic stroke (defined as either a score > 15 on
+the NIH stroke scale, a Rankin score > 3 or a Barthel score < 60 measured within
+one week prior to study entry).
+-  The subject has an intracranial mass lesion (i.e., abscess, tumor, or other
+infection).
+-  The subject has known allergies to heparin, to both ticlopidine and clopidogrel
+or to metals used in stents.
+-  There is any visual angiographic evidence of intraluminal thrombus thought to
+increase the risk of plaque fragmentation and distal embolization.
+-  The subject has peripheral vascular, supra-aortic or internal carotid artery
+tortuosity precluding use of catheter-based techniques required for successful
+results.
+-  The subject, if female, has a positive pregnancy test.
+-  The subject has an arterio-venous malformation in the territory of the target
+carotid artery.
+-  Subjects with highly calcified lesions resistant to predilation by PTA
+-  The subject has unstable angina (defined as Class IV or at rest), evolving MI or
+recent MI (within 14 days).
+-  The subject has any condition that precludes adequate local hemostasis.
+-  Patients who are not candidates for MRI scanning (pacemaker, etc).
+All
+18 Years
+N/A
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00178451 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXNKCX6vHqJxdrtEja'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+Subjects will be eligible if the following criteria are met:
+-  Ability to provide written informed consent and comply with study assessments for the
+full duration of the study.
+-  Age >18 years
+-  Diagnosis of >75% asymptomatic carotid artery stenosis by ultrasound or angiographic
+evaluation
+-  No contraindication to Abciximab or anticoagulation
+-  Ability to insonate an adequate window for Transcranial Doppler Imaging
+pre-operatively
+-  In women of childbearing capacity a negative pregnancy test
+-  Signed authorization of release of protected health care information
+Exclusion Criteria:
+-  Inability to insonate an ipsilateral window; bilateral monitoring will be performed
+when possible.
+-  CT or MRI positive CVA within past 12 weeks
+-  Active internal bleeding
+-  Recent within six weeks gastrointestinal or genitourinary bleeding of clinical
+significance
+-  Bleeding diathesis
+-  Administration of oral anti-coagulants within seven days unless prothrombin time is
+less than or equal to 1.2 times control
+-  History of CVA within two years or CVA with a significant residual neurological
+deficit
+-  Thrombocytopenia (<100,000 cells/uL)
+-  Recent (within six weeks) major surgery or trauma Intracranial neoplasm, AVM, or
+aneurysm
+-  Severe uncontrolled hypertension
+-  Presumed or documented history of vasculitis
+-  Use of intravenous dextran before PCI or intent to use during an intervention
+-  Known hypersensitivity to any component of ReoPro
+-  Known hypersensitivity to murine proteins
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00180518 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXPHVUKRFMwMA4Z2zG'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+1. Patient age >=18.
+2. Symptomatic patient: Transient ischemic attack (TIA), amaurosis fugax, or
+minor/non-disabling stroke (in the hemisphere supplied by the target vessel) within
+180 days of enrollment; asymptomatic patient: meets angiographic and clinical
+inclusion criteria.
+3. Patient has no childbearing potential or a negative pregnancy test within 30 days of
+study procedure.
+4. Patient or legally authorized representative, and the patient's physician, agree to
+have the patient return for all required clinical contacts following study enrollment.
+5. Patient or legally authorized representative has been informed of the nature of the
+study, and has provided written informed consent, approved by the appropriate
+Institutional Review Board (IRB)/Medical Ethics Committee (MEC) of the respective
+clinical site. (Sample consent - Appendix A-2).
+6. Patient must meet two or more of the criteria listed in a-e OR one or more of the
+criteria listed in f-q below:
+1. Knowledge of two or more proximal or major diseased coronary arteries with >=70%
+stenosis that have not, or cannot be revascularized;
+2. Unstable angina defined as rest angina with ECG changes;
+3. MI within the previous 30 days and current need for carotid artery
+revascularization
+4. Concurrent requirement for aortocoronary bypass or cardiac valve surgery within
+30 days;
+5. Contralateral occlusion of the ICA;
+6. Currently on a list for major organ transplantation (i.e. heart, lung, liver,
+kidney) or is being evaluated for such;
+7. Ejection fraction <30% or New York Heart Association (NYHA) Functional Class III
+or higher;
+8. FEV1 <30% (Predicted);
+9. Dialysis-dependent renal failure;
+10. Uncontrolled diabetes defined as fasting glucose >400 mg/dl and ketones >2+;
+11. Restenosis after previous CEA (defined as >=50% by angiography for symptomatic
+patients or >=80% by angiography for asymptomatic patients);
+12. Patient is status/post radiation treatment to the neck;
+13. Patient is status/post radical neck surgery;
+14. Surgically inaccessible lesions (e.g. lesions above the level of C2 or below the
+clavicle, lesions obstructed by tumors in the neck);
+15. Spinal immobility - inability to flex neck beyond neutral or kyphotic deformity;
+16. Presence of tracheostomy stoma;
+17. Contralateral laryngeal nerve paralysis. Anatomic Inclusion Criteria NOTE:
+Angiographic measurements must be made utilizing either on-line quantitative
+carotid angiography (QCA) or electronic calipers with magnification correction.
+1. Patient has a discrete lesion located in the ICA (with or without involvement of the
+contiguous CCA).
+2. Carotid stenosis must be >= 50% by angiography (symptomatic patient) or >= 80% by
+angiography (asymptomatic patient).
+3. Target ICA vessel reference diameter must be >=4.0 mm and =<9.0 mm by angiography.
+NOTE: Patients with bilateral carotid stenosis are eligible. Management of the non-study
+stenosis may be done in accordance with local Principal Investigator recommendation.
+Treatment of the non-study artery must take place either >30 days before or >30 days after
+the study procedure is completed.
+Specific for the ACCUNET System 4. Expected ability to deliver the ACCUNET System distal to
+the lesion (absence of excessive tortuosity) and an available straight or mildly angulated
+segment >= 4 cm, by angiography, in the distal ICA (prior to the petrous portion of the
+vessel) in which to place the embolic protection device.
+5. The diameter of the straight or mildly angulated segment, in the distal ICA prior to the
+petrous portion of the vessel, must be >= 3.25 mm and =< 7.5 mm by angiography.
+Exclusion Criteria:
+Candidates will be ineligible for enrollment in the study if any one of the following
+conditions apply:
+1. Patient has an evolving stroke.
+2. Patient has history of intolerance or allergic reaction to any of the study
+medications or materials, including heparin, aspirin, baby aspirin, nitinol, or x-ray
+contrast.
+3. Patient has history of intolerance or allergic reaction to both ticlopidine and
+clopidogrel.
+4. Patient has active bleeding diathesis or coagulopathy or will refuse blood
+transfusions.
+5. Patient has a history of major ipsilateral stroke likely to confound study endpoints.
+6. Patient has severe dementia.
+7. Patient has a history of spontaneous intracranial hemorrhage within the past 12
+months.
+8. Patient has had a recent (<7 days) stroke of sufficient size (on CT or MRI) to place
+him or her at risk of hemorrhagic conversion during the procedure.
+9. Patient had hemorrhagic transformation of an ischemic stroke within the past 60 days.
+10. Patient has Hgb < 8 gm/dl (unless on dialysis), platelet count < 50,000, uncorrected
+INR > 1.5, or heparin-associated thrombocytopenia.
+11. Patient has any condition that precludes proper angiographic assessment or makes
+percutaneous arterial access unsafe (e.g. morbid obesity, sustained SBP > 180 mm Hg.).
+12. Patient has had neurologic illness within the past two years characterized by fleeting
+or fixed neurologic deficit which cannot be distinguished from TIA or stroke (e.g.
+partial or secondarily generalized seizures; complicated or classic migraine; tumor or
+other space-occupying brain lesions; subdural hematoma, cerebral contusion or other
+post-traumatic lesions; intracranial infection; demyelinating disease; moderate to
+severe dementia; or intracranial hemorrhage).
+13. Patient is actively participating in another drug or device trial (IND or IDE) that
+has not completed the required protocol follow-up period. Patients may be enrolled
+only once in the ARCHeR clinical trial and may not participate in any other clinical
+trial during the ARCHeR follow-up period.
+14. Patient or patient's legally authorized representative is unable to understand and
+cooperate with study procedures or provide informed consent.
+15. Patient has a life expectancy less than two years.
+16. Patient has vertebrobasilar insufficiency symptoms only, without clearly identifiable
+symptoms referable to the targeted carotid artery
+17. Knowledge of cardiac sources of emboli (e.g. left ventricular aneurysm, atrial
+fibrillation, intracardiac filling defect, cardiomyopathy, aortic or mitral prosthetic
+heart valve, cardioversion of atrial fibrillation within 30 days prior to
+intervention, calcific aortic stenosis, endocarditis, mitral stenosis, atrial septal
+defect (ASD), atrial septal aneurysm, or left atrial myxoma).
+18. Patient has had a recent GI bleed that would interfere with antiplatelet therapy.
+Anatomic Exclusions
+1. Severe vascular tortuosity or anatomy that would preclude the safe introduction of a
+guide catheter, guide sheath, embolic protection system, or stent system.
+2. Presence of previously placed intravascular stent or intravascular graft in the
+ipsilateral distribution. (Patch grafts are not an exclusion criterion.)
+3. Presence of extensive or diffuse atherosclerotic disease involving the aortic arch and
+proximal common carotid artery that would preclude the safe introduction of a guide
+catheter or guide sheath.
+4. An intraluminal filling defect (defined as an endoluminal lucency surrounded by
+contrast, seen in multiple angiographic projections, in the absence of angiographic
+evidence of calcification) that is not associated with an ulcerated target lesion
+5. Other abnormal angiographic findings such as: ipsilateral intracranial or extracranial
+arterial stenosis greater in severity than the lesion to be treated, cerebral aneurysm
+>= 5 mm, AVM (arteriovenous malformation) of the cerebral vasculature, AV fistula, or
+other confounding intracranial lesion.
+6. Bilateral carotid stenosis if the intervention is planned within the 30-day ARCHeR
+periprocedure period.
+7. Occlusion [Thrombolysis In Myocardial Infarction Trial (TIMI 0)] or "string sign" >1
+cm of the ipsilateral common or internal carotid artery.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00217178 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXQYPcwUebukDemuHV'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:Women and Men aged ≥ 55 years at high risk for CV events with: (a)
+Documented (CAD): i) History of prior MI; ii) stable or unstable angina with documented
+multivessel CAD or strongly positive stress test; iii) Multivessel CAD and PTCA ≥ 6 months
+prior to randomization; iv) multivessel CABG ≥ 4 years prior to randomization; v)
+Multivessel CAD on angiography; (b) Documented peripheral vascular disease (PVD): i)
+Previous limp bypass surgery and/or previous peripheral percutaneous transluminal
+angioplasty and/or previous limp or foot amputation due to PVD.ii) History of intermittent
+claudication with ankle/arm blood pressure ratio of ≤ 0.80 or with significant arterial
+stenosis on angiography; (c) Documented cerebrovascular disease: i) History of previous
+ischemic stroke; and (d) Diabetes mellitus with ≥ 1 additional major CV risk factor(s). (2)
+Provision of informed consent.(3) Adequate baseline carotid US examination.
+Exclusion Criteria:1. Current use of folic acid supplements > 200 mg/day. 2. Known previous
+adverse reactions to folic acid, Vitamin B6 or B12. 3. Planned cardiac, peripheral or
+cerebrovascular.
+-
+All
+55 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00247533 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXRPVHmbGH4c7NMRda'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Coronary artery stenosis >50% and either carotid or brain artery stenosis > 50%
+Exclusion Criteria:
+-  Creatinine > 2.0 mg/dL
+-  Co-morbidity
+-  ER
+-  A letter of authorization is not given
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00271076 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXSGpqQPZt6LCMrHAH'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  >18 years of age
+-  Patient must be:
+Symptomatic with lesions >/= to 50% stenosis, or Asymptomatic with lesions of >/= to 75%
+stenosis in at least one carotid artery, specific to the internal carotid artery, common
+carotid artery or bifurcated region; documented through acceptable ultrasound studies,
+completed within 30 days of recruitment.
+-  For patients with bilateral carotid disease- procedures need to be staged greater than
+30 days apart. The lesion that has a greater degree of stenosis will be considered as
+the index procedure.
+-  Women of childbearing potential must have a negative pregnancy test within 7 days
+prior to treatment.
+-  The patient is able to give informed consent.
+Exclusion Criteria:
+-  The patient is experiencing a new (acute) neurologic event or has experienced a stroke
+within the last 30 days prior to enrollment.
+-  The patient has intracranial tumors, arterial vascular malformations >5mm, aneurysms
+or severe intracranial stenosis distal to the target lesion.
+-  Presence of thrombus at the target site or loose 'floating' debris as determined by
+duplex analysis and/or angiography.
+-  Existing hemorrhagic disease or coagulation problems creating inability to obtain
+homeostasis at entry site.
+-  The patient has an allergy to, or is unable to tolerate, heparin, concomitant
+medications (clopidogrel or ticlid, aspirin) or to nitinol metal.
+-  The patient has a history of or known reaction to radiocontrast agent (radiopaque dye)
+and is unable to be premedicated.
+-  Coumadin treatment that has continued during the 48 hours prior to enrollment and an
+INR above hospital normals (i.e. in the event of atrial fibrillation or prosthetic
+valve replacement).
+-  Hemodynamic instability at the time of intervention.
+-  Severe chronic renal insufficiency (plasma/ serum creatinine> 2.5 mg/dL) at the time
+of intervention, except in patients on dialysis.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00316108 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXTFrhYr394jqN6vHX'}
+
+[Eligibility Section from Trial]
+Key General Inclusion Criteria:
+-  Patient must meet criteria for either A or B:
+A. Symptomatic: Carotid stenosis of greater than or equal to 50% via angiography with
+associated cerebral or retinal TIA or ischemic stroke symptoms within 180 days of the
+procedure, which are determined to have occurred in the cerebral hemisphere or eye
+ipsilateral to the target carotid artery lesion and to be reasonably attributable to that
+lesion; or
+B. Asymptomatic: Carotid stenosis greater than or equal to 80% via angiography without
+associated cerebral or retinal TIA or ischemic stroke symptoms within 180 days of the
+procedure.
+-  Target lesion is in the native common carotid artery (CCA), internal carotid artery
+(ICA), or carotid bifurcation.
+-  Target arterial segment to be stented has a diameter of greater than or equal to 4.0
+mm to less than or equal to 9.0 mm.
+-  Vessel diameter distal to the target lesion is greater than or equal to 3.5 mm and
+less than or equal to 5.5 mm as an optimal "landing zone" for placement of the
+FilterWire EZ System with visual angiographic recommendations as described in the
+instructions for use (IFU).
+Key High-Risk Eligibility Inclusion Criteria:
+-  Patients must qualify in at least one high-risk category. The high-risk categories are
+defined as:
+-  Anatomical conditions [one (1) criterion qualifies]
+-  Co-morbid conditions Class I [one (1) criterion qualifies]
+-  Co-morbid conditions Class II [two (2) criteria qualify]
+Exclusion Criteria:
+-  Patient has experienced an evolving, acute, or recent stroke within 21 days of study
+evaluation.
+-  A total occlusion of the ipsilateral carotid artery. (Only for Roll-In and Pivotal
+patients.)
+-  A total occlusion of the contralateral carotid artery. (Only for Bilateral Registry
+patients.)
+-  Pre-existing stent(s):
+-  Roll-In and Pivotal Patients: located within the ipsilateral carotid
+distribution; a stent was placed in a contralateral vessel within the previous 30
+days of the study enrollment.
+-  Bilateral Registry Patients: located within the carotid distribution.
+-  A target lesion which is expected to require more than one stent.
+-  Known cardiac sources of emboli of a type likely to be associated with cerebral
+ischemic events [e.g. endocarditis, intracardiac thrombus, embolic-associated
+cardiovascular lesions, or any current arrhythmia (e.g. atrial fibrillation, atrial
+flutter, etc.)].
+-  Myocardial infarction (MI) within 72 hours prior to the index procedure, defined as
+creatine kinase (CK)-MB > 2 X the local laboratory's upper limit of normal (ULN).
+-  Any surgery requiring general anesthesia (e.g. coronary artery bypass graft [CABG],
+valve replacement, or abdominal aortic aneurysm) less than or equal to 30 days
+preceding the stent procedure.
+-  The patient is enrolled in another investigational study protocol and has not
+completed the required follow-up period of the evaluation. The patient may not
+participate in another investigational study that may confound the treatment or
+outcomes of the BEACH protocol.
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00380185 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXUT3TP6sr8in5Xkjy'}
+
+[Eligibility Section from Trial]
+Subjects are recruited from individuals undergoing elective coronary angiography for
+suspected CAD at Stanford University or Mount Sinai Medical Centers.
+Non-Probability Sample
+Inclusion Criteria:
+-  Hemodynamically significant PAD, as documented by an ankle-brachial index less than
+0.9; control group participants will not have PAD
+-  Received a referral for an elective coronary angiogram
+-  Suspected CAD
+Exclusion Criteria:
+-  History of radiation treatment
+-  History of organ transplant
+-  History of viral diseases (i.e. HIV, hepatitis)
+All
+40 Years
+N/A
+Accepts Healthy Volunteers
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00417963 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXVMN9ERP659hNadyw'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  The patient has a symptomatic or asymptomatic carotid artery stenosis that meets one
+of the following criteria:
+-  Symptomatic: > than or = to 50% carotid stenosis by angiography and a history of
+non-disabling stroke, transient ischemic attack (TIA) in the hemisphere supplied
+by the target vessel within 180 days of the procedure.
+-  Asymptomatic: > than or = to 80% carotid stenosis by angiography without
+neurological symptoms.
+-  High risk for carotid endarterectomy: anatomical and co-morbid.
+Exclusion Criteria:
+-  History of symptoms of stroke or TIA within 24 hours of the procedure
+-  Extensive or diffuse atherosclerotic disease
+-  Severe vascular tortuosity or anatomy that would preclude the safe introduction of the
+device
+All
+18 Years
+85 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00536796 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXWEwnuA4yNbVqVPm4'}
+
+[Eligibility Section from Trial]
+Male and female secondary prevention patients with: coronary disease with event: acute
+coronary syndrome, status post MI, PTCA, CABG, angiographically verified), PAVK (min. IIb
+or S.p. revascularization), stroke/TIA, carotis-plaque (asymptomatic min. 70% or S.p.
+revascularization), Diabetes Mellitus (type I, II)
+Non-Probability Sample
+Inclusion Criteria:
+-  Secondary prevention patients with hyperlipidemia and atherosclerosis (coronary heart
+disease, carotid stenosis, PVD, etc.) and/or diabetes who already receive
+cholesterol-lowering therapy
+Exclusion Criteria:
+-  Patients who do not receive cholesterol-lowering therapy
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00536965 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXXKBtcApUrhF6EA2y'}
+
+[Eligibility Section from Trial]
+Male and female type II diabetics with: coronary disease with event: acute coronary
+syndrome, status post MI, PTCT, CABG, angiographically verified), or proven atherosclerotic
+progression (PAVK min. IIb or S.p. revascularization, stroke/TIA, carotis-plaque:
+asymptomatic min. 70% or S.p. revascularization)
+Non-Probability Sample
+Inclusion Criteria:
+-  Secondary prevention patients with hyperlipidemia and atherosclerosis (coronary heart
+disease, carotid stenosis, PVD, etc.) and/or diabetes who already receive
+cholesterol-lowering therapy
+Exclusion Criteria:
+-  Patients who do not receive cholesterol-lowering therapy
+All
+18 Years
+70 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00619775 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXYQvFRJsq4zgcKwQF'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  18 years and above
+-  informed consent
+-  for female subjects, not pregnant or planning on becoming pregnant
+-  meet protocol defined anatomical or clinical high risk criteria
+Exclusion Criteria:
+-  participation in another clincial study which may affect either the pre-procedure or
+follow-up results
+-  prior stenting of the ipsilateral carotid artery
+-  life expectancy less than twelve months
+-  known allergy or intolerance of study medications or device materials
+-  must not meet general or angiographic exclusion criteria as defined in the protocol
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00670202 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXZjYE1XyWKFmStN4q'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Subjects with >= 70% carotid stenosis (unilateral or bilateral) who are scheduled to
+undergo elective carotid endarterectomy
+-  Age >= 18 years
+-  Agreement of the operating surgeon for patient to participate
+Exclusion Criteria:
+-  Surgery scheduled < 14 days after randomization
+-  Pregnancy
+-  ALT, GGT > 3x upper limit of normal (ULN)
+-  Creatinine > 3.5 mg/dL
+-  Prior intolerance to statins
+-  Reluctance to add or change dosage of statin therapy during study
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00729040 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXb5QNWPvXZAx4nKYM'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Must have one or more of the following: Coronary artery disease (CAD); BMI 25 or
+higher; Type 2 diabetes
+-  Must be sedentary, defined by less than 150 minutes of self-reported activity per week
+-  Must be 18 or older
+-  Must have access to a computer with an Internet connection, a USB port, and Windows
+2000 (latest service pack), XP or Vista
+-  Must be a regular email user (checking weekly)
+-  Must be able to communicate in English
+Exclusion Criteria:
+-  Pregnant
+-  Cannot walk a block (self-report)
+-  Not competent to sign consent
+-  Unable to obtain medical clearance from a treating physician (primary care,
+cardiologist, endocrinologist)
+-  Type 1 diabetes
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00744523 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXcr4X1eRCJQH35SH5'}
+
+[Eligibility Section from Trial]
+General inclusion criteria Subject meets one or more of the high surgical risk criteria.
+-  Subject is ≥ 18 years old.
+-  Subject is a candidate for single lesion carotid artery stenting using a femoral
+arterial approach.
+-  Subject is willing and able to comply with follow-up evaluations at the specified
+times.
+-  Subject (or legal representative) understands the nature of the procedure and provides
+informed consent, prior to enrollment in the study.
+-  If female subject, is not currently pregnant and has stated that she has no intention
+of becoming pregnant during the study.
+Angiographic inclusion criteria (as determined ≤ 30 days prior to procedure):
+-  Target lesion stenosis (% stenosis = (1-N/D) X 100)1, documented by selective
+angiography pre-intervention, is
+-  ≥ 80% stenosis for asymptomatic subjects or
+-  ≥ 50% stenosis for symptomatic subjects. Symptomatic is defined as carotid
+stenosis associated with ipsilateral transient or visual TIA evidenced
+byamaurosis fugax, ipsilateral hemispheric TIAs or ipsilateral ischemic stroke
+within 6 months prior to enrollment.
+-  Target lesion is within the internal carotid artery and/or involves the bifurcation of
+the CCA.
+-  External carotid artery diameter where the Mo.Ma device will be positioned is 3-6 mm.
+-  Common carotid artery diameter where the Mo.Ma device will be positioned is 5-13 mm.
+General exclusion criteria
+-  Subject has participated in, is participating in, or plans to participate in another
+clinical study that may affect either the pre-procedure or follow-up results.
+-  Subject has chronic or paroxysmal atrial fibrillation that is not treated by Coumadin.
+-  Subject has undergone prior stenting of the ipsilateral carotid artery.
+-  Subject's life expectancy is less than twelve months.
+-  Subject is unable to respond to external questions and stimuli and to exert a pressure
+with the contralateral hand.
+-  Subject is suffering from dementia.
+-  Subject has documented intolerance to BOTH heparin and Angiomax.
+-  Subject has an allergy or contraindication to acetylsalicylic acid (ASA).
+-  Subject has a documented allergy to the device materials.
+-  Subject has a documented allergy to radiographic contrast that cannot be pre-treated.
+-  Subject has a documented allergy or contraindication to BOTH clopidogrel and
+ticlopidine.
+-  Subject has had active bleeding diathesis requiring blood transfusion within one (1)
+month prior to index procedure.
+-  Subject has had an MI within 72 hours prior to carotid stenting.
+-  Subject has had coronary artery bypass graft (CABG) or vascular surgery within 30 days
+PRIOR TO index procedure (percutaneous coronary intervention is permissible provided
+cardiac enzymes are normal within 24 hours of index procedure), OR has planned CABG,
+vascular surgery, percutaneous coronary intervention (PCI), or has other invasive
+medical procedures planned within 30 days AFTER index procedure.(Unplanned urgent or
+emergent procedures may be performed at anytime as clinically indicated).
+-  Subject has a major residual neurological deficit (stroke scales: Barthel ≤ 60, NIH ≥
+15 or Rankin > 3) at pre-procedure neurological exam.
+-  Subject has had a transient ischemic attack (TIA) or amaurosis fugax within 48 hours
+prior to index procedure.
+-  Subject has had a stroke or retinal artery occlusion within one (1) month prior to
+index procedure.
+-  Subject had abnormal pre-intervention blood counts with platelets < 50,000/cubic mm or
+> 700,000/cubic mm or white blood cell count < 3,000/cubic mm.
+-  Subject has severe chronic renal failure (creatinine > 2.5 mg/dl).
+-  Subject is currently being treated for cerebral carcinoma or sarcoma.
+-  Subject has peripheral vascular disease, which precludes safe femoral artery sheath
+insertion.
+-  Subject is unable or unwilling to undergo insertion of a temporary pacemaker.
+Angiographic exclusion criteria (as determined ≤ 30 days prior to procedure):
+-  The target carotid artery is completely occluded.
+-  The common carotid artery ostium has stenosis that requires treatment.
+-  Multiple carotid stenoses exist in the internal carotid artery (ICA) that cannot be
+covered by one stent.
+-  The presence of ipsilateral intracranial stenosis that requires treatment.
+-  The presence of any intracranial tumor(s), arteriovenous malformation(s) (AVMs), or
+aneurysm(s) requiring treatment.
+-  The inability to position a stiff .035" guidewire in the external carotid artery
+(ECA).
+-  Contralateral occlusion of internal carotid artery and vertebral arteries.
+-  Aortic arch anatomical anomalies that preclude the safe placement of the device.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00764985 ---
+Ground Truth Score: 0
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXe6EAp4SnfAbC2izs'}
+
+[Eligibility Section from Trial]
+All patietns admitted to the adult medicine service at St. Luke's-Roosevelt Hospital with
+diagnossi of syncope or near syncope
+Non-Probability Sample
+Inclusion Criteria:
+-  All adult patients (age 18 or older) admitted with syncope or near-syncope
+Exclusion Criteria:
+-  Patients who do not speak/read the language of the consent form
+-  Prisoners
+-  Patients who are of altered mental status or had head trauma
+-  Refusal or inability to sign consent
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00772278 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXeyZJ6KQKXgHLvCVN'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Stenosis of 70% or more by carotid artery duplex, CTA or MRA.
+-  No evidence of TIA or CVA originating in area of the brain supplied by the carotid
+artery under study, in the four months preceding treatment.
+-  Eligibility for both treatment options:
+1. suited for operative treatment as assessed by an anesthesiologist
+2. suited for endovascular procedure by established radiological guidelines
+(including: access to the stenotic area via the vessels of the aortic arch, the
+absence of occlusion preventing this access, absence of significant
+atherosclerosis within the arch of aorta, absence of torturous anatomy of the
+common and internal carotid artery, and absence of thrombus in the area of
+stenosis)
+Exclusion Criteria:
+-
+All
+18 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00805311 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXfs8s4frtKSmjLe3n'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Unilateral or bilateral carotid artery stenosis that was considered to be severe
+(carotid artery diameter reduction 70%-79% on ultrasound)
+-  This stenosis had not caused any stroke, transient cerebral ischaemia, or other
+relevant neurological symptoms in the past 6 months
+-  Both doctor and patient were substantially uncertain whether to choose immediate CEA,
+or deferral of any CEA until a more definite need for it was thought to have arisen
+-  The patient had no known circumstance or condition likely to preclude long-term
+follow-up
+-  Neurologist's explicit consent to potentially perform CEA
+Exclusion Criteria:
+-  Previous ipsilateral CEA
+-  Expectation of poor surgical risk (e.g., because of recent acute myocardial
+infarction)
+-  Some probable cardiac source of emboli (because the main stroke risk might then be
+from cardiac, not carotid, emboli)
+-  Inability to provide informed consent
+-  Underlying disease other than atherosclerosis (inflammatory or autoimmune disease)
+-  Life expectancy < 6 months
+-  Advanced dementia
+-  Advanced renal failure (serum creatinine > 2.5 mg/dL)
+-  Unstable severe cardiovascular comorbidities (e.g., unstable angina, heart failure)
+-  Restenosis after prior CAS or CEA
+-  Atrial fibrillation
+-  Allergy or contraindications to study medications (statins, ASA, losartan, amlodipine)
+All
+40 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00830232 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXgkiDAZ7dzVpH3sy4'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Subject is at high risk for carotid endarterectomy due to either anatomic or co-morbid
+conditions; AND
+-  Symptomatic patients (TIA or non-disabling stroke within 6 months of the procedure),
+with carotid stenosis ≥ 50% as diagnosed by angiography, using NASCET methodology
+(50); OR
+-  Asymptomatic patients with carotid stenosis ≥ 80% as diagnosed by angiography, using
+NASCET methodology
+Exclusion Criteria:
+-  Conditions that interfere with the evaluation of endpoints
+-  Subject has anticipated or potential sources of cardiac emboli
+-  Subject plans to have a major surgical procedure within 30 days after the index
+procedure.
+-  Subject has intracranial pathology that makes the subject inappropriate for study
+participation.
+-  Subject has a total occlusion of the ipsilateral carotid artery (i.e., CCA).
+-  Severe circumferential lesion calcification that may restrict the full deployment of
+the carotid stent.
+-  Carotid stenosis located distal to the target stenosis that is more severe than the
+target stenosis.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00860184 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXhcZJzWF3DWH3hK5V'}
+
+[Eligibility Section from Trial]
+Patient referred for ultrasound assessment of carotid artery disease
+Non-Probability Sample
+Inclusion Criteria:
+-  50-79% stenosis of the carotid artery
+-  age 18 or older
+-  no ischemic neurovascular symptoms within preceding 6 months
+Exclusion Criteria:
+-  contraindication to MRI (e.g. weight > 130 kg, pregnancy)
+-  prior or planned carotid endarterectomy or stenting
+-  history of atrial fibrillation
+-  prior neck irradiation
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 5 vs Trial NCT00919165 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXqAUhJ8Ux2Bb9HVTE'}
+
+[Eligibility Section from Trial]
+Patients with severe carotid artery stenosis
+Probability Sample
+Inclusion Criteria:
+-  40-80 years of age
+-  Right hand dominate
+-  Asymptomatic:defined as: no symptoms of TIA/stroke in the previous 6 months
+-  Baseline doppler study with a peak systolic velocity of 400cm/sec
+-  Patient is deemed candidate for carotid artery stenting
+-  TIMI flow of 1,2 or 3
+-  80% or greater stenosis of distal common or internal carotid artery, as determined
+angiographically, as defined in ACAS
+-  Subjects are able to give informed consent
+-  Subjects are willing/able to complete follow-up visits
+Exclusion Criteria:
+-  History of major stroke: within the past 6 months
+-  History of Alzheimers disease or Dementia
+-  Unable or willing to complete the baseline and 20 days neuro-cognitive testing planned
+major surgery within the next 2 months
+-  Planned intervention opposite carotid artery within 2 months
+-  Ineligibility for carotid stent procedure due to anatomy, thrombus, or inability to
+complete anti-platelet therapy
+-  Any individual identified with cognitive impairment which would affect their
+performance during cognitive testing.
+All
+40 Years
+80 Years
+No
+----------------------------------------
+
+--- Evaluating Topic 6 vs Trial NCT00155363 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXsWs3A2C78vD9MAkB'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+Clinical diagnosis on ESRD under regular maintenance hemodialysis, no active infection, no
+allergy to chosen AK, informed consent acquired
+Exclusion Criteria:
+Not ESRD, temporary HD, active infection, during admission, allergy to chosen AK, without
+informed consent
+All
+N/A
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 6 vs Trial NCT00269399 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXtZsPNVZFVqF2FU8A'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  Subject is 18 years of age or older, has acute diarrhea and at least 1 other sign of
+enteric infection present, such as fever, nausea/loss of appetite, vomiting, severe
+abdominal pain or discomfort.
+-  Subject has a positive Clostridium difficile stool toxin assay at screening
+Exclusion Criteria:
+-  Subject has had a previous episode of clinically diagnosed Clostridium difficile
+within the past 6 months.
+-  Subject has chronic diseases associated with diarrhea (e.g., inflammatory bowel
+disease or diarrhea predominant irritable bowel syndrome [DIBS])
+-  Subject has had any therapy with any agent administered for the treatment of
+Clostridium difficile prior to randomization.
+All
+18 Years
+N/A
+No
+----------------------------------------
+
+--- Evaluating Topic 6 vs Trial NCT00304369 ---
+Ground Truth Score: 2
+LLM Output:
+Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-sonnet-20240620'}, 'request_id': 'req_011CcLfXuYuXwHtp5YjeXWnY'}
+
+[Eligibility Section from Trial]
+Inclusion Criteria:
+-  records of patients who have a fecal sample positive for C. difficile toxin and who
+are then treated for C. difficile colitis with oral metronidazole will be included in
+this study.
+Exclusion Criteria:
+-  Patients who did not receive at least 7 days of metronidazole
+All
+18 Years
+64 Years
+No
+----------------------------------------
+
+Overall Success Rate: 18.00% (18/100)

@@ -7,3 +7,9 @@ Claude extraction, OpenAI matching
 2. Success (2) vs Not Success (0 or 1) match: 76/100 (76.00%)
 
 OpenAI extraction, Claude matching
+1. Exact value match: 85/200 (42.50%)
+2. Success (2) vs Not Success (0 or 1) match: 93/200 (46.50%)
+
+OpenAI extraction, OpenAI matching
+1. Exact value match: 130/200 (65.00%)
+2. Success (2) vs Not Success (0 or 1) match: 142/200 (71.00%)
