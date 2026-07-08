@@ -1,0 +1,24 @@
+onsensus between OpenAI Judge (on OpenAI extraction) and Anthropic Judge (on OpenAI extraction):
+  Common pairs: 200
+  Exact Agreement: 107/200 (53.50%)
+  Cohen's Kappa: 0.3206
+
+Consensus between OpenAI Judge (on Anthropic extraction) and Anthropic Judge (on Anthropic extraction):
+  Common pairs: 100
+  Exact Agreement: 63/100 (63.00%)
+  Cohen's Kappa: 0.4285
+
+Consensus between OpenAI Judge (on OpenAI extraction) and OpenAI Judge (on Anthropic extraction):
+  Common pairs: 100
+  Exact Agreement: 88/100 (88.00%)
+  Cohen's Kappa: 0.7601
+
+Consensus between Anthropic Judge (on OpenAI extraction) and Anthropic Judge (on Anthropic extraction):
+  Common pairs: 100
+  Exact Agreement: 87/100 (87.00%)
+  Cohen's Kappa: 0.8034
+
+Consensus between OpenAI Judge (Total) and Anthropic Judge (Total):
+  Common pairs: 300
+  Exact Agreement: 170/300 (56.67%)
+  Cohen's Kappa: 0.3550

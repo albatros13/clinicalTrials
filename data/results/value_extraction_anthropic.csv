@@ -1,0 +1,214 @@
+entry_id,tag,ground_truth,llm_response,is_match
+0,STREET_ADDRESS,"6750 Koskikatu 25 Apt. 864
+Artilleros
+, CO
+ Uruguay 64677","['6750 Koskikatu 25 Apt. 864\nArtilleros\n, CO\n Uruguay 64677']",True
+0,ORGANIZATION,Persint,['Persint'],True
+2,PERSON,Szabina J Gelencsér,"['Krisztián Szöllösy', 'Szabina J Gelencsér']",True
+2,PERSON,Krisztián Szöllösy,"['Krisztián Szöllösy', 'Szabina J Gelencsér']",True
+3,GPE,Tunisia,['Tunisia'],True
+3,DATE_TIME,1977,['1977'],True
+3,ORGANIZATION,Exversion,['Exversion'],True
+4,PERSON,Rubija,['Rubija'],True
+5,CREDIT_CARD,4454794511390933,['4454794511390933'],True
+6,PERSON,Yefremova,"['Faina D. Yefremova', 'Yefremova']",True
+6,PERSON,Faina D. Yefremova,"['Faina D. Yefremova', 'Yefremova']",True
+7,US_SSN,460-89-9847,['460-89-9847'],True
+8,PERSON,Johannes Varvio,['Johannes Varvio'],True
+9,PERSON,Šárka Ottová,['Šárka Ottová'],True
+10,PERSON,Christiansen,['Christiansen'],True
+11,GPE,Canada,['Canada'],True
+12,US_DRIVER_LICENSE,2270-66-1551,['2270-66-1551'],True
+13,AGE,79,['79'],True
+14,ZIP_CODE,53650,['53650'],True
+14,GPE,SK,"['LAPPEENRANTA', 'SK']",True
+14,GPE,LAPPEENRANTA,"['LAPPEENRANTA', 'SK']",True
+14,STREET_ADDRESS,Apt. 595,"['28245', 'Puruntie 82', 'Apt. 595']",True
+14,STREET_ADDRESS,Puruntie 82,"['28245', 'Puruntie 82', 'Apt. 595']",True
+14,STREET_ADDRESS,28245,"['28245', 'Puruntie 82', 'Apt. 595']",True
+14,PERSON,Sara Schwarz,['Sara Schwarz'],True
+15,PERSON,John,"['Ubul', 'Nicole', 'Mary', 'John']",True
+15,PERSON,Mary,"['Ubul', 'Nicole', 'Mary', 'John']",True
+15,PERSON,Nicole,"['Ubul', 'Nicole', 'Mary', 'John']",True
+15,PERSON,Ubul,"['Ubul', 'Nicole', 'Mary', 'John']",True
+16,PERSON,Cettina Fanucci,['Cettina Fanucci'],True
+16,TITLE,Dr.,['Dr.'],True
+17,PERSON,Berta Szöllössy,['Berta Szöllössy'],True
+17,TITLE,Dr.,['Dr.'],True
+19,PERSON,Jensen,['Jensen'],True
+20,PERSON,Magnusson,['Magnusson'],True
+21,PERSON,Siiri,['Siiri'],True
+22,STREET_ADDRESS,62488,"['20789 Allika 46', 'Suite 501', 'Riisa', '62488']",True
+22,GPE,Estonia,"['Riisa', 'Estonia']",True
+22,GPE,Riisa,"['Riisa', 'Estonia']",True
+22,STREET_ADDRESS,Suite 501,"['20789 Allika 46', 'Suite 501', 'Riisa', '62488']",True
+22,STREET_ADDRESS,Allika 46,"['20789 Allika 46', 'Suite 501', 'Riisa', '62488']",False
+22,STREET_ADDRESS,20789,"['20789 Allika 46', 'Suite 501', 'Riisa', '62488']",False
+22,PERSON,William Hughes,['William Hughes'],True
+23,PERSON,Vasquez,"['Kónya', 'Becker', 'Vasquez']",True
+23,PERSON,Becker,"['Kónya', 'Becker', 'Vasquez']",True
+23,PERSON,Kónya,"['Kónya', 'Becker', 'Vasquez']",True
+23,ORGANIZATION,Microbilt Corporation,['Microbilt Corporation'],True
+24,GPE,Goiânia,['Goiânia'],True
+24,STREET_ADDRESS,Rua do Arenque 1634,"['86036 Rua do Arenque', '1634']",False
+24,STREET_ADDRESS,86036,"['86036 Rua do Arenque', '1634']",False
+24,PERSON,Tomomi Nishiyama,['Tomomi Nishiyama'],True
+25,PERSON,Hodge,"['Eklund', 'Michael', 'Hodge']",True
+25,PERSON,Michael,"['Eklund', 'Michael', 'Hodge']",True
+25,PERSON,Eklund,"['Eklund', 'Michael', 'Hodge']",True
+25,ORGANIZATION,Verdafero,['Verdafero'],True
+26,GPE,Kenosha,['Kenosha'],True
+27,DOMAIN_NAME,http://www.ScrapbookInsider.com.pt/,['http://www.ScrapbookInsider.com.pt/'],True
+28,PERSON,patricia desrosiers,['patricia desrosiers'],True
+29,STREET_ADDRESS,Růžena and Király u. 15.,['Růžena and Király u. 15'],False
+29,ORGANIZATION,Propublica,['Propublica'],True
+30,DOMAIN_NAME,https://ClickPhobia.com.br/,['https://ClickPhobia.com.br/'],True
+31,CREDIT_CARD,4131034282458809939,['4131034282458809939'],True
+32,EMAIL_ADDRESS,UtaKortig@jourrapide.com,['UtaKortig@jourrapide.com'],True
+32,CREDIT_CARD,4007070753690781,['4007070753690781'],True
+33,STREET_ADDRESS,"PSC 0413, Box 8144
+APO AA 42323","['PSC 0413, Box 8144\nAPO AA 42323']",True
+33,ORGANIZATION,Avalara,['Avalara'],True
+34,EMAIL_ADDRESS,UshurmaDratchev@rhyta.com,['UshurmaDratchev@rhyta.com'],True
+35,PHONE_NUMBER,905-674-3793,['905-674-3793'],True
+36,AGE,74,['74'],True
+37,GPE,ΛΕΥΚΩΣΙΑ,['ΛΕΥΚΩΣΙΑ'],False
+37,STREET_ADDRESS,"1987 74 Diakou Street
+ Suite 680
+ Kissousa
+ Cyprus 36903",['1987 74 Diakou Street\n Suite 680\n Kissousa\n Cyprus 36903'],True
+37,CREDIT_CARD,630427373398,['630427373398'],True
+38,GPE,UPTON SCUDAMORE,['UPTON SCUDAMORE'],True
+38,DATE_TIME,2000-04-16 11:34:35,['2000-04-16 11:34:35'],True
+39,AGE,31,['31'],True
+39,GPE,ΕΓΚΩΜΗ,['ΕΓΚΩΜΗ'],False
+39,PERSON,Naomi Ryan,['Naomi Ryan'],True
+41,PERSON,Meza,"['Kaczmarek', 'Bonifacy Kaczmarek', 'Meza']",True
+41,DATE_TIME,1977,['1977'],True
+41,PERSON,Bonifacy Kaczmarek,"['Kaczmarek', 'Bonifacy Kaczmarek', 'Meza']",True
+41,GPE,Canada,['Canada'],True
+41,PERSON,Kaczmarek,"['Kaczmarek', 'Bonifacy Kaczmarek', 'Meza']",True
+42,PERSON,Mette,['Mette'],True
+43,PERSON,Katrine,['Katrine'],True
+44,PERSON,Mathias Ruud,['Mathias Ruud'],True
+45,CREDIT_CARD,6586108984332171,['6586108984332171'],True
+46,PERSON,Ravil G Yefimov,['Ravil G Yefimov'],True
+47,ZIP_CODE,3520,['3520'],True
+48,GPE,Estonia,['Estonia'],True
+49,STREET_ADDRESS,"Brucker Bundesstrasse 31 Zezig Streets
+ Suite 245
+ FÜRLING
+ Austria 25173",['Brucker Bundesstrasse 31 Zezig Streets\n Suite 245\n FÜRLING\n Austria 25173'],True
+49,DOMAIN_NAME,https://www.UEarly.se/,['https://www.UEarly.se/'],True
+49,EMAIL_ADDRESS,SzaszJanka@cuvox.de,['SzaszJanka@cuvox.de'],True
+49,PHONE_NUMBER,60-56-85-91,['60-56-85-91'],True
+49,TITLE,Network and computer systems administrator,['Network and computer systems administrator'],True
+49,PERSON,Janka M. Szász,['Janka M. Szász'],True
+50,PERSON,Bryan Maclean,['Bryan Maclean'],True
+51,GPE,København V,['København V'],True
+51,STREET_ADDRESS,Præstevænget 15,"['450 Præstevænget 15', 'København V']",False
+51,STREET_ADDRESS,450,"['450 Præstevænget 15', 'København V']",False
+51,PERSON,Jožef Albin,"['Jožef Albin', 'Jožef Albin']",True
+51,PERSON,Jožef Albin,"['Jožef Albin', 'Jožef Albin']",True
+52,GPE,Sutri,['Sutri'],True
+52,STREET_ADDRESS,"14 Crown Street Kishiev Squares
+ Suite 321
+ LONDON
+ United Kingdom 75419",['14 Crown Street Kishiev Squares\n Suite 321\n LONDON\n United Kingdom 75419'],True
+52,CREDIT_CARD,347415977307943,['347415977307943'],True
+53,GPE,Flateyri,['Flateyri'],True
+54,ZIP_CODE,7188,['7188'],True
+54,GPE,nan,"['Tujetsch', 'nan']",True
+54,GPE,Tujetsch,"['Tujetsch', 'nan']",True
+54,STREET_ADDRESS,Suite 838,"['3482', 'Via Franscini 71', 'Suite 838']",True
+54,STREET_ADDRESS,Via Franscini 71,"['3482', 'Via Franscini 71', 'Suite 838']",True
+54,STREET_ADDRESS,3482,"['3482', 'Via Franscini 71', 'Suite 838']",True
+54,PERSON,Sophie Lang,['Sophie Lang'],True
+55,EMAIL_ADDRESS,CarlESteffensen@einrot.com,['CarlESteffensen@einrot.com'],True
+56,STREET_ADDRESS,"PSC 6293, Box 8158
+APO AP 04336","['PSC 6293, Box 8158\nAPO AP 04336']",True
+57,PERSON,Caitlyn Schulz,['Caitlyn Schulz'],True
+58,GPE,SEINÄJOKI,['SEINÄJOKI'],True
+58,STREET_ADDRESS,Harjukuja 54,['5049 Harjukuja 54'],False
+58,STREET_ADDRESS,5049,['5049 Harjukuja 54'],False
+58,PERSON,Alma,"['Kevin', 'Alma']",True
+58,PERSON,Kevin,"['Kevin', 'Alma']",True
+59,DOMAIN_NAME,https://InstantResales.com.cy/,['https://InstantResales.com.cy/'],True
+61,STREET_ADDRESS,Marina Fort,"['1668 Glyn St', 'Marina Fort']",True
+61,GPE,Highveld,['Highveld'],True
+61,STREET_ADDRESS,1668 Glyn St,"['1668 Glyn St', 'Marina Fort']",True
+62,PERSON,Calquín Cazares,['Calquín Cazares'],True
+64,PERSON,Jonas Nielsen,['Jonas Nielsen'],True
+65,PERSON,Elínborg Guðmundsdóttir,['Elínborg Guðmundsdóttir'],True
+66,TITLE,Packager,['Packager'],True
+66,PERSON,Marie Langrová,['Marie Langrová'],True
+67,US_SSN,514-69-0360,['514-69-0360'],True
+68,PERSON,Kyle Kuefer,['Kyle Kuefer'],True
+68,TITLE,Dr.,['Dr.'],True
+69,ORGANIZATION,Mayo-Walters,['Mayo-Walters'],True
+69,DATE_TIME,1971,['1971'],True
+70,GPE,South Africa,['South Africa'],True
+71,AGE,60,['60'],True
+72,EMAIL_ADDRESS,EwanDawson@dayrep.com,['EwanDawson@dayrep.com'],True
+73,PERSON,James Sparks,['James Sparks'],True
+73,GPE,Finland,['Finland'],True
+75,PERSON,Natalie Åberg,"['James Talbot', 'Natalie Åberg']",True
+75,PERSON,James Talbot,"['James Talbot', 'Natalie Åberg']",True
+76,STREET_ADDRESS,the corner of 159 Eleftheriou Venizelou str and Rennie Union,['the corner of 159 Eleftheriou Venizelou str and Rennie Union'],True
+77,STREET_ADDRESS,2450 Crown St,"['17151', '2450 Crown St']",True
+77,STREET_ADDRESS,17151,"['17151', '2450 Crown St']",True
+78,PERSON,Nicole Mahler,['Nicole Mahler'],True
+79,PERSON,Andrew,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+79,PERSON,Anna,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+79,PERSON,Derek,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+79,PERSON,Anthony,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+79,PERSON,Hannah,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+79,PERSON,Gaetane,"['Gaetane', 'Hannah', 'Anthony', 'Derek', 'Anna', 'Andrew']",True
+80,PERSON,Labrie,['Labrie'],True
+80,TITLE,Mrs.,['Mrs.'],True
+81,GPE,Italy,['Italy'],True
+81,DATE_TIME,1977,['1977'],True
+81,ORGANIZATION,"Davis, Reynolds and Williamson","['Davis, Reynolds and Williamson']",True
+82,PHONE_NUMBER,07700 063 966,"['(37) 788-063', '07700 063 966']",True
+82,PHONE_NUMBER,(37) 788-063,"['(37) 788-063', '07700 063 966']",True
+82,STREET_ADDRESS,34796,"['233 Erzsébet tér 19.', 'Suite 282', 'Domoszló', '34796']",True
+82,GPE,Hungary,['Hungary'],True
+82,GPE,Domoszló,['Hungary'],False
+82,STREET_ADDRESS,Suite 282,"['233 Erzsébet tér 19.', 'Suite 282', 'Domoszló', '34796']",True
+82,STREET_ADDRESS,Erzsébet tér 19.,"['233 Erzsébet tér 19.', 'Suite 282', 'Domoszló', '34796']",False
+82,STREET_ADDRESS,233,"['233 Erzsébet tér 19.', 'Suite 282', 'Domoszló', '34796']",False
+82,PERSON,Gregory Kudryashov,['Gregory Kudryashov'],True
+83,STREET_ADDRESS,midtvollen 130,"['74678 midtvollen', '130']",False
+83,STREET_ADDRESS,74678,"['74678 midtvollen', '130']",False
+84,PHONE_NUMBER,780-999-2181,['780-999-2181'],True
+85,PERSON,Murphy,"['Marrero', 'Murphy']",True
+85,PERSON,Marrero,"['Marrero', 'Murphy']",True
+86,STREET_ADDRESS,"0605 πεντέλης 210 apt. 999
+delmas, mp 35739","['0605 πεντέλης 210 apt. 999\ndelmas, mp 35739']",True
+87,PERSON,Brosca Erdôs,"['Kevin Veitonen II', 'Brosca Erdôs']",True
+87,PERSON,Kevin Veitonen II,"['Kevin Veitonen II', 'Brosca Erdôs']",True
+88,PHONE_NUMBER,541-714-1388,['541-714-1388'],True
+89,DATE_TIME,Tuesday,['Tuesday'],True
+89,GPE,LEPPEN,['LEPPEN'],True
+89,PERSON,Leiva,['Leiva'],True
+89,TITLE,Mr.,['Mr.'],True
+90,PERSON,Aantje Mourik,['Aantje Mourik'],True
+90,CREDIT_CARD,180016070420458,['180016070420458'],True
+91,GPE,ΠΑΦΟΣ,['ΠΑΦΟΣ'],True
+91,STREET_ADDRESS,Μεγάλη Άμμος 184,"['10252 Μεγάλη Άμμος', '184']",False
+91,STREET_ADDRESS,10252,"['10252 Μεγάλη Άμμος', '184']",False
+91,PERSON,Tilly Nicholson,['Tilly Nicholson'],True
+92,GPE,cite ben hjel,['cite ben hjel'],True
+92,DATE_TIME,2006-04-07 09:00:27,['2006-04-07 09:00:27'],True
+93,PERSON,Reed,"['Monjeau', 'Graves', 'Reed']",True
+93,PERSON,Graves,"['Monjeau', 'Graves', 'Reed']",True
+93,PERSON,Monjeau,"['Monjeau', 'Graves', 'Reed']",True
+93,ORGANIZATION,Collective Ip,['Collective Ip'],True
+94,CREDIT_CARD,4119268469462942,['4119268469462942'],True
+94,STREET_ADDRESS,"27534 Þorsteinsgata 63
+MOSS
+, nan
+ 51971","['27534 Þorsteinsgata 63\nMOSS\n, nan\n 51971']",True
+96,IBAN_CODE,GB56HXDO88167774656119,['GB56HXDO88167774656119'],True
+97,ORGANIZATION,Aunt Bertha Inc,['Aunt Bertha Inc'],True
+99,PERSON,Leif,['Leif'],True

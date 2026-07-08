@@ -4,8 +4,8 @@ Loading qrels...
 --- Evaluating Topic 1 vs Trial NCT00002814 ---
 Ground Truth Score: 1
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has received prior treatment with CPT-11 (irinotecan), which is a topoisomerase I inhibitor, and the trial excludes patients with prior exposure to topoisomerase I inhibitors.
+Score: 1
+Reason: Biopsy-proven anaplastic astrocytoma fits disease criteria, but the patient previously received irinotecan (CPT-11), a topoisomerase I inhibitor, which is an exclusion criterion. Other required parameters (KPS, labs, central pathology review, recent imaging) are not fully documented.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Biopsy proven glioblastoma multiforme or anaplastic astrocytoma
@@ -30,8 +30,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00003470 ---
 Ground Truth Score: 1
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has severe lower extremity weakness and urinary retention, which may indicate a compromised Karnofsky performance status likely below the required 60% threshold. Furthermore, the patient has uncontrolled hypertension, which is specifically excluded in the cardiovascular criteria. Additionally, the progression or recurrence must be confirmed by an MRI performed within 2 weeks prior to study entry, which is not confirmed within the provided patient profile.
+Score: 1
+Reason: Relevant diagnosis and prior standard therapy, but lacks required MRI evidence of progression within 2 weeks and tumor size documentation. He also appears to be on or within 4 weeks of irinotecan/bevacizumab (concurrent antineoplastic therapy not allowed). Key eligibility labs/performance status are not established.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -94,8 +94,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00003471 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has an anaplastic astrocytoma, which is a high-grade tumor, while the trial requires a histologically or cytologically confirmed low-grade astrocytoma. Additionally, the patient has uncontrolled hypertension, indicated by being on high-dose steroids and complicated by progressive lower extremity weakness and urinary retention, which could imply concurrent serious disease. These factors make the patient ineligible for this trial.
+Score: 1
+Reason: The patient has an anaplastic astrocytoma (high-grade, WHO grade III), while the trial requires a low-grade astrocytoma. Other required details (measurable disease by MRI within 2 weeks, labs, performance status) are also not confirmed.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -165,8 +165,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00003621 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the criterion of "newly diagnosed" anaplastic astrocytoma, as they have already undergone prior treatments including radiation, temozolomide, and CPT-11 with Avastin. Additionally, it's less than 5 years since both prior chemotherapy and prior radiotherapy, which are requirements for this trial.
+Score: 1
+Reason: Not eligible. Although histology fits anaplastic astrocytoma and age is appropriate, the disease is not newly diagnosed and the patient has received recent radiotherapy and multiple chemotherapies (temozolomide, irinotecan, bevacizumab), violating the trial’s requirements of “newly diagnosed” and ≥5 years since prior chemo/radiotherapy. Performance status may also exceed ECOG 2 given severe weakness and urinary retention.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Histologically confirmed, newly diagnosed, anaplastic astrocytoma
@@ -189,8 +189,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00006474 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has anaplastic astrocytoma, which meets the disease characteristics criteria of being Grade III or higher and progressive after radiotherapy. However, additional information about the patient's hematopoietic, hepatic, and renal function, as well as performance status, is missing. Furthermore, the time elapsed since the last chemotherapy and the status of recovery from prior therapies is not specified. These unknowns prevent confirmation of eligibility, particularly blood counts, liver function tests, and the specific timeline of therapy recovery, even more so for hepatic criteria given the complexity of medication history like Avastin. Therefore, the determination of full eligibility cannot be confirmed with the information provided.
+Score: 1
+Reason: Has appropriate diagnosis (grade III anaplastic astrocytoma) with progression after radiotherapy and likely evaluable disease, but is currently on active chemotherapy (irinotecan) and biologic therapy (bevacizumab), violating the required washout (≥2 weeks for chemo and ≥6 weeks for biologic). Also on high-dose corticosteroids without confirmation of a stable dose for ≥2 weeks, and key labs/Karnofsky PS are not provided.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -251,8 +251,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00064363 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not have evidence of tumor progression by MRI or CT scan while on a stable steroid dose for at least 5 days as required by the trial criteria. Furthermore, the clinical trial requires patients to have residual disease after the prior resection of recurrent or progressive tumors, which is not the case for this patient as their tumor is unresectable.
+Score: 1
+Reason: Not eligible. Although he has histologically confirmed anaplastic astrocytoma and prior radiotherapy, required evidence of radiographic progression on a stable steroid dose (≥5 days) is not documented. Tumor is in the spinal cord (not clearly included in this trial focused on intracranial high‑grade gliomas). Key inclusion details (Karnofsky 60–100%, labs, and treatment washout from irinotecan/bevacizumab ≥4 weeks) are not confirmed.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -337,8 +337,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00080054 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is 45 years old, has a histologically confirmed diagnosis of anaplastic astrocytoma, and likely requires systemic antineoplastic treatment given the progression of symptoms. Assuming the patient has an ECOG performance status of 0, 1, or 2, the patient meets the inclusion criteria. There is no specific exclusion criteria given that would apply based on the information provided, such as laboratory values or plans for additional cancer therapy during the study period. Therefore, the patient is eligible for the trial.
+Score: 1
+Reason: Meets age and diagnosis (anaplastic astrocytoma), but likely fails ECOG 0–2 due to severe lower extremity weakness/functional impairment (probable ECOG ≥3). Additionally, appears to be on ongoing systemic therapy (CPT-11 plus bevacizumab with repeating cycles), which would conflict with the trial’s prohibition on additional cancer therapy during the study. Laboratory eligibility cannot be confirmed.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -371,8 +371,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00276783 ---
 Ground Truth Score: 1
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has undergone more than two prior chemotherapeutic agents or regimens (temozolomide and CPT-11 with Avastin), which disqualifies him from this trial, as the criterion specifies no more than two prior chemotherapeutic agents or regimens for patients with gliomas. Additionally, there is no mention that the patient meets the laboratory value requirements or the Karnofsky performance score.
+Score: 1
+Reason: Not eligible due to exceeding allowed prior therapies for glioma cohort: patient received three systemic agents (temozolomide, irinotecan, and bevacizumab), whereas the protocol permits no more than 2 prior chemotherapeutic agents/regimens (including biologics). Additionally, key eligibility labs and Karnofsky score are not documented.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -449,8 +449,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00301418 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient received chemotherapy (CPT-11 and Avastin) recently but must not have received chemotherapy for six weeks prior to treatment as per the trial's inclusion criteria. Additionally, the patient is on high-dose steroids, which need to be stable or decreasing for at least one week prior to study entry, and the patient's condition with severe lower extremity weakness and urinary retention could potentially impact their ability to comply with treatment.
+Score: 1
+Reason: Adult with histologically confirmed relapsed anaplastic astrocytoma, but currently not eligible: recent/ongoing irinotecan + bevacizumab violates the required ≥6-week chemotherapy washout; on high-dose steroids without documentation of a stable/decreasing dose ≥1 week; performance status likely <60% given severe lower-extremity weakness and urinary retention. Required EGFRvIII/PTEN testing and other labs/med restrictions not documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -521,8 +521,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 1 vs Trial NCT00354068 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has already received systemic therapy for their recurrence or relapse with CPT-11 (Irinotecan) and Avastin, which is an exclusion criterion for this trial.
+Score: 1
+Reason: Has histologically confirmed anaplastic astrocytoma and prior external-beam radiation, but is ineligible because he has already received systemic therapy for recurrence (temozolomide, irinotecan, bevacizumab) and has had progressive disease, both of which violate trial criteria.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -594,8 +594,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00430872 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient meets all the inclusion criteria, including having a tumor involving the spinal cord, being over 18 years of age, and there is no mention of a language barrier or cognitive dysfunction that would prevent participation. The profile also does not mention any exclusion criteria that apply.
+Score: 2
+Reason: Adult (45) with intramedullary spinal cord tumor (conus anaplastic astrocytoma); no evidence of cognitive dysfunction; no exclusion criteria met.
 
 [Eligibility Section from Trial]
 Patients with a tumor on the spine or spinal cord.
@@ -619,8 +619,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00458731 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has uncontrolled systemic vascular hypertension, as they are on high-dose steroids which may contribute to this condition, violating the trial's exclusion criteria of blood pressure control. Additionally, the patient's need for a Foley catheter due to urinary retention suggests an unresolved or unstable condition.
+Score: 1
+Reason: Not eligible. Although he has an unresectable solid tumor (anaplastic astrocytoma), he likely fails key inclusion requirements: ECOG performance status is likely >2 given severe lower extremity weakness and Foley-dependent urinary retention, and he appears to be on an active irinotecan/bevacizumab regimen without the required ≥4‑week washout before registration. Lab and proteinuria criteria are also not documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -704,8 +704,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00575887 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria regarding progression after standard dose temozolomide (D1-5/28 days), as the patient's treatment regimen was 7 days on and 7 days off, which differs from the outlined standard dose schedule. Additionally, there is not enough information provided to determine the current Karnofsky Performance Status scale or the adequacy of hematological, renal, and hepatic function, which are necessary for eligibility.
+Score: 1
+Reason: Not eligible. Although age and diagnosis (anaplastic astrocytoma) fit, the patient did not progress after standard-dose temozolomide on the D1–5/28-day schedule (received 7-on/7-off), failing a key inclusion criterion. KPS and organ function are also not documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -731,8 +731,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00612001 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has been on high-dose steroids, which is a disqualifying factor per the exclusion criteria, as concurrent corticosteroids within two weeks prior to treatment are prohibited. Additionally, the patient's tumor is described as unresectable, which does not meet the inclusion requirement for a surgically accessible tumor for which resection is indicated.
+Score: 1
+Reason: Not eligible. Although he has anaplastic astrocytoma (eligible histology), his tumor is explicitly unresectable (fails “surgically accessible tumor for which resection is indicated”) and he is on high-dose corticosteroids (exclusion: corticosteroids within 2 weeks). HLA-A*201 status and required labs are also unknown.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -804,8 +804,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00613093 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has an anaplastic astrocytoma of the spine, not a malignant glioma (MG) as specified in the inclusion criteria. Additionally, there is no evidence provided for measurable enhancing disease on a contrast-enhanced MRI, as required by the trial criteria.
+Score: 1
+Reason: Does not clearly meet key inclusion criteria. No documentation of Temodar resistance as defined (≥25% growth within 8 weeks of last dose) and no confirmed measurable enhancing disease on contrast MRI. Karnofsky performance status is likely <60% given severe lower extremity weakness and urinary retention with Foley; steroid dose stability is also unclear. Although age and diagnosis fit, without meeting these mandatory criteria he is not eligible; no specific exclusion criteria identified.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -846,8 +846,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00631137 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient is not newly diagnosed; they have already undergone extensive treatment with radiation and chemotherapy. The trial requires participants to have newly diagnosed high-grade glioma. Additionally, it is unclear whether the patient meets other criteria such as hypogonadism or testosterone levels and whether their steroid use meets the specified conditions.
+Score: 1
+Reason: Not newly diagnosed—has already completed radiation and multiple lines of chemotherapy (temozolomide, irinotecan, bevacizumab). Also lacks documentation of required hypogonadism (testosterone <350 ng/dL) and other mandatory parameters (PSA ≤4, BPH status, dexamethasone dosing/stability, KPS), so fails key inclusion criteria.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -882,8 +882,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00668122 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The clinical trial is for cUTI, but the patient has an unresectable anaplastic astrocytoma with associated symptoms unrelated to cUTI. Additionally, there is no evidence or indication of clinical symptoms of a lower UTI or underlying conditions suggestive of a cUTI in the patient.
+Score: 1
+Reason: Not eligible due to exclusion criterion of a CNS disorder (spinal anaplastic astrocytoma). Additionally, no documented lower UTI symptoms (fever, chills, frequency, dysuria, urgency) to meet inclusion, despite having Foley catheter/urinary retention.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -921,8 +921,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00704080 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has anaplastic astrocytoma in the spine, not intracranial, which does not meet the inclusion criterion of having a histologically confirmed intracranial Grade 3 or 4 anaplastic glioma or glioblastoma. Additionally, the patient has progressed while on temozolomide, an exclusion criterion.
+Score: 1
+Reason: Not eligible. Tumor is spinal (not intracranial), failing inclusion. Likely progressed on temozolomide before switching to irinotecan/bevacizumab (exclusion). TMZ schedule (7-on/7-off) does not meet the required 5/28 regimen. KPS ≥60 and adequate recovery from prior therapy are also uncertain.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -963,8 +963,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00705198 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has been treated with temozolomide, initially concomitant with radiotherapy and then as monotherapy, for a newly diagnosed anaplastic astrocytoma, which meets the inclusion criteria. There is no indication of hypersensitivity to temozolomide or dacarbazine, and there are no exclusion criteria that apply to this patient.
+Score: 2
+Reason: Patient has anaplastic astrocytoma (malignant glioma) treated with radiotherapy followed by temozolomide monotherapy; no history of hypersensitivity to temozolomide/dacarbazine and not pregnant.
 
 [Eligibility Section from Trial]
 Patients treated with temozolomide for newly diagnosed malignant glioma (concomitant with
@@ -988,8 +988,8 @@ No
 --- Evaluating Topic 1 vs Trial NCT00723827 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has a malignant glioma, specifically an anaplastic astrocytoma, which has shown progression after standard therapy with temozolomide. There are no exclusion criteria provided that would disqualify the patient from participating in the trial.
+Score: 1
+Reason: Has recurrent/progressive anaplastic astrocytoma (meets disease criterion), but is not currently being prescribed temozolomide as required (previously completed 11 cycles and switched to CPT-11/Avastin). Additionally, tumor is spinal cord rather than intracranial, which may not fit typical trial scope.
 
 [Eligibility Section from Trial]
 Participants with newly diagnosed glioblastoma multiforme.
@@ -1012,8 +1012,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00000469 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria for the trial focusing on early carotid atherosclerosis and moderately elevated LDL cholesterol. While the patient does have moderate carotid plaque, there is no information provided about his LDL cholesterol levels, leaving it unclear if they are between the 60th and 90th percentiles. Additionally, the patient's primary condition is critical aortic stenosis with severe LV dysfunction, which is not relevant to the trial's focus on early carotid atherosclerosis.
+Score: 1
+Reason: Age fits (48) and carotid US shows early atherosclerosis (1–39% ICA stenosis), but LDL level/percentile is not provided; cannot confirm the required “moderately elevated LDL (60th–90th percentile)” inclusion criterion.
 
 [Eligibility Section from Trial]
 Men and women with early carotid atherosclerosis and moderately elevated LDL cholesterol
@@ -1027,8 +1027,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00005199 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The clinical trial eligibility criteria provided are essentially incomplete and do not specify any conditions or requirements, making it impossible to determine eligibility based on the provided information. Therefore, the patient cannot be evaluated for eligibility.
+Score: 2
+Reason: The only specified criterion is male sex and no other inclusion/exclusion criteria are provided. The patient is male and thus meets the available criteria.
 
 [Eligibility Section from Trial]
 No eligibility criteria
@@ -1041,8 +1041,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00005267 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The clinical trial is focused on patients from hypertensive sibships with specific criteria related to family diagnosis and treatment of hypertension. The patient's main issue is severe aortic stenosis and related cardiac conditions, rather than being part of a hypertensive sibship, and there is no information provided about his family members or their hypertensive status. The trial criteria are not relevant to the patient's condition.
+Score: 1
+Reason: Patient has hypertension and is within age range, but there is no evidence of a hypertensive sibling willing to participate (required for probands), nor does he fit the other recruitment groups (random controls or unmedicated normotensive offspring). No exclusion criteria noted, but key inclusion criteria are not met.
 
 [Eligibility Section from Trial]
 (A) sample of hypertensive sibships with at least two members diagnosed with hypertension
@@ -1067,8 +1067,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 2 vs Trial NCT00172419 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has not demonstrated significant extracranial arterial stenosis as the carotid ultrasound showed only 1-39% ICA stenosis, which does not meet the inclusion criteria of ≧50%. Additionally, there is no evidence of angiographically documented coronary artery stenosis of ≧50%, nor is there a history of ischemic stroke, transient ischemic attack, or documented peripheral vascular disease.
+Score: 1
+Reason: Age fits, but inclusion not met: no documented atherosclerosis at required thresholds (carotids 1–39%, no ≥50% CAD, no PVD/stroke/TIA, no aortic atheroma ≥4 mm). LDL >110 mg/dL and untreated status not documented. No clear exclusion criteria triggered.
 
 [Eligibility Section from Trial]
 Inclusion Criteria: Untreated dyslipidemic (LDL cholesterol >110 mg/dl) subjects with
@@ -1088,8 +1088,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00176410 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient presents with severe aortic stenosis (not mild to moderate), which is symptomatic, and has a reduced left ventricular ejection fraction of 25% (below the inclusion criteria minimum of 50%). Such conditions violate the exclusion criteria and do not meet the inclusion criteria of the trial.
+Score: 1
+Reason: Not eligible. The patient has symptomatic, severe/critical aortic stenosis with markedly reduced LVEF (25%) and an indication for valve surgery, violating inclusion (mild–moderate, asymptomatic) and meeting multiple exclusions (symptoms from AS, LVEF <50%, valve disease requiring surgery).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1126,8 +1126,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00247533 ---
 Ground Truth Score: 1
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria as he does not have coronary artery stenosis >50% or carotid/brain artery stenosis >50%. Furthermore, he could potentially be excluded due to the presence of severe co-morbidities such as severe aortic stenosis with LV dysfunction, although specific exclusion due to these conditions wasn't detailed.
+Score: 1
+Reason: Does not meet inclusion criteria—no coronary stenosis >50% (cath showed no flow-limiting CAD) and carotid stenosis only 1–39%. Exclusion criteria not clearly triggered, but patient is ineligible due to failing inclusion.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1146,8 +1146,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00256165 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has significant abnormality in wall motion, which is listed as an exclusion criterion due to severe global hypokinesis demonstrated in the repeat echocardiogram.
+Score: 1
+Reason: Not eligible due to significant wall motion abnormality (severe global hypokinesis, EF 25%), which meets the exclusion criterion. Other criteria appear met (first-time isolated AVR for predominant severe AS, adult, no prior cardiac surgery/revascularization), but the wall motion abnormality excludes him.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1193,8 +1193,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00269165 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria due to age. The inclusion criteria require the patient to be over 75 years old, whereas the patient is 48 years old.
+Score: 1
+Reason: Has severe aortic stenosis with CHF symptoms, but is 48 years old (<75) and lacks documentation of EuroSCORE >7 and surgeon-designated prohibitive surgical risk. Therefore does not meet key inclusion criteria.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1213,8 +1213,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00294775 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has moderate or severe LV systolic dysfunction, evidenced by an LVEF of 25%, which is below the exclusion threshold of 40%.
+Score: 1
+Reason: Patient has symptomatic severe aortic stenosis referred for valve replacement, but is excluded due to moderate/severe LV systolic dysfunction (LVEF 25% < 40%).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1239,8 +1239,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00535899 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has severe aortic stenosis with an ejection fraction of 25%, which meets the inclusion criteria for undergoing aortic valve replacement. There are no exclusion criteria applicable, as creatinine level > 2, more than moderate regurgitation, endocarditis, emergent surgery, and prior sternotomy are not mentioned in the patient profile.
+Score: 2
+Reason: Meets inclusion (severe aortic stenosis with EF 25% and undergoing planned AVR). No exclusions documented: no creatinine >2 reported, regurgitation only mild–moderate (2+ AI, mild MR), no endocarditis, not emergent, no prior sternotomy. Age 48.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1261,8 +1261,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00598754 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is scheduled for surgery for severe aortic stenosis, which aligns with the inclusion criteria of being scheduled for surgery for aortic stenosis or aortic regurgitation. There is no indication in the provided information that the patient has had any previous open heart surgery, which meets the exclusion criteria.
+Score: 2
+Reason: 48-year-old with severe aortic stenosis undergoing preoperative workup for valve replacement (scheduled for surgery); no history of prior open-heart surgery. Meets age and condition criteria.
 
 [Eligibility Section from Trial]
 Patients coming to Cleveland Clinic to have surgery for aortic stenosis or aortic
@@ -1281,8 +1281,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00699452 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has more than mild mitral valve disease, which is an exclusion criterion for the trial. Additionally, the patient has heart failure and requires consideration for urgent valve replacement surgery, potentially excluding him based on the exclusion criterion regarding heart failure requiring urgent surgery.
+Score: 2
+Reason: Symptomatic severe aortic stenosis referred for valve replacement workup; no history of MI, only mild MR, no prior cardiac surgery, no ACEi/ARB use, and no other listed exclusions documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1324,8 +1324,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00767013 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has aortic valve disease (severe aortic stenosis with a bicuspid aortic valve) and is scheduled to undergo cardiac surgery for valve replacement, meeting the inclusion criteria. There is no evidence provided of hemodynamic instability, renal insufficiency, an allergy to iodinated contrast agents, or untreated hyperthyreosis, which are the specified exclusion criteria.
+Score: 2
+Reason: Critical aortic stenosis due to bicuspid valve with planned valve surgery (meets inclusion). No documented hemodynamic instability, no renal insufficiency reported, tolerated iodinated contrast during cath (no allergy), and no hyperthyreosis noted.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1344,8 +1344,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00774657 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a history of wall motion abnormality, as evidenced by the echocardiographic finding of severe global hypokinesis, which meets the exclusion criteria of the trial.
+Score: 1
+Reason: Age-eligible with severe AS, but not isolated (has 2+ aortic regurgitation and mild MR). Also has global LV hypokinesis (wall motion abnormality), which may meet exclusion. No documentation of referral for both 2D and 3D echocardiography.
 
 [Eligibility Section from Trial]
 Lahey Clinic patients who have been referred to the echocardiography lab for clinical
@@ -1369,8 +1369,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00782327 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria as there is no diagnosis of Marfan Syndrome (MFS) or evidence of FBN1 mutations. Additionally, the patient is experiencing heart failure, which is an exclusion criterion.
+Score: 0
+Reason: Trial targets Marfan syndrome (Ghent/FBN1). Patient has bicuspid aortic valve with critical aortic stenosis and heart failure, no evidence of Marfan syndrome. Additionally, heart failure is an exclusion.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1399,8 +1399,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00860678 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does meet the inclusion criteria of having severe valvular aortic stenosis and an indication for valve replacement. However, he is not within the specified age range of 65 to 75 years old, as he is 48 years old. Hence, he does not qualify for the trial based on age exclusion criteria.
+Score: 1
+Reason: Although he has severe aortic stenosis with indication for valve replacement and no CAD requiring bypass, he is 48 years old, which is outside the required 65–75 age range.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1420,8 +1420,8 @@ No
 --- Evaluating Topic 2 vs Trial NCT00965679 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is a 48-year-old male with calcific aortic stenosis, confirmed by echocardiography, who is being considered for valvular replacement. He has undergone a diagnostic cardiac catheterization and cardiac CT, meeting the inclusion criteria. There's no indication from the information provided that he meets any exclusion criteria such as decompensated heart failure, advanced atrioventricular block, asthma, COPD, severe kidney disease, or other specified conditions. Therefore, the patient meets the criteria for either pathway in the clinical trial.
+Score: 2
+Reason: Adult (48) with severe aortic stenosis on echo (bicuspid valve) being evaluated for surgical replacement; underwent diagnostic cardiac catheterization during this admission; had preop CT; no exclusions noted (male, no advanced AV block, no active asthma/COPD on beta agonists, no severe renal disease, and able to undergo CT).
 
 [Eligibility Section from Trial]
 -  INCLUSION CRITERIA:
@@ -1465,8 +1465,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00363662 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a known source for the intraventricular hemorrhage (IVH), which is an untreated arteriovenous malformation (AVM) identified through cerebral angiogram. This meets exclusion criterion A, which disqualifies her from the study.
+Score: 1
+Reason: Not eligible due to exclusion criterion A: angiography identified an untreated AVM as a preexisting source of the IVH. Additionally, admission to Stanford and MRI eligibility are not confirmed.
 
 [Eligibility Section from Trial]
 A total of 180 ICH or IVH patients will be studied. All patients will be inpatients
@@ -1498,8 +1498,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 3 vs Trial NCT00418275 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient had intracranial bleeding (intraventricular hemorrhage) detected on a head CT scan, which is an exclusion criterion. Additionally, the patient has an arteriovenous malformation, which is also listed as an exclusion criterion.
+Score: 0
+Reason: The trial targets acute ischemic stroke; this patient has intraventricular hemorrhage due to a cerebral AVM (hemorrhagic, not ischemic), and also meets exclusions (intracranial bleeding on CT, presence of AVM).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1567,8 +1567,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00449787 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient's headache is secondary to a subarachnoid hemorrhage due to an arteriovenous malformation (AVM), not an acute primary headache. The inclusion criteria specify treatment for acute primary headaches, which she does not have.
+Score: 1
+Reason: Headache is secondary to intraventricular hemorrhage from an AVM, not an acute primary headache, so she fails the inclusion criterion. No evidence of medication allergies/contraindications; age is within range.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1584,8 +1584,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00587054 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient’s condition (arteriovenous malformation with intraventricular hemorrhage) is not relevant to the condition targeted by the clinical trial, which is focused on hematological malignancies such as leukemia, lymphoma, or myelodysplastic syndromes. Furthermore, there is no information provided in the patient profile suggesting a diagnosis of any of these hematological conditions.
+Score: 0
+Reason: The trial targets patients with leukemia/lymphoma/MDS requiring transplant; this patient has intracranial hemorrhage due to AVM with no hematologic malignancy.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1613,8 +1613,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00654563 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has not been diagnosed with a memory disorder nor reported concerns about memory issues, which are required for inclusion in the trial. The trial is specifically for individuals with memory disorders or issues, which does not align with the patient's medical situation involving an arteriovenous malformation and intraventricular hemorrhage.
+Score: 0
+Reason: Patient has AVM-related intraventricular hemorrhage with no documented memory complaints or memory disorder diagnosis, and no indication of being a patient of Dr. Robert Cohen. The case is not relevant to the trial’s memory disorder registry.
 
 [Eligibility Section from Trial]
 The Registry's study population will consist of private patients of Dr. Robert Cohen who
@@ -1642,8 +1642,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00665236 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria for the clinical trial as she does not have a history of migraines with a frequency of 5 to 14 per month or a headache history of more than two years. Instead, she was evaluated for a severe "exploding" headache associated with intraventricular hemorrhage and an underlying AVM, which is unrelated to the migraine condition specified in the trial criteria. Additionally, her recent head trauma further excludes her based on the trial's exclusion criteria.
+Score: 0
+Reason: Trial targets patients with migraine (5–14/month) meeting ICHD criteria and able to attend weekly sessions. This patient has an acute secondary headache from intraventricular hemorrhage due to an AVM, with no migraine history documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1675,8 +1675,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00733382 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient's headache was determined to be due to an intraventricular hemorrhage associated with an AVM (arteriovenous malformation), not a migraine. Therefore, the patient's condition does not meet the inclusion criteria for migraines and is due to another medical condition.
+Score: 0
+Reason: The patient’s headache is due to intraventricular hemorrhage from an AVM (secondary headache), not migraine per IHS criteria. No history of qualifying migraine attacks is documented. While age fits, key inclusion criteria are not met.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1719,8 +1719,8 @@ No
 --- Evaluating Topic 3 vs Trial NCT00760903 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient is diagnosed with an AVM (arteriovenous malformation) and intraventricular hemorrhage, which is considered a large hemorrhage. This is an exclusion criterion as it may interfere with the study. Additionally, the patient's condition does not align with acute moderate brain trauma but rather with spontaneous hemorrhage due to a vascular malformation.
+Score: 1
+Reason: Adult with CT within 24 hours but does not meet inclusion for acute moderate traumatic brain injury; presentation is intraventricular hemorrhage likely from AVM (non-traumatic). Also excluded due to large hemorrhage on CT and underlying neurological condition (AVM).
 
 [Eligibility Section from Trial]
 Have had a clinically ordered CT exam performed within 24 hours of admission to the
@@ -1750,8 +1750,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 3 vs Trial NCT00857662 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The Spetzler-Martin grade of the patient's AVM is not provided, and it's required to determine eligibility. Additionally, the requirement that the benefit of embolization for surgical resection should be greater than the risk if the AVM has a grade of I or II cannot be assessed. These uncertainties prevent confirming eligibility.
+Score: 1
+Reason: Confirmed cerebral AVM by angiography, but key inclusion criteria are not documented: Spetzler-Martin grade, candidacy for surgical resection post-embolization, 24-hour clinical/neurologic stability prior to embolization, consent willingness/ability, and pregnancy status. No clear exclusion is met, but inclusion cannot be confirmed, so not eligible at this time.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1786,8 +1786,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00002471 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria of having newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's lymphoma with CNS involvement, recurrent non-Hodgkin's lymphoma, or specific blood/CSF/lumbar involvement (e.g., LDH levels, bone marrow, or CNS involvement with lymphoblasts). Her primary cardiac lymphoma diagnosis and absence of CNS involvement exclude her from this trial's specified conditions for eligibility.
+Score: 1
+Reason: Newly diagnosed Burkitt’s lymphoma fits disease type, but patient lacks required high LDH (not provided), bone marrow involvement (negative), or CNS involvement (negative CSF and no intracranial mass). Therefore fails mandatory “at least one of” inclusion criteria.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Newly diagnosed undifferentiated nonlymphoblastic non-Hodgkin's
@@ -1809,8 +1809,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00002663 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has Burkitt's lymphoma, which is not indicated to be associated with EBV in this case since there is no mention of EBV positivity in the patient's profile. The trial specifically requires EBV-positive lymphoproliferative diseases or other EBV-associated malignancies for inclusion. Additionally, there is no evidence of the patient being severely immunocompromised with high EBV DNA levels as required by the trial's inclusion criteria.
+Score: 1
+Reason: Burkitt’s lymphoma is present, but there is no documentation of EBV antigen positivity or elevated EBV DNA in an immunocompromised setting; patient is not post-transplant or otherwise severely immunodeficient. Thus, inclusion criteria are not met. No exclusion criteria are triggered.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -1850,8 +1850,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00003337 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has histologically confirmed Burkitt's lymphoma, which falls under the category of B-cell non-Hodgkin's lymphoma, meeting the disease characteristics criterion. Her age is 44 years, which satisfies the age requirement (16 and over). There are no specified exclusions related to her past medical history, performance status, or other patient characteristics provided, which would disqualify her from the study. 
+Score: 1
+Reason: Has eligible diagnosis (Burkitt’s B-cell NHL) and age ≥16, but key required criteria are not documented: ECOG performance status, renal function (BUN/creatinine), pregnancy/contraception status, allergy to mouse proteins, and prior exposure to mouse antibodies/investigational agents. Eligibility cannot be confirmed at this time.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Histologically confirmed B-cell non-Hodgkin's lymphoma (low,
@@ -1880,8 +1880,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00003338 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has not been treated with chemotherapy and/or radiotherapy, and there is no evidence of minimal residual disease by conventional diagnostic modalities as required by the trial's disease characteristics criteria.
+Score: 1
+Reason: Although she has histologically confirmed aggressive B‑cell NHL (Burkitt), the trial requires prior chemotherapy and/or radiotherapy with evidence of minimal residual disease. The patient has no documented prior lymphoma therapy and has active cardiac disease. Other required parameters (renal labs, pregnancy status) are not provided.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Histologically confirmed B-cell non-Hodgkin's lymphoma (low,
@@ -1912,8 +1912,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00003863 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has been diagnosed with Burkitt's lymphoma, which is not listed among the eligible subtypes under the trial's disease characteristics. The eligibility criteria specify aggressive non-Hodgkin's lymphomas such as diffuse large cell lymphoma, mantle cell lymphoma, and others, but not Burkitt's lymphoma. Additionally, there is no indication that the patient has been previously enrolled in the specified CALGB protocols.
+Score: 1
+Reason: Patient has aggressive NHL (Burkitt’s/small noncleaved cell) and is age-eligible, but there is no evidence she was previously enrolled/registered on the required CALGB front-line protocols (59903, 59909, 10002, 50103) or similar (8852, 8854, 9351). Therefore, key inclusion criterion is not met.
 
 [Eligibility Section from Trial]
 Patients diagnosed with non-Hodgkin's lymphoma and previously enrolled on CALGB 59903,
@@ -1942,8 +1942,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00004260 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a history of viral encephalitis/meningitis with resulting intracranial hemorrhage (ICH) and seizure/stroke, which could be considered an autoimmune-related phenomenon or a neurologic condition that is a cause for exclusion. Additionally, the patient's cardiac condition with a pericardial effusion and mass could be seen as heart-related issues which may impact eligibility. Also, the specific exclusion due to CNS involvement by lymphoma cannot be completely dismissed given the patient's previous history, making it crucial to verify their current CNS status.
+Score: 1
+Reason: The patient has aggressive (Burkitt) CD20+ B‑cell NHL but has not received a prior anthracycline-containing regimen, which is required for intermediate/high-grade disease on this trial. Other required baseline parameters (ECOG, labs, HIV/pregnancy status) are not provided. No CNS involvement is noted.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS: Histologically confirmed CD20+ B-cell non-Hodgkin's lymphoma No
@@ -1976,8 +1976,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00005985 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has been diagnosed with primary cardiac lymphoma, which is a form of Burkitt's lymphoma, yet she does not meet any of the specified disease characteristics such as being in remission, in relapse, or with high-risk features as per the trial's criteria. Additionally, the patient has a history of viral encephalitis and seizure/stroke, which may be considered an active degenerative CNS disease, an exclusion criterion in this trial.
+Score: 1
+Reason: Diagnosis (Burkitt’s lymphoma) fits disease type, but the trial requires patients to be in complete/partial remission after initial therapy or post-relapse/incomplete response, and to have received prior chemotherapy. This patient is newly diagnosed with primary cardiac involvement, not yet treated and not in CR/PR. Additionally, cardiac disease criteria may be problematic given recent large pericardial effusion and atrial mass.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -2102,8 +2102,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00008216 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient's condition, primary cardiac lymphoma, does not match any of the specific diseases listed in the eligibility criteria for this clinical trial.
+Score: 1
+Reason: Has a qualifying diagnosis (lymphoma) and is age 44, but there is no indication she is undergoing or scheduled for an allogeneic blood or marrow stem cell transplant, which is required for this trial.
 
 [Eligibility Section from Trial]
 Patients undergoing allogeneic blood or marrow stem cell transplantation (alloSCT).
@@ -2161,8 +2161,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00008307 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has Burkitt's lymphoma, which is a type of lymphoma, and thus potentially meets the disease characteristics. However, the eligibility criteria require specific involvement or morphological evidence typically evaluated through blood, marrow, or lymph node analysis, which the patient lacks since the bone marrow biopsy and lumbar puncture were negative. Additionally, the trial seems oriented towards hematologic malignancies with typical marrow findings or those at high risk, conditions not applicable in this case of primary cardiac lymphoma.
+Score: 1
+Reason: Relevant hematologic malignancy (Burkitt’s lymphoma) and age fit, but key inclusion elements are missing: no documentation of donor availability (syngeneic/HLA-matched/mismatched or unrelated) and no confirmation that she is unwilling or medically unable to undergo high-dose conditioning. Pregnancy status and performance status also not provided.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -2225,8 +2225,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00039130 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has primary cardiac lymphoma, which is not explicitly covered by the trial's eligibility criteria focusing on Burkitt's leukemia or Burkitt-like lymphoma, with specified cytogenetic evidence (t(8;14), t(8;22), or t(2;8)) or L3 morphology surface IgG expression. The patient's disease does not fit the specific types required by the trial, and there is no mention of cytogenetic evidence matching the specified translocations.
+Score: 1
+Reason: Diagnosis is consistent with Burkitt’s lymphoma and age is eligible, but required specifics are missing: no documentation of L3 morphology/surface Ig, no confirmation of t(8;14), t(8;22), or t(2;8) (only “MYC rearrangement” reported), and no baseline labs (bilirubin/creatinine), HIV status, or pregnancy status. Unable to confirm all inclusion criteria; thus not eligible based on available information.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -2272,8 +2272,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00126191 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a history of viral encephalitis/meningitis with residual deficits from a severe sinus infection that caused a stroke. This history could be considered as "serious comorbid disease" under the exclusion criteria, making the patient ineligible for the trial. Additionally, recent infection resulting in meningitis could also pose exclusion concerns related to uncontrolled infections.
+Score: 1
+Reason: Has Burkitt’s lymphoma with measurable cardiac mass and age >18, but required inclusion elements are not documented: BWH pathology review, baseline labs (ANC, platelets, renal/hepatic), HIV status, and cardiac ejection fraction >50%. Without these, the patient does not meet all inclusion criteria. No clear exclusion criterion is met.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2321,8 +2321,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00133991 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has histologically confirmed Burkitt's lymphoma consistent with the criteria for disease characteristics, including no prior chemotherapy for lymphoma and no significant cardiac or renal dysfunction precluding treatment. Additionally, there is no indication of other exclusion criteria such as recent malignancies or HIV positivity.
+Score: 2
+Reason: 44-year-old with newly diagnosed, untreated, histologically confirmed Burkitt’s lymphoma; age ≥30; no prior lymphoma chemo/radiation; no other malignancy; no known HIV, pregnancy, or renal/cardiac dysfunction precluding high-dose cyclophosphamide. Pericardiocentesis acceptable as prior surgery.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -2375,8 +2375,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00180882 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is 44 years old and has histologically confirmed Burkitt lymphoma with primary cardiac involvement as indicated. There is no mention of HIV, HCV, or HBV infection, prior treatment for lymphoma, or any of the exclusion conditions such as severe renal or hepatic failure, previous malignant disease, or immunosuppressive conditions like organ transplant. There's no indication of cardiac disease that contradicts anthracycline chemotherapy, and informed consent can be obtained. Based on the provided information, the patient meets the inclusion criteria and does not meet any of the exclusion criteria.
+Score: 2
+Reason: Meets inclusion: 44 years old with cytology/MYC-rearranged Burkitt lymphoma; treatment-naïve; no indication of ECOG ≥3. No exclusions identified: no known HIV/HBV/HCV, no severe renal/hepatic failure, no prior malignancy/transplant, not pregnant, and no documented cardiac dysfunction that would contraindicate anthracyclines.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2408,8 +2408,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00199082 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has Burkitt's lymphoma, meets the age requirement (greater than 15 years), and there is no indication of any exclusion criteria being met such as serious secondary diseases affecting therapy compliance, HIV, secondary lymphoma, severe allergies, prior chemotherapy beyond the specified limit, pregnancy, or conflicting study participation.
+Score: 2
+Reason: 44-year-old with newly diagnosed Burkitt’s lymphoma meets inclusion (age >15, diagnosis). No evidence of HIV, pregnancy, prior chemotherapy, active second malignancy, severe allergy, or other conditions expected to preclude compliance.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2436,8 +2436,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00203996 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The clinical trial is focused on individuals with PCOS and specific inclusion criteria related to PCOS diagnosis, age, and health conditions. Although the patient has PCOS, her age is 44, which exceeds the maximum age limit of 40 specified in the inclusion criteria. Additionally, the trial seems to be related to PCOS and endocrine health rather than oncology or lymphoma treatment, which is the condition relevant to the patient's current medical situation with Burkitt's lymphoma.
+Score: 1
+Reason: Not eligible due to age >40 years (trial requires 18–40).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2472,8 +2472,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 4 vs Trial NCT00266370 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The clinical trial inclusion criteria require a clinical diagnosis of an infectious disease and lymphoma. Although the patient has Burkitt's lymphoma, there is no current clinical diagnosis of an infectious disease. The patient has a past medical history of viral encephalitis/meningitis, but there is no indication of an ongoing or current infectious disease.
+Score: 1
+Reason: Has lymphoma (Burkitt’s) but no documented current infectious disease; inclusion requires clinical diagnosis of infectious diseases AND lymphoma. No exclusion criteria apply.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2488,8 +2488,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00278408 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not have bulky disease as required by the trial's criteria since the largest single tumor is 3 cm x 1 cm, which is less than 7.5 cm in diameter.
+Score: 1
+Reason: Meets disease type (untreated, CD20+ Burkitt’s lymphoma), age 44, and no CNS involvement, but the cardiac mass is 3 cm (non-bulky). For patients with age-adjusted IPI=0, the trial requires bulky disease (≥7.5 cm). Given localized disease and age ≤60, she is likely IPI 0, thus not eligible. Additionally, key required parameters (ECOG, blood counts, HIV/hepatitis, pregnancy test, cardiac function) are not documented to confirm eligibility.
 
 [Eligibility Section from Trial]
 DISEASE CHARACTERISTICS:
@@ -2544,8 +2544,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00440583 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has primary cardiac lymphoma, specifically Burkitt's lymphoma, whereas the trial is for patients with diffuse large B-cell lymphoma. Additionally, there is no mention of cardiac-specific lymphoma in the eligibility criteria, which specifically requires a histologically confirmed diagnosis of diffuse large B-cell lymphoma.
+Score: 1
+Reason: Not eligible. The patient has Burkitt’s lymphoma (not CD20+ DLBCL required). Diagnosis was from pericardial fluid cytology, which is explicitly inadequate per criteria. Disease appears localized (primary cardiac), not bulky stage II/III/IV as required. Other criteria largely unknown.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2605,8 +2605,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00447304 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient was incidentally found to have a large pericardial effusion related to Burkitt's lymphoma, but the trial is for patients with acute cholecystitis. The patient's primary condition and immediate medical needs do not align with the trial’s focus on acute cholecystitis with specific signs and treatment requirements listed in the inclusion criteria. Additionally, the patient's primary cardiac lymphoma could be considered a significant cardiac disease, which is an exclusion criterion.
+Score: 1
+Reason: Adult with suspected acute cholecystitis, but excluded due to significant cardiac disease (primary cardiac lymphoma with large pericardial effusion and right atrial mass). Other required inclusion details (e.g., diagnostic criteria, immediate moxifloxacin, laparoscopic cholecystectomy within 24 h) are not confirmed.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2648,8 +2648,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00587054 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has been diagnosed with Burkitt's lymphoma, specifically a primary cardiac lymphoma, whereas the trial requires a diagnosis of acute or chronic leukemia, non-Hodgkin's lymphoma, lymphoblastic lymphoma, or myelodysplastic syndrome. Additionally, there is no information on the availability of an HLA matched donor, and active cardiac disease could be considered similar to an active CNS/skin disease which is an exclusion criterion.
+Score: 1
+Reason: Disease and age are appropriate (Burkitt’s lymphoma, 44 years), but key inclusion criteria are not documented: no evidence of an HLA-matched donor, renal/hepatic/cardiac/pulmonary function values, Karnofsky status, or negative pregnancy test. No exclusion criteria clearly apply, but insufficient data to meet required inclusions.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2677,8 +2677,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00669877 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has Burkitt's lymphoma as confirmed by the fluid analysis from the pericardiocentesis, which aligns with the inclusion criterion for Burkitt's or Burkitt-like leukemia and/or lymphoma. The other inclusion criteria such as age and likely Zubrod performance status are met or not exceeded. There are no exclusion criteria provided that would disqualify this patient.
+Score: 2
+Reason: Confirmed Burkitt’s lymphoma (primary cardiac). Age eligible. No exclusion criteria. No indications of poor performance status or organ dysfunction beyond thresholds. Appears eligible pending routine confirmation of ECOG <3 and adequate bilirubin/creatinine.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2701,8 +2701,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00944567 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has primary cardiac lymphoma confirmed as Burkitt's lymphoma, not primary mediastinal diffuse large B-cell lymphoma. The trial requires a dominant mass within the anterior mediastinum, which the patient does not have.
+Score: 0
+Reason: The patient has primary cardiac Burkitt’s lymphoma with a right atrial mass, not primary mediastinal diffuse large B-cell lymphoma with a dominant anterior mediastinal mass. Therefore, the condition is not relevant to this trial.
 
 [Eligibility Section from Trial]
 patient must have histological confirmation of the diagnodis of primary mediastinal diffuse
@@ -2745,8 +2745,8 @@ No
 --- Evaluating Topic 4 vs Trial NCT00949741 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: Although the patient has Burkitt's lymphoma, there is no evidence of leptomeningeal involvement as both the lumbar puncture and bone marrow biopsy were negative. The patient does not meet the inclusion criterion related to leptomeningeal risk factors or involvement of specific sites like the testis, bone marrow, orbit, etc. Additionally, there is no indication of an elevated age-adjusted IPI score or LDH levels necessary for inclusion.
+Score: 2
+Reason: Adult (44) with Burkitt’s lymphoma at diagnosis; CSF evaluated via LP and negative (meets requirement for CSF cytology/flow at diagnosis); no meningeal involvement; DLBCL-specific risk factors not applicable. No exclusion criteria met.
 
 [Eligibility Section from Trial]
 Patients affected by aggressive non-Hodgkin's lymphoma at diagnosis
@@ -2773,8 +2773,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00000469 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has advanced carotid atherosclerosis with significant bilateral carotid stenosis (80% stenosis of the right ICA and 90% left ICA stenosis), which exceeds the "early carotid atherosclerosis" specified in the eligibility criteria. Additionally, there is no information provided about the patient's LDL cholesterol levels to confirm if they fall between the 60th and 90th percentiles. Therefore, the patient does not meet the inclusion criteria.
+Score: 1
+Reason: Age fits (74), but carotid disease is advanced (80–90% stenosis), not “early,” and LDL level is not provided to confirm 60th–90th percentile. Therefore, inclusion criteria are not met.
 
 [Eligibility Section from Trial]
 Men and women with early carotid atherosclerosis and moderately elevated LDL cholesterol
@@ -2788,9 +2788,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00004732 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE
-
-Reason: The patient is considered asymptomatic since his prior cerebrovascular accident (CVA) occurred 10-15 years ago, well beyond the 180 days threshold for recent neurological events. He has significant bilateral carotid stenosis with 80% stenosis in the right internal carotid artery (R ICA) and 90% stenosis in the left internal carotid artery (L ICA), which meets the inclusion criteria for carotid stenosis greater than or equal to 60% by angiography. No exclusion criteria have been identified based on the provided patient profile.
+Score: 2
+Reason: Asymptomatic for >6 months with severe bilateral carotid stenosis by angiography (80% R, 90% L), meeting inclusion for asymptomatic patients (≥60% by angiography). No evidence of recent TIA/stroke, atrial fibrillation, anticoagulation, or other listed exclusions or conditions clearly precluding 4-year survival.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2818,8 +2817,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00005479 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient is over the age limit of 75 years, as he is 74 years old according to the document year ([**2154**]). Additionally, the patient has proteinuria, and the exclusion criteria include urine protein > 2+ on urinalysis or > 1000 mg/24 h.
+Score: 1
+Reason: Has type 2 DM and CAD (prior CABG) and is within age range, but there is no documentation of prior MI or a coronary angiogram or stress perfusion scan within the past year, which is a required inclusion criterion. Additionally, history of proteinuria and anemia may conflict with lab-based exclusions, but levels are not provided.
 
 [Eligibility Section from Trial]
 Individuals with type 2 diabetes mellitus (DM) with or without coronary artery disease
@@ -2854,8 +2853,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00011258 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient meets the criteria for the case group as he has a carotid angiogram revealing an 80% stenosis in the right internal carotid artery and a 90% stenosis in the left internal carotid artery, fulfilling the inclusion criteria for having stenosis greater than or equal to 80% in one or more internal carotid arteries.
+Score: 2
+Reason: Eligible as a case: angiography shows ≥80% internal carotid artery stenosis (80% right ICA, 90% left ICA); no exclusion criteria provided.
 
 [Eligibility Section from Trial]
 Case: Either had a history of surgical carotid endarterectomy or carotid or CT angiogram
@@ -2871,8 +2870,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00106886 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a planned cardiovascular revascularization procedure (due to significant bilateral carotid stenosis), which is an exclusion criterion.
+Score: 2
+Reason: Meets inclusion (age ≥55 with established CAD, PVD, and cerebrovascular disease; also diabetes with HTN). No exclusion criteria documented (no high-dose folate use, no known B-vitamin intolerance, no planned revascularization stated, no significant valvular disease, arrhythmic syncope, uncontrolled HTN, or other limiting illnesses).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -2920,8 +2919,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00106938 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has bilateral carotid stenosis with both internal carotid arteries (ICAs) showing significant stenosis (80% on the right and 90% on the left), which exceeds the limit stipulated in the inclusion criteria (ICAs should not have contralateral stenosis > 60%). Additionally, the patient's age is close to 80, and although he meets the age requirement, this further complicates the situation when combined with his existing stenosis.
+Score: 1
+Reason: Not eligible due to bilateral severe carotid stenosis with contralateral >60% disease (violates Inclusion 8 and meets Exclusion 24). Age 74 and asymptomatic status otherwise fit.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3050,8 +3049,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00125671 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has experienced a prior stroke, but there is uncertainty about the exact timing. If the stroke occurred within the last 6 months, he would be ineligible, as stroke within 6 months is an exclusion criterion. Additionally, the patient has undergone diagnostic procedures (cerebral angiography) recently, which falls under temporary exclusion criteria.
+Score: 2
+Reason: Meets inclusion via significant carotid stenosis/PAD; age 74 within 35–85. No exclusions (stroke >6 months ago; no AF/warfarin indication, dialysis, aneurysm, liver/life-limiting cancer, or bleeding). Eligible assuming no imminent planned vascular procedure.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3096,8 +3095,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00177346 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient is not considered a high-risk candidate for carotid endarterectomy as per the trial's inclusion criteria. Despite having bilateral carotid stenosis over the 70% threshold, he lacks documented high-risk conditions such as cardiac dysfunction with EF <35%, multi-system dysfunction, age over 80 and symptomatic, etc., as per the specified criteria. Moreover, there is no mention of a secondary physician, including a vascular surgeon, documenting the patient as high risk for endarterectomy. Additionally, there's no recent symptomatic event in the ipsilateral carotid artery territory within 120 days prior to the study entry.
+Score: 2
+Reason: Meets inclusion: age 74; severe bilateral ICA stenosis (80% R, 90% L) on angiography; <80 and asymptomatic; high surgical risk for CEA via multisystem comorbidity (cardiac disease s/p CABG, diabetes with complications, PVD, HTN, anemia/proteinuria). No exclusions noted (no recent stroke/ICH, no unstable angina/MI, no thrombus/tortuosity reported, male). Enrollment contingent on standard documentation of high-risk status by physicians per protocol.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3192,8 +3191,8 @@ N/A
 --- Evaluating Topic 5 vs Trial NCT00178451 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a history of CVA (cerebrovascular accident) within two years, which leads to exclusion based on the exclusion criteria specified in the trial protocol.
+Score: 2
+Reason: Meets inclusion: age >18 and asymptomatic >75% bilateral carotid stenosis by angiography. No exclusion met: prior CVA >2 years ago without deficits; no recent bleeding, surgery, thrombocytopenia, severe uncontrolled HTN, or known hypersensitivity; not on oral anticoagulants per record. Pregnancy not applicable. TCD window/abciximab contraindications not reported as issues.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3237,8 +3236,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00180518 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not have any recent (within 180 days) transient ischemic attack (TIA), amaurosis fugax, or minor/non-disabling stroke as required in the inclusion criteria for symptomatic patients. Furthermore, the patient has a significant bilateral carotid stenosis, and if the intervention is planned within the 30-day ARCHeR periprocedure period, this would be an exclusion based on anatomic exclusions criteria.
+Score: 1
+Reason: Although age and angiographic severity (asymptomatic ≥80% ICA stenosis) are met, the patient does not meet Inclusion 6 high-surgical-risk requirements (does not have ≥2 of a–e nor ≥1 of f–q: no recent MI/unstable angina/recent CABG need, no contralateral ICA occlusion, no EF<30%, no dialysis, no uncontrolled diabetes, no prior CEA restenosis, no neck radiation/surgery, etc.). No clear exclusion criteria apply, but failure of Inclusion 6 makes him ineligible.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3369,8 +3368,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00217178 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient satisfies multiple inclusion criteria: he is over 55 years old with a history of coronary artery disease (s/p CABG more than 4 years ago), peripheral vascular disease (significant arterial stenosis on angiography with dizziness, categorizing as intermittent claudication), history of previous ischemic stroke, and diabetes mellitus. There are no noted exclusion criteria applicable to the patient.
+Score: 2
+Reason: Age 74 with multiple qualifying conditions: prior ischemic stroke (cerebrovascular disease), diabetes with additional CV risk factors (HTN, HL), documented CAD (s/p CABG), and PVD; adequate baseline carotid US done. No exclusions documented (no high-dose folate use, no B-vitamin allergy, no stated planned revascularization).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:Women and Men aged ≥ 55 years at high risk for CV events with: (a)
@@ -3397,8 +3396,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00247533 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient meets the inclusion criteria with a history of coronary artery stenosis (CAD s/p CABG) and significant bilateral carotid artery stenosis (80% R ICA and 90% L ICA). No exclusion criteria such as a creatinine level > 2.0 mg/dL or other specified conditions are mentioned in the patient profile.
+Score: 1
+Reason: Meets inclusion (history of significant CAD s/p CABG and bilateral carotid stenosis 80–90%), but excluded due to presence of comorbidities (e.g., diabetes, PVD, hypertension, anemia, prior stroke). Creatinine not provided.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3417,8 +3416,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00271076 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is over 18 years of age and has asymptomatic bilateral carotid stenosis (>75% stenosis in the left internal carotid artery based on ultrasound and angiography). There is no evidence of an acute neurologic event or stroke within the last 30 days. The patient's medical history does not indicate any exclusion criteria such as hemorrhagic disease, intolerance to required medications, or severe chronic renal insufficiency. The patient can provide informed consent.
+Score: 2
+Reason: 74-year-old male with bilateral high-grade carotid stenosis (R ICA 80%, L ICA 90%) meets asymptomatic threshold (≥75%). Imaging (U/S and angiography) confirms disease; no acute neurologic event, no intracranial distal stenosis, no thrombus, no anticoagulation or contrast/heparin/antiplatelet allergies reported, and no evidence of severe renal insufficiency or hemodynamic instability. Bilateral disease can be staged per protocol.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3462,8 +3461,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00316108 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria for symptomatic carotid stenosis as there are no associated cerebral or retinal TIA or ischemic stroke symptoms within 180 days of the procedure. Although the patient does have asymptomatic carotid stenosis greater than 80% in both ICAs, this does not fulfill the symptomatic criteria, and there is no mention of asymptomatic segment diameter measurements to confirm suitability for the trial. Additionally, the patient has a history of prior CVA, but there is no record of a recent stroke within 21 days, which is part of the exclusion criteria but hasn't been violated in this case. However, the lack of certain inclusion measurements and symptomatic documentation renders the patient not eligible.
+Score: 2
+Reason: Asymptomatic with severe bilateral ICA stenosis by angiography (R 80%, L 90%) meeting ≥80% criterion; target lesions in native ICAs; no recent stroke/TIA, no carotid occlusion, no prior carotid stents, no recent MI or surgery. High-risk criteria met via significant CAD s/p CABG and moderate–severe PVD (and diabetes). No exclusions identified.
 
 [Eligibility Section from Trial]
 Key General Inclusion Criteria:
@@ -3525,8 +3524,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00380185 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not appear to have an ankle-brachial index documented in the profile, which is necessary to confirm hemodynamically significant Peripheral Artery Disease (PAD) with an index less than 0.9 as required by the inclusion criteria. Additionally, it's unclear if the patient received a specific referral for an elective coronary angiogram given his past medical records.
+Score: 1
+Reason: Not eligible because key inclusion criteria are not met: no documented ABI <0.9 for PAD and no evidence of referral for or undergoing elective coronary angiography for suspected CAD. No exclusion criteria are identified.
 
 [Eligibility Section from Trial]
 Subjects are recruited from individuals undergoing elective coronary angiography for
@@ -3550,8 +3549,8 @@ Accepts Healthy Volunteers
 --- Evaluating Topic 5 vs Trial NCT00417963 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has asymptomatic carotid stenosis with 80% stenosis on the right and 90% on the left as revealed by angiography, which meets the inclusion criterion for asymptomatic carotid stenosis (≥80% stenosis by angiography without neurological symptoms). The patient is within the eligible age range (18 to 85 years) and does not meet any of the exclusion criteria, such as having symptoms of stroke or TIA within 24 hours of the procedure or displaying severe vascular anatomy that precludes safety.
+Score: 2
+Reason: 74-year-old with bilateral carotid stenosis by angiography (R 80%, L 90%) and no recent neurological symptoms meets asymptomatic ≥80% inclusion. Age within 18–85. No evidence of symptoms within 24 hours, prohibitive tortuosity, or clearly defined “extensive/diffuse” atherosclerosis precluding device use. Comorbidities (CAD/CABG, DM, PVD) further support high surgical risk.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3577,8 +3576,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00536796 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient meets the inclusion criteria as a secondary prevention patient with coronary artery disease (post-CABG), significant carotid artery disease, peripheral vascular disease, hyperlipidemia, and diabetes mellitus type II. The patient is likely on cholesterol-lowering therapy given his profile and medical history, although it's not explicitly mentioned. There are no contraindications or exclusions based on the provided criteria.
+Score: 1
+Reason: Meets secondary prevention criteria (CAD s/p CABG, severe carotid stenosis, PVD, DM2) and age ≥18, but there is no documentation that he is currently receiving cholesterol-lowering therapy, which is required; patients not on such therapy are excluded. If confirmed on lipid-lowering treatment, he would be eligible.
 
 [Eligibility Section from Trial]
 Male and female secondary prevention patients with: coronary disease with event: acute
@@ -3601,8 +3600,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00536965 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient exceeds the age limit of 70 years specified in the inclusion criteria, which makes him ineligible for the trial.
+Score: 1
+Reason: Patient meets disease criteria (type 2 DM, CAD s/p CABG, asymptomatic carotid stenosis ≥70%) but is above the maximum age (74 > 70). Additionally, current cholesterol-lowering therapy is not documented, which is required.
 
 [Eligibility Section from Trial]
 Male and female type II diabetics with: coronary disease with event: acute coronary
@@ -3625,8 +3624,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00619775 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has previously experienced a CVA (stroke) and has bilateral carotid artery disease with significant stenosis, which could meet high-risk criteria. However, there is no specific information provided about the protocol-defined anatomical or clinical high-risk criteria required for inclusion. Additionally, the patient's past CVA and significant comorbidities, including CAD, hypertension, and diabetes, may imply a life expectancy of less than twelve months, which is an exclusion criterion. Without explicit information on the anatomical or clinical high-risk criteria and considering potential life expectancy issues, the patient cannot be accurately deemed eligible.
+Score: 2
+Reason: 74-year-old male with severe bilateral carotid stenosis (R 80%, L 90%) meeting anatomic high-risk criteria; age ≥18; not pregnant; no prior carotid stenting; no concurrent trial participation; no known allergies/contraindications or life expectancy <12 months documented.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3650,8 +3649,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00670202 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient meets the inclusion criteria of being over 18 years old and having significant bilateral carotid stenosis (80% stenosis of the R ICA and 90% L ICA stenosis). There is no indication that the surgery is scheduled within 14 days from randomization, and no information suggests any exclusion criteria (such as pregnancy, high ALT/GGT, high creatinine, statin intolerance, or reluctance to adjust statin therapy) apply to him.
+Score: 1
+Reason: Meets age and ≥70% carotid stenosis criteria, but not documented as scheduled for elective carotid endarterectomy (required inclusion). Surgeon agreement, timing of surgery, liver enzymes, creatinine, and statin tolerance are also not provided. Thus eligibility cannot be confirmed.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3675,8 +3674,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00729040 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient profile provides no details about the patient's level of physical activity or access to a computer, which are important inclusion criteria. Furthermore, the patient's health conditions, like moderate to severe peripheral vascular disease and significant bilateral carotid stenosis, might prevent him from obtaining medical clearance from his treating physician to participate in the trial. His medical profile is complex, including conditions not fitting neatly into the trial's primary focus regarding lifestyle interventions for otherwise sedentary individuals.
+Score: 1
+Reason: Meets condition and age criteria (CAD, Type 2 diabetes, 74y) with no clear exclusions, but key inclusion items are not documented: sedentary status (<150 min/week), access to a compatible Windows computer/USB, regular email use, and ability to communicate in English. Without these, eligibility cannot be confirmed.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3704,8 +3703,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00744523 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has undergone coronary artery bypass graft (CABG) in the past, but the exact timeline is ambiguous as the year is presented as [**2154**], which may suggest a formatting error in the dataset. Regardless, the patient has peripheral vascular disease that could preclude safe femoral artery sheath insertion, which is specifically listed as an exclusion criterion. Additionally, the patient may not meet the high surgical risk criteria, and there is no mention of candidacy specific to the trial requirements for carotid artery stenting.
+Score: 1
+Reason: Does not meet mandatory “high surgical risk” inclusion criterion (not documented), and femoral access candidacy is uncertain given moderate–severe PVD. Vessel diameters for Mo.Ma positioning are not provided. No clear exclusion is met, but required inclusion elements are not confirmed.
 
 [Eligibility Section from Trial]
 General inclusion criteria Subject meets one or more of the high surgical risk criteria.
@@ -3788,8 +3787,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00764985 ---
 Ground Truth Score: 0
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria as they have not been admitted with syncope or near-syncope, conditions required for eligibility in this clinical trial.
+Score: 0
+Reason: The trial targets adults admitted with syncope or near-syncope. This patient reports only occasional dizziness and denies syncope/presyncope; no admission for syncope is noted. Not relevant to the trial’s condition.
 
 [Eligibility Section from Trial]
 All patietns admitted to the adult medicine service at St. Luke's-Roosevelt Hospital with
@@ -3811,8 +3810,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00772278 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient has significant bilateral carotid stenosis (80% R ICA and 90% L ICA) which meets the inclusion requirement of stenosis of 70% or more. Although the patient had a prior CVA, there is no evidence of TIA or CVA originating from the area supplied by the carotid artery under study in the last four months. The age of the patient (74 years old) falls within the permitted age range, and there is no information provided that indicates the patient is unsuitable for operative or endovascular treatment based on the criteria outlined.
+Score: 1
+Reason: Meets stenosis (80–90%) and no TIA/CVA in past 4 months, and age 74 is within typical range. However, there is no documentation that he is suitable for both surgical and endovascular treatment (no anesthesiology assessment and no radiologic confirmation of arch/access, tortuosity, or thrombus). Without confirming this inclusion criterion, he is not eligible.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3838,8 +3837,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00805311 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has a 90% left ICA stenosis, which exceeds the maximum threshold of 79% required by the inclusion criteria for carotid artery stenosis. Additionally, bilateral stenosis with levels exceeding 80% falls outside the defined eligibility requirement for the clinical trial.
+Score: 1
+Reason: Does not meet inclusion criteria specifying 70–79% carotid stenosis on ultrasound; angiography shows 80–90% stenosis and ultrasound severity not quantified to confirm 70–79%. Other exclusions not met.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3876,8 +3875,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00830232 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: ELIGIBLE  
-Reason: The patient is asymptomatic with significant bilateral carotid stenosis (80% R ICA and 90% L ICA) which meets the inclusion criteria for carotid stenosis ≥ 80% as diagnosed by angiography. There are no listed exclusion criteria met in the patient's profile.
+Score: 2
+Reason: Asymptomatic with severe bilateral carotid stenosis by angiography (R ICA 80%, L ICA 90%), meeting the ≥80% asymptomatic criterion. High surgical risk for CEA due to significant comorbidities (CAD s/p CABG, diabetes with end-organ disease, moderate–severe PVD). No exclusion criteria are apparent (no cardiac embolic source, no intracranial pathology, no total occlusion, no noted severe calcification or more severe distal lesion, no planned surgery within 30 days).
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3909,8 +3908,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00860184 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria due to having a 90% stenosis in the left internal carotid artery, which exceeds the required range of 50-79% stenosis for the trial.
+Score: 1
+Reason: Not eligible: carotid stenosis is 80% (R) and 90% (L), exceeding the inclusion range of 50–79%. Age ≥18 and no recent ischemic neuro symptoms are met; no exclusion criteria noted.
 
 [Eligibility Section from Trial]
 Patient referred for ultrasound assessment of carotid artery disease
@@ -3933,8 +3932,8 @@ No
 --- Evaluating Topic 5 vs Trial NCT00919165 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient does not meet the inclusion criteria requiring a baseline Doppler study with a peak systolic velocity of 400 cm/sec. Additionally, the documentation does not confirm that the patient is a right-hand dominant, which is also required by the trial's inclusion criteria.
+Score: 1
+Reason: Relevant severe bilateral ICA stenosis (80–90%) and asymptomatic >6 months; age 74 fits. However, required inclusion details are missing: right-hand dominance, baseline Doppler PSV ≥400 cm/s, TIMI flow, and confirmation he is a stent candidate (and ability to consent/follow-up). No clear exclusion criteria, but cannot confirm all inclusions.
 
 [Eligibility Section from Trial]
 Patients with severe carotid artery stenosis
@@ -3969,8 +3968,8 @@ No
 --- Evaluating Topic 6 vs Trial NCT00155363 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has an active C. diff infection upon admission, which violates the exclusion criterion of "active infection."
+Score: 1
+Reason: Although the patient has ESRD on maintenance dialysis, she has an active C. difficile infection and is hospitalized, both of which are exclusion criteria.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -3988,8 +3987,8 @@ No
 --- Evaluating Topic 6 vs Trial NCT00269399 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient has had a previous episode of clinically diagnosed Clostridium difficile within the past 6 months, which is an exclusion criterion for the trial.
+Score: 1
+Reason: Not eligible due to exclusion criteria: prior clinically diagnosed C. difficile infection within the past 6 months (1 month ago) and receipt of C. difficile therapy (oral vancomycin/metronidazole) prior to randomization. While she meets inclusion (age ≥18, acute diarrhea, positive toxin), these exclusions apply.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -4013,8 +4012,8 @@ No
 --- Evaluating Topic 6 vs Trial NCT00304369 ---
 Ground Truth Score: 2
 LLM Output:
-Decision: NOT_ELIGIBLE  
-Reason: The patient did not receive at least 7 days of metronidazole; the treatment was primarily with oral vancomycin and when metronidazole was used, it was initially administered intravenously.
+Score: 1
+Reason: C. difficile toxin positive and received oral metronidazole (Flagyl), age 55 fits. However, there is no documentation of at least 7 days of metronidazole (prolonged therapy was with oral vancomycin), thus meeting the exclusion criterion.
 
 [Eligibility Section from Trial]
 Inclusion Criteria:
@@ -4029,4 +4028,5 @@ All
 No
 ----------------------------------------
 
-Overall Success Rate: 41.00% (41/100)
+Overall Exact Success Rate (3 categories): 36.00% (36/100)
+Overall Binary Success Rate (Eligible/Not): 47.00% (47/100)

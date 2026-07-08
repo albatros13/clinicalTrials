@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import sys
 
 # Add project root to sys.path to allow importing from api
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 from api.openai import OpenAIClient
 from api.anthropic import AnthropicClient
@@ -59,13 +59,13 @@ Evaluate if the patient described below is eligible for the clinical trial based
 {eligibility_text}
 
 ### Instructions:
-Determine if the patient is eligible. 
-- If the patient is eligible, respond with "ELIGIBLE".
-- If the patient is not eligible (due to exclusion criteria or not meeting inclusion), respond with "NOT_ELIGIBLE".
-- If the patient is not relevant to this trial's condition at all, respond with "NOT_ELIGIBLE".
+Evaluate the patient's eligibility and provide a score:
+- **2**: ELIGIBLE. The patient satisfies all inclusion criteria and no exclusion criteria.
+- **1**: NOT ELIGIBLE. The patient matches one or more exclusion criteria.
+- **0**: NOT RELEVANT. The topic is irrelevant to this trial's condition at all.
 
 Provide your answer in the following format:
-Decision: [ELIGIBLE or NOT_ELIGIBLE]
+Score: [0, 1, or 2]
 Reason: [Short explanation]
 """
     messages = [{"role": "user", "content": prompt}]
@@ -78,8 +78,8 @@ Reason: [Short explanation]
 def main():
     # Configuration
     limit = 100
-    api = "anthropic"
-    output_path = "data/results/evaluation_results.txt"
+    api = "openai"
+    output_path = f"data/results/evaluation_results-{api}.txt"
 
     output_f = None
     if output_path:
@@ -101,9 +101,9 @@ def main():
     qrels = parse_qrels(qrels_path)
 
     if api == "openai":
-        client = OpenAIClient(model="gpt-4o") # Using a known good model
+        client = OpenAIClient() # Uses default gpt-5
     else:
-        client = AnthropicClient(model="claude-3-5-sonnet-20240620")
+        client = AnthropicClient() # Uses default claude-sonnet-4-6
 
     results = []
     processed = 0
@@ -126,16 +126,28 @@ def main():
         log(f"LLM Output:\n{llm_output}")
         
         # Parse decision
-        decision = "NOT_ELIGIBLE"
-        if "Decision: ELIGIBLE" in llm_output:
-            decision = "ELIGIBLE"
+        score = 0
+        for line in llm_output.split('\n'):
+            if line.startswith("Score:"):
+                try:
+                    score = int(line.replace("Score:", "").strip())
+                except:
+                    score = 0
+                break
         
-        # Ground truth: 1 or 2 is eligible, 0 is not
-        gt_eligible = ground_truth > 0
-        llm_eligible = (decision == "ELIGIBLE")
+        # Ground truth check
+        # Exact match (3 categories)
+        is_exact_correct = (score == ground_truth)
         
-        is_correct = (gt_eligible == llm_eligible)
-        results.append(is_correct)
+        # Binary match: 2 is success/relevant, 0 or 1 is not
+        gt_relevant = ground_truth > 1
+        llm_relevant = score > 1
+        is_binary_correct = (gt_relevant == llm_relevant)
+        
+        results.append({
+            'exact': is_exact_correct,
+            'binary': is_binary_correct
+        })
         
         # Print eligibility section as requested
         log("\n[Eligibility Section from Trial]")
@@ -145,8 +157,10 @@ def main():
         processed += 1
 
     if results:
-        success_rate = sum(results) / len(results)
-        log(f"\nOverall Success Rate: {success_rate:.2%} ({sum(results)}/{len(results)})")
+        exact_success_rate = sum(r['exact'] for r in results) / len(results)
+        binary_success_rate = sum(r['binary'] for r in results) / len(results)
+        log(f"\nOverall Exact Success Rate (3 categories): {exact_success_rate:.2%} ({sum(r['exact'] for r in results)}/{len(results)})")
+        log(f"Overall Binary Success Rate (Eligible/Not): {binary_success_rate:.2%} ({sum(r['binary'] for r in results)}/{len(results)})")
     else:
         log("No trials were processed.")
 
