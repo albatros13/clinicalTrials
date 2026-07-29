@@ -2,6 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from glob import glob
 import statistics
+import re
 
 def generate_text_histogram(data, bins=10):
     if not data:
@@ -41,8 +42,11 @@ def compute_stats(directory, output_file=None):
     words_list = []
     tags_list = []
     distinct_tags_list = []
+    nums_list = []
     
     processed_files = 0
+    
+    number_pattern = re.compile(r'\d+(?:\.\d+)?')
 
     for file_path in xml_files:
         try:
@@ -52,6 +56,7 @@ def compute_stats(directory, output_file=None):
             file_words = 0
             file_tags = 0
             file_distinct_tags = set()
+            file_nums = 0
             
             for elem in root.iter():
                 file_tags += 1
@@ -59,12 +64,15 @@ def compute_stats(directory, output_file=None):
                 
                 if elem.text:
                     file_words += len(elem.text.split())
+                    file_nums += len(number_pattern.findall(elem.text))
                 if elem.tail:
                     file_words += len(elem.tail.split())
+                    file_nums += len(number_pattern.findall(elem.tail))
             
             words_list.append(file_words)
             tags_list.append(file_tags)
             distinct_tags_list.append(len(file_distinct_tags))
+            nums_list.append(file_nums)
             processed_files += 1
             
         except Exception as e:
@@ -106,10 +114,22 @@ def compute_stats(directory, output_file=None):
     iqr_distinct_tags = statistics.quantiles(distinct_tags_list, n=4)[2] - statistics.quantiles(distinct_tags_list, n=4)[0] if processed_files > 3 else 0
     p95_distinct_tags = q_distinct_tags[94]
     p99_distinct_tags = q_distinct_tags[98]
+    
+    avg_nums = statistics.mean(nums_list)
+    var_nums = statistics.variance(nums_list) if processed_files > 1 else 0
+    std_nums = statistics.stdev(nums_list) if processed_files > 1 else 0
+    med_nums = statistics.median(nums_list)
+    min_nums = min(nums_list)
+    max_nums = max(nums_list)
+    q_nums = statistics.quantiles(nums_list, n=100) if processed_files > 1 else [med_nums]*99
+    iqr_nums = statistics.quantiles(nums_list, n=4)[2] - statistics.quantiles(nums_list, n=4)[0] if processed_files > 3 else 0
+    p95_nums = q_nums[94]
+    p99_nums = q_nums[98]
 
     results = [
         f"Processed {processed_files} files.",
         f"Words: Mean={avg_words:.2f}, Var={var_words:.2f}, Std={std_words:.2f}, Median={med_words:.2f}, Min={min_words}, Max={max_words}, IQR={iqr_words:.2f}, 95th={p95_words:.2f}, 99th={p99_words:.2f}",
+        f"Numeric Measurements: Mean={avg_nums:.2f}, Var={var_nums:.2f}, Std={std_nums:.2f}, Median={med_nums:.2f}, Min={min_nums}, Max={max_nums}, IQR={iqr_nums:.2f}, 95th={p95_nums:.2f}, 99th={p99_nums:.2f}",
         f"XML Tags: Mean={avg_tags:.2f}, Var={var_tags:.2f}, Std={std_tags:.2f}, Median={med_tags:.2f}, Min={min_tags}, Max={max_tags}, IQR={iqr_tags:.2f}, 95th={p95_tags:.2f}, 99th={p99_tags:.2f}",
         f"Distinct XML Tags: Mean={avg_distinct_tags:.2f}, Var={var_distinct_tags:.2f}, Std={std_distinct_tags:.2f}, Median={med_distinct_tags:.2f}, Min={min_distinct_tags}, Max={max_distinct_tags}, IQR={iqr_distinct_tags:.2f}, 95th={p95_distinct_tags:.2f}, 99th={p99_distinct_tags:.2f}",
         "",
